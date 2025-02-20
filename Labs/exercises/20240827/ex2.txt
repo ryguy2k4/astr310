@@ -1,0 +1,8 @@
+(base) ryansponzilli@wirelessprv-10-194-0-177 ~ % mkdir exercises         
+(base) ryansponzilli@wirelessprv-10-194-0-177 ~ % mkdir exercises/20240827
+(base) ryansponzilli@wirelessprv-10-194-0-177 ~ % mkdir exercises/20240827/blargh1
+(base) ryansponzilli@wirelessprv-10-194-0-177 ~ % mkdir exercises/20240827/blargh2
+(base) ryansponzilli@wirelessprv-10-194-0-177 ~ % touch exercises/20240827/blargh2/foo
+(base) ryansponzilli@wirelessprv-10-194-0-177 ~ % rmdir exercises/20240827/blargh2
+rmdir: exercises/20240827/blargh2: Directory not empty
+

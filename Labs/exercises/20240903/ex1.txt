@@ -1,0 +1,76 @@
+ALMA Digs Deeper into the Mystery of Planet Formation
+28 June, 2023 / Read time: 7 minutes
+
+Scientific Paper
+
+
+An international research team used the Atacama Large 
+Millimeter/submillimeter Array (ALMA) to observe disks around 19 
+protostars with a very high resolution to search for the earliest signs of 
+planet formation. This survey, called "Early Planet Formation in Embedded 
+Disks (eDisk)" and led by Nagayoshi Ohashi at Academia Sinica Institute of 
+Astronomy and Astrophysics (ASIAA, Taiwan), was motivated by the recent 
+findings that planet formation may be well-underway in the more-evolved 
+protoplanetary disks that have been studied in detail with ALMA, but until 
+now there had been no systematic study to search for signs of planet 
+formation in younger protostellar systems.
+
+The origins of our Solar System and extrasolar planetary systems is one of 
+the most important themes in modern astronomy. Our Sun formed about 4.6 
+billion years ago and all Sun-like stars form through a similar process. 
+As part of this process, a disk forms around the newborn star and within 
+these disks planets will form.[1] These protoplanetary disks are expected 
+to only last a few million years, meaning that a forming planetary system 
+only has this amount of time to finish its formation. However, it is still 
+not clear just how rapidly planet formation begins within their disks. 
+Recent ALMA observations have revealed that many protoplanetary disks have 
+substructures such as gaps and rings. This is strong evidence that planets 
+are forming and sweeping up material from the disk. On the other hand, 
+many proto-planetary disks show such signs, suggesting that planet 
+formation is already in progress or has almost completed in the systems we 
+typically refer to as 'protoplanetary disks'. “These previous results 
+motivated us to examine even younger disks around protostars to answer the 
+question, at what stage of star formation do planet forms,” says Ohashi.
+
+With this motivation, the team focused on disks around protostars, systems 
+that are only 10,000 to 100,000 years old, and observed the radio emission 
+emitted from dust grains, i.e., the building blocks of planets, in disks 
+with ALMA. Previous studies have only observed a small handful of 
+protostars with the resolution necessary to detect signs of planet 
+formation. The international team observed disks around 19 protostars 
+located within about 650 light-years from the Earth utilizing the very 
+high angular resolution of ALMA[2] to examine the structure of the 
+protostellar disks in detail. This is the first systematic study to 
+investigate the detailed structure of disks around a large sample of 
+protostars with such a high angular resolution.
+
+The observations confirmed that there are disks around all the protostars, 
+meaning that the minimum conditions for planet formation are already 
+present in these young protostar systems. However, the observations 
+clearly show that the disks around protostars are different from 
+more-evolved protoplanetary disks. Among the 19 protostars, rings, and 
+gaps, which are signs of planet formation, were observed only in a few 
+disks toward the most evolved protostars. Moreover, the ring structures 
+are less distinct than those seen in the protoplanetary disks. It was also 
+found that the dust (building blocks of planets) in many disks, is not 
+settled in the disk midplane. Rather the dust is aloft, above the disk 
+midplane, making the disks appear thick in the vertical direction. In 
+more-evolved disks, in contrast, the dust settles down in the midplane 
+thereby making them appear much thinner. “We did not expect to see such 
+clear differences between disks around protostars and more-evolved disks,” 
+says Ohashi. John Tobin, a Co-PI of the program at the National Radio 
+Astronomical Observatory (USA) adds “Our results suggest that disks around 
+protostars are not fully ready for planet formation. We believe that the 
+actual formation of the planetary system progresses rapidly in the 100,000 
+years to 1,000,000 years after star formation begins”.
+
+Jes Jørgensen, the other Co-PI of the program at the Niels Bohr Institute 
+of University of Copenhagen (Denmark) also mentions the importance of 
+international cooperation in planning and implementing such a large-scale 
+program. “There are 37 researchers from 15 research institutes 
+participating in the international research group that promoted this 
+research. In addition, about half of them are graduate students or young 
+researchers who have recently obtained their Ph.D. This research gives 
+many young researchers the opportunity to participate in large-scale 
+international programs, and it can be said that this program plays a major 
+role in nurturing future research and collaboration.”

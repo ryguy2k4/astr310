@@ -1,0 +1,1545 @@
+JD	Magnitude	Uncertainty	HQuncertainty	Band	Observer Code	Comment Code(s)	Comp Star 1	Comp Star 2	Charts	Comments	Transfomed	Airmass	Validation Flag	Cmag	Kmag	HJD	Star Name	Observer Affiliation	Measurement Method	Grouping Method	ADS Reference	Digitizer	Credit
+2440000.7	9.6			Vis.	AC								V				S VUL		STD				
+2440002.7	10.2			Vis.	HE								V				S VUL		STD				
+2440003.6	8.8			Vis.	SKR								V				S VUL		STD				
+2440010.7	8.7			Vis.	KRS								V				S VUL		STD				
+2440011.8	9.7			Vis.	AC								V				S VUL		STD				
+2440013.8	8.8			Vis.	KRS								V				S VUL		STD				
+2440022.7	9.6			Vis.	AC								V				S VUL		STD				
+2440023.8	9.3			Vis.	CR								V				S VUL		STD				
+2440026.8	9.6			Vis.	AC								V				S VUL		STD				
+2440027.7	9.5			Vis.	AC								V				S VUL		STD				
+2440027.7	10.0			Vis.	HE								V				S VUL		STD				
+2440028.6	9.1			Vis.	LX								V				S VUL		STD				
+2440028.6	9.1			Vis.	OV								V				S VUL		STD				
+2440028.8	8.8			Vis.	FD								V				S VUL		STD				
+2440029.7	9.6			Vis.	AC								V				S VUL		STD				
+2440030.7	8.6			Vis.	KRS								V				S VUL		STD				
+2440031.7	9.6			Vis.	AC								V				S VUL		STD				
+2440034.7	9.6			Vis.	AC								V				S VUL		STD				
+2440035.7	9.6			Vis.	AC								V				S VUL		STD				
+2440036.7	9.6			Vis.	AC								V				S VUL		STD				
+2440036.7	9.1			Vis.	LX								V				S VUL		STD				
+2440036.8	9.6			Vis.	CR								V				S VUL		STD				
+2440038.6	9.6			Vis.	AC								V				S VUL		STD				
+2440039.6	10.0			Vis.	HE								V				S VUL		STD				
+2440040.7	9.5			Vis.	AC								V				S VUL		STD				
+2440042.7	9.5			Vis.	AC								V				S VUL		STD				
+2440042.7	10.0			Vis.	HE								V				S VUL		STD				
+2440043.6	9.6			Vis.	AC								V				S VUL		STD				
+2440044.6	9.0			Vis.	OV								V				S VUL		STD				
+2440046.7	9.6			Vis.	AC								V				S VUL		STD				
+2440047.7	9.5			Vis.	AC								V				S VUL		STD				
+2440048.7	9.6			Vis.	AC								V				S VUL		STD				
+2440052.7	9.6			Vis.	AC								V				S VUL		STD				
+2440053.7	9.6			Vis.	AC								V				S VUL		STD				
+2440054.7	9.6			Vis.	AC								V				S VUL		STD				
+2440056.6	9.6			Vis.	AC								V				S VUL		STD				
+2440056.7	9.7			Vis.	CR								V				S VUL		STD				
+2440057.6	9.6			Vis.	AC								V				S VUL		STD				
+2440057.7	10.1			Vis.	HE								V				S VUL		STD				
+2440058.6	9.5			Vis.	LX								V				S VUL		STD				
+2440058.6	9.2			Vis.	OV								V				S VUL		STD				
+2440058.7	9.7			Vis.	AC								V				S VUL		STD				
+2440059.6	9.4			Vis.	LVT								V				S VUL		STD				
+2440059.7	9.7			Vis.	AC								V				S VUL		STD				
+2440061.7	9.6			Vis.	AC								V				S VUL		STD				
+2440062.8	9.7			Vis.	AC								V				S VUL		STD				
+2440064.6	9.4			Vis.	LVT								V				S VUL		STD				
+2440065.7	9.6			Vis.	AC								V				S VUL		STD				
+2440066.6	9.6			Vis.	AC								V				S VUL		STD				
+2440066.6	9.6			Vis.	LX								V				S VUL		STD				
+2440066.6	9.2			Vis.	OV								V				S VUL		STD				
+2440067.7	9.5			Vis.	LVT								V				S VUL		STD				
+2440068.6	9.6			Vis.	LVT								V				S VUL		STD				
+2440069.7	9.8			Vis.	AC								V				S VUL		STD				
+2440070.7	9.8			Vis.	AC								V				S VUL		STD				
+2440071.7	9.7			Vis.	AC								V				S VUL		STD				
+2440073.7	9.6			Vis.	AC								V				S VUL		STD				
+2440078.6	9.6			Vis.	AC								V				S VUL		STD				
+2440079.7	9.6			Vis.	AC								V				S VUL		STD				
+2440079.7	9.6			Vis.	TJ								V				S VUL		STD				
+2440080.6	9.1			Vis.	OV								V				S VUL		STD				
+2440081.7	9.5			Vis.	AC								V				S VUL		STD				
+2440082.7	9.7			Vis.	AC								V				S VUL		STD				
+2440083.4708	9.0			Vis.	ILS								V				S VUL		STD				
+2440083.5	9.0			Vis.	ILS								V				S VUL		STD				
+2440084.6	9.6			Vis.	AC								V				S VUL		STD				
+2440085.7	9.6			Vis.	AC								V				S VUL		STD				
+2440086.6	9.6			Vis.	AC								V				S VUL		STD				
+2440087.6	9.1			Vis.	OV								V				S VUL		STD				
+2440088.6	9.7			Vis.	AC								V				S VUL		STD				
+2440089.8	9.8			Vis.	AC								V				S VUL		STD				
+2440090.6	9.2			Vis.	LX								V				S VUL		STD				
+2440090.7	9.7			Vis.	AC								V				S VUL		STD				
+2440091.3986	8.8			Vis.	ILS								V				S VUL		STD				
+2440091.4	8.8			Vis.	ILS								V				S VUL		STD				
+2440091.6	9.2			Vis.	TJ								V				S VUL		STD				
+2440091.7	9.7			Vis.	AC								V				S VUL		STD				
+2440094.7	9.6			Vis.	AC								V				S VUL		STD				
+2440095.7	9.8			Vis.	AC								V				S VUL		STD				
+2440096.6	9.0			Vis.	OV								V				S VUL		STD				
+2440097.6	9.7			Vis.	AC								V				S VUL		STD				
+2440097.6	10.0			Vis.	TJ								V				S VUL		STD				
+2440098.7	9.7			Vis.	AC								V				S VUL		STD				
+2440100.6	9.7			Vis.	AC								V				S VUL		STD				
+2440100.6	9.2			Vis.	LX								V				S VUL		STD				
+2440101.8	9.8			Vis.	AC								V				S VUL		STD				
+2440103.6	9.2			Vis.	LX								V				S VUL		STD				
+2440106.4	9.8			Vis.	ILS								V				S VUL		STD				
+2440106.4062	9.9			Vis.	ILS								V				S VUL		STD				
+2440107.6	9.3			Vis.	LX								V				S VUL		STD				
+2440109.6	9.7			Vis.	AC								V				S VUL		STD				
+2440110.6	9.7			Vis.	AC								V				S VUL		STD				
+2440112.6	9.7			Vis.	AC								V				S VUL		STD				
+2440112.6	9.1			Vis.	LX								V				S VUL		STD				
+2440112.6	9.2			Vis.	OV								V				S VUL		STD				
+2440114.6	9.3			Vis.	LX								V				S VUL		STD				
+2440115.7	9.8			Vis.	AC								V				S VUL		STD				
+2440117.6	8.8			Vis.	FD								V				S VUL		STD				
+2440118.6	9.3			Vis.	LX								V				S VUL		STD				
+2440118.7	9.8			Vis.	AC								V				S VUL		STD				
+2440119.6	9.7			Vis.	AC								V				S VUL		STD				
+2440122.5	9.5			Vis.	LX								V				S VUL		STD				
+2440123.6	9.8			Vis.	AC								V				S VUL		STD				
+2440124.7	9.7			Vis.	AC								V				S VUL		STD				
+2440125.7	9.8			Vis.	AC								V				S VUL		STD				
+2440126.7	9.5			Vis.	HR								V				S VUL		STD				
+2440126.8	9.5			Vis.	CR								V				S VUL		STD				
+2440127.6	9.5			Vis.	LX								V				S VUL		STD				
+2440127.7	9.9			Vis.	AC								V				S VUL		STD				
+2440128.6	9.9			Vis.	AC								V				S VUL		STD				
+2440129.6	9.8			Vis.	AC								V				S VUL		STD				
+2440129.6	9.2			Vis.	OV								V				S VUL		STD				
+2440130.6	9.9			Vis.	AC								V				S VUL		STD				
+2440131.6	9.5			Vis.	LX								V				S VUL		STD				
+2440131.7	9.3			Vis.	HE								V				S VUL		STD				
+2440134.6	9.4			Vis.	LX								V				S VUL		STD				
+2440139.6	9.1			Vis.	LX								V				S VUL		STD				
+2440140.6	9.9			Vis.	AC								V				S VUL		STD				
+2440141.6	9.7			Vis.	AC								V				S VUL		STD				
+2440142.6	9.3			Vis.	HE								V				S VUL		STD				
+2440143.5	9.3			Vis.	LX								V				S VUL		STD				
+2440143.6	9.3			Vis.	HE								V				S VUL		STD				
+2440146.6	9.0			Vis.	LX								V				S VUL		STD				
+2440150.5	8.9			Vis.	LX								V				S VUL		STD				
+2440150.5	8.9			Vis.	OV								V				S VUL		STD				
+2440150.6	9.3			Vis.	HE								V				S VUL		STD				
+2440151.6	8.7			Vis.	OV								V				S VUL		STD				
+2440153.5	8.8			Vis.	LX								V				S VUL		STD				
+2440153.5	9.0			Vis.	OV								V				S VUL		STD				
+2440154.7	9.5			Vis.	CR								V				S VUL		STD				
+2440155.6	9.7			Vis.	AC								V				S VUL		STD				
+2440156.6	9.3			Vis.	HE								V				S VUL		STD				
+2440157.6	9.1			Vis.	LX								V				S VUL		STD				
+2440159.6	9.4			Vis.	HE								V				S VUL		STD				
+2440159.6	9.0			Vis.	LX								V				S VUL		STD				
+2440160.6	9.7			Vis.	AC								V				S VUL		STD				
+2440161.6	9.0			Vis.	LX								V				S VUL		STD				
+2440162.6	9.4			Vis.	HE								V				S VUL		STD				
+2440163.5	9.1			Vis.	LX								V				S VUL		STD				
+2440171.5	9.1			Vis.	LX								V				S VUL		STD				
+2440171.7	9.5			Vis.	HE								V				S VUL		STD				
+2440174.6	9.5			Vis.	HE								V				S VUL		STD				
+2440174.6	9.1			Vis.	LX								V				S VUL		STD				
+2440181.6	9.2			Vis.	LX								V				S VUL		STD				
+2440181.7	9.7			Vis.	AC								V				S VUL		STD				
+2440182.6	9.5			Vis.	HE								V				S VUL		STD				
+2440184.6	9.5			Vis.	HE								V				S VUL		STD				
+2440185.2917	9.6			Vis.	LKS								V				S VUL		STD				
+2440187.5	9.7			Vis.	AC								V				S VUL		STD				
+2440188.6	9.7			Vis.	AC								V				S VUL		STD				
+2440193.7	9.5			Vis.	CR								V				S VUL		STD				
+2440196.5	9.6			Vis.	HE								V				S VUL		STD				
+2440197.5	9.5			Vis.	LX								V				S VUL		STD				
+2440198.5	9.7			Vis.	AC								V				S VUL		STD				
+2440198.6	9.6			Vis.	HE								V				S VUL		STD				
+2440199.4	9.5			Vis.	LX								V				S VUL		STD				
+2440200.5	9.6			Vis.	HE								V				S VUL		STD				
+2440215.6	9.7			Vis.	AC								V				S VUL		STD				
+2440264.9	9.7			Vis.	AC								V				S VUL		STD				
+2440265.8	9.7			Vis.	AC								V				S VUL		STD				
+2440298.9	9.6			Vis.	AC								V				S VUL		STD				
+2440300.0	9.5			Vis.	AC								V				S VUL		STD				
+2440323.8	9.4			Vis.	LX								V				S VUL		STD				
+2440330.9	9.6			Vis.	AC								V				S VUL		STD				
+2440332.7	9.5			Vis.	LX								V				S VUL		STD				
+2440332.8	9.3			Vis.	FD								V				S VUL		STD				
+2440334.8	9.6			Vis.	AC								V				S VUL		STD				
+2440335.9	9.6			Vis.	AC								V				S VUL		STD				
+2440336.8	9.6			Vis.	AC								V				S VUL		STD				
+2440336.8	9.3			Vis.	FD								V				S VUL		STD				
+2440340.8	9.6			Vis.	AC								V				S VUL		STD				
+2440351.7	9.8			Vis.	HE								V				S VUL		STD				
+2440353.8	9.6			Vis.	AC								V				S VUL		STD				
+2440354.7	9.5			Vis.	AC								V				S VUL		STD				
+2440355.9	9.4			Vis.	AC								V				S VUL		STD				
+2440361.9	9.4			Vis.	AC								V				S VUL		STD				
+2440366.8	9.7			Vis.	HE								V				S VUL		STD				
+2440372.7	9.3			Vis.	LX								V				S VUL		STD				
+2440376.7	9.2			Vis.	LX								V				S VUL		STD				
+2440377.7	9.3			Vis.	AC								V				S VUL		STD				
+2440380.7	9.4			Vis.	LX								V				S VUL		STD				
+2440382.7	9.5			Vis.	LX								V				S VUL		STD				
+2440382.8	9.4			Vis.	AC								V				S VUL		STD				
+2440384.7	9.4			Vis.	LX								V				S VUL		STD				
+2440385.7	9.4			Vis.	AC								V				S VUL		STD				
+2440386.8	9.7			Vis.	CR								V				S VUL		STD				
+2440387.7	9.4			Vis.	AC								V				S VUL		STD				
+2440389.7	9.4			Vis.	AC								V				S VUL		STD				
+2440389.7	9.3			Vis.	LX								V				S VUL		STD				
+2440394.7	9.6			Vis.	LX								V				S VUL		STD				
+2440401.7	9.6			Vis.	LX								V				S VUL		STD				
+2440402.7	9.4			Vis.	AC								V				S VUL		STD				
+2440403.7	9.4			Vis.	AC								V				S VUL		STD				
+2440404.7	9.5			Vis.	LX								V				S VUL		STD				
+2440405.7	9.4			Vis.	AC								V				S VUL		STD				
+2440408.7	9.3			Vis.	LX								V				S VUL		STD				
+2440411.7	9.3			Vis.	LX								V				S VUL		STD				
+2440417.7	8.6			Vis.	LS								V				S VUL		STD				
+2440417.7	9.1			Vis.	LX								V				S VUL		STD				
+2440419.7	9.2			Vis.	LX								V				S VUL		STD				
+2440422.7	9.4			Vis.	AC								V				S VUL		STD				
+2440426.9	9.5			Vis.	AC								V				S VUL		STD				
+2440427.6	9.2			Vis.	LX								V				S VUL		STD				
+2440435.7	9.5			Vis.	AC								V				S VUL		STD				
+2440438.7	9.5			Vis.	AC								V				S VUL		STD				
+2440439.7	9.5			Vis.	HE								V				S VUL		STD				
+2440444.7	9.7			Vis.	AC								V				S VUL		STD				
+2440445.7	9.3			Vis.	LX								V				S VUL		STD				
+2440453.6	9.4			Vis.	LX								V				S VUL		STD				
+2440454.6	9.7			Vis.	AC								V				S VUL		STD				
+2440456.6	9.5			Vis.	LS								V				S VUL		STD				
+2440456.7	9.7			Vis.	AC								V				S VUL		STD				
+2440465.6	9.7			Vis.	AC								V				S VUL		STD				
+2440467.6	9.7			Vis.	AC								V				S VUL		STD				
+2440471.6	9.6			Vis.	LX								V				S VUL		STD				
+2440474.6	9.6			Vis.	LX								V				S VUL		STD				
+2440477.6	9.5			Vis.	LS								V				S VUL		STD				
+2440479.6	9.2			Vis.	LX								V				S VUL		STD				
+2440481.7	9.7			Vis.	AC								V				S VUL		STD				
+2440483.7	8.6			Vis.	FD								V				S VUL		STD				
+2440483.7	9.0			Vis.	LX								V				S VUL		STD				
+2440485.6	9.0			Vis.	LX								V				S VUL		STD				
+2440487.6	9.0			Vis.	LX								V				S VUL		STD				
+2440491.6	9.1			Vis.	LX								V				S VUL		STD				
+2440493.6	9.0			Vis.	LX								V				S VUL		STD				
+2440495.5	8.9			Vis.	OV								V				S VUL		STD				
+2440497.6	9.7			Vis.	AC								V				S VUL		STD				
+2440499.7	9.0			Vis.	LX								V				S VUL		STD				
+2440500.7	8.6			Vis.	FD								V				S VUL		STD				
+2440503.6	9.2			Vis.	LX								V				S VUL		STD				
+2440503.8	9.4			Vis.	CR								V				S VUL		STD				
+2440509.5	9.1			Vis.	LX								V				S VUL		STD				
+2440512.6	9.2			Vis.	LX								V				S VUL		STD				
+2440512.7	9.7			Vis.	AC								V				S VUL		STD				
+2440517.6	9.3			Vis.	LX								V				S VUL		STD				
+2440522.6	9.4			Vis.	LX								V				S VUL		STD				
+2440523.5	9.9			Vis.	AC								V				S VUL		STD				
+2440525.6	9.5			Vis.	LX								V				S VUL		STD				
+2440530.6	9.9			Vis.	AC								V				S VUL		STD				
+2440538.6	10.0			Vis.	AC								V				S VUL		STD				
+2440541.6	9.5			Vis.	LX								V				S VUL		STD				
+2440547.6	9.1			Vis.	LX								V				S VUL		STD				
+2440548.7	8.8			Vis.	CR								V				S VUL		STD				
+2440550.5	9.0			Vis.	LX								V				S VUL		STD				
+2440554.5	9.1			Vis.	LX								V				S VUL		STD				
+2440554.6	9.7			Vis.	AC								V				S VUL		STD				
+2440562.5	9.0			Vis.	LX								V				S VUL		STD				
+2440570.5	9.8			Vis.	AC								V				S VUL		STD				
+2440576.5	9.3			Vis.	LX								V				S VUL		STD				
+2440580.5	9.2			Vis.	AJR								V				S VUL		STD				
+2440584.5	9.2			Vis.	LX								V				S VUL		STD				
+2440597.5	9.5			Vis.	LX								V				S VUL		STD				
+2440640.0	9.5			Vis.	AC								V				S VUL		STD				
+2440680.9	9.6			Vis.	AC								V				S VUL		STD				
+2440682.9	9.6			Vis.	AC								V				S VUL		STD				
+2440709.9	9.5			Vis.	AC								V				S VUL		STD				
+2440735.7	9.5			Vis.	LX								V				S VUL		STD				
+2440739.8	9.6			Vis.	AC								V				S VUL		STD				
+2440740.6	9.5			Vis.	LX								V				S VUL		STD				
+2440745.6	9.5			Vis.	LX								V				S VUL		STD				
+2440750.7	9.4			Vis.	LX								V				S VUL		STD				
+2440751.7	9.5			Vis.	AC								V				S VUL		STD				
+2440758.7	9.3			Vis.	LX								V				S VUL		STD				
+2440764.7	9.5			Vis.	AC								V				S VUL		STD				
+2440765.7	9.0			Vis.	LX								V				S VUL		STD				
+2440770.7	9.5			Vis.	AC								V				S VUL		STD				
+2440773.6	9.1			Vis.	LX								V				S VUL		STD				
+2440780.6	9.3			Vis.	LX								V				S VUL		STD				
+2440790.7	9.2			Vis.	RNT								V				S VUL		STD				
+2440795.7	9.5			Vis.	CR								V				S VUL		STD				
+2440800.7	9.6			Vis.	AC								V				S VUL		STD				
+2440809.9	9.7			Vis.	AC								V				S VUL		STD				
+2440810.6	9.3			Vis.	LX								V				S VUL		STD				
+2440823.6	8.9			Vis.	LX								V				S VUL		STD				
+2440824.6	9.6			Vis.	AC								V				S VUL		STD				
+2440830.6	9.6			Vis.	AC								V				S VUL		STD				
+2440831.7	8.8			Vis.	AJR								V				S VUL		STD				
+2440833.7	9.6			Vis.	AC								V				S VUL		STD				
+2440834.6	9.1			Vis.	LX								V				S VUL		STD				
+2440841.7	9.0			Vis.	LX								V				S VUL		STD				
+2440849.6	9.1			Vis.	LX								V				S VUL		STD				
+2440855.6	9.1			Vis.	LX								V				S VUL		STD				
+2440864.7	9.3			Vis.	LX								V				S VUL		STD				
+2440878.6	9.3			Vis.	LX								V				S VUL		STD				
+2440879.7	9.2			Vis.	FD								V				S VUL		STD				
+2440883.6	9.2			Vis.	LX								V				S VUL		STD				
+2440886.7	9.1			Vis.	CR								V				S VUL		STD				
+2440888.6	9.0			Vis.	LX								V				S VUL		STD				
+2440895.5	9.6			Vis.	AC								V				S VUL		STD				
+2440907.6	9.3			Vis.	LX								V				S VUL		STD				
+2440910.6	9.1			Vis.	LX								V				S VUL		STD				
+2440914.5	9.3			Vis.	LX								V				S VUL		STD				
+2440925.5	9.3			Vis.	LX								V				S VUL		STD				
+2440948.5	9.4			Vis.	LX								V				S VUL		STD				
+2441006.9	9.6			Vis.	AC								V				S VUL		STD				
+2441012.9	9.6			Vis.	AC								V				S VUL		STD				
+2441030.8	9.5			Vis.	AC								V				S VUL		STD				
+2441045.7	9.1			Vis.	LX								V				S VUL		STD				
+2441045.9	9.5			Vis.	AC								V				S VUL		STD				
+2441049.7	9.1			Vis.	LX								V				S VUL		STD				
+2441063.7	9.4			Vis.	LX								V				S VUL		STD				
+2441076.9	9.5			Vis.	AC								V				S VUL		STD				
+2441089.7	9.1			Vis.	LX								V				S VUL		STD				
+2441094.7	9.0			Vis.	LX								V				S VUL		STD				
+2441108.8	8.8			Vis.	CR								V				S VUL		STD				
+2441108.8	9.3			Vis.	LX								V				S VUL		STD				
+2441113.6	9.4			Vis.	LX								V				S VUL		STD				
+2441114.8	9.4			Vis.	CR								V				S VUL		STD				
+2441119.6	9.3			Vis.	LX								V				S VUL		STD				
+2441121.7	9.3			Vis.	LX								V				S VUL		STD				
+2441125.7	9.6			Vis.	AC								V				S VUL		STD				
+2441134.7	9.5			Vis.	AC								V				S VUL		STD				
+2441135.8	9.4			Vis.	LX								V				S VUL		STD				
+2441137.6	9.5			Vis.	LX								V				S VUL		STD				
+2441138.6	9.4			Vis.	AC								V				S VUL		STD				
+2441140.6	9.5			Vis.	LX								V				S VUL		STD				
+2441145.6	9.6			Vis.	LX								V				S VUL		STD				
+2441149.7	9.5			Vis.	AJR								V				S VUL		STD				
+2441149.7	9.6			Vis.	LX								V				S VUL		STD				
+2441158.6	9.4			Vis.	LX								V				S VUL		STD				
+2441165.6	9.6			Vis.	AC								V				S VUL		STD				
+2441169.6	9.3			Vis.	LX								V				S VUL		STD				
+2441176.6	9.4			Vis.	LX								V				S VUL		STD				
+2441177.7	9.3			Vis.	CR								V				S VUL		STD				
+2441178.6	9.1			Vis.	LX								V				S VUL		STD				
+2441180.6	9.1			Vis.	LX								V				S VUL		STD				
+2441181.6	9.1			Vis.	OV								V				S VUL		STD				
+2441182.6	9.3			Vis.	LX								V				S VUL		STD				
+2441187.6	9.4			Vis.	LX								V				S VUL		STD				
+2441205.6	9.5			Vis.	AC								V				S VUL		STD				
+2441210.6	9.3			Vis.	LX								V				S VUL		STD				
+2441219.7	9.1			Vis.	LX								V				S VUL		STD				
+2441224.5	9.0			Vis.	LX								V				S VUL		STD				
+2441231.6	9.0			Vis.	LX								V				S VUL		STD				
+2441234.8	9.5			Vis.	AC								V				S VUL		STD				
+2441236.6	9.0			Vis.	LX								V				S VUL		STD				
+2441242.6	8.8			Vis.	LX								V				S VUL		STD				
+2441245.5	9.0			Vis.	LX								V				S VUL		STD				
+2441245.8	9.4			Vis.	CR								V				S VUL		STD				
+2441251.5	9.2			Vis.	LX								V				S VUL		STD				
+2441254.6	9.1			Vis.	LX								V				S VUL		STD				
+2441260.6	9.2			Vis.	LX								V				S VUL		STD				
+2441263.6	9.2			Vis.	LX								V				S VUL		STD				
+2441269.5	9.3			Vis.	LX								V				S VUL		STD				
+2441272.5	9.3			Vis.	LX								V				S VUL		STD				
+2441273.7	9.7			Vis.	CR								V				S VUL		STD				
+2441278.5	9.5			Vis.	LX								V				S VUL		STD				
+2441281.5	9.4			Vis.	LX								V				S VUL		STD				
+2441287.5	9.3			Vis.	LX								V				S VUL		STD				
+2441290.5	9.2			Vis.	LX								V				S VUL		STD				
+2441296.6	9.5			Vis.	AC								V				S VUL		STD				
+2441297.5	9.0			Vis.	LX								V				S VUL		STD				
+2441304.5	8.9			Vis.	LX								V				S VUL		STD				
+2441325.5	9.2			Vis.	LX								V				S VUL		STD				
+2441327.5	9.5			Vis.	AC								V				S VUL		STD				
+2441333.5	9.4			Vis.	LX								V				S VUL		STD				
+2441431.0	9.2			Vis.	CR								V				S VUL		STD				
+2441437.7	9.3			Vis.	LX								V				S VUL		STD				
+2441450.7	9.0			Vis.	LX								V				S VUL		STD				
+2441461.6	9.3			Vis.	LX								V				S VUL		STD				
+2441464.7	9.4			Vis.	LX								V				S VUL		STD				
+2441471.6	9.5			Vis.	LX								V				S VUL		STD				
+2441488.4	9.5			Vis.	KSZ								V				S VUL	MCSE	STD				
+2441488.4	8.8			Vis.	MEZ								V				S VUL	MCSE	STD				
+2441491.4	9.4			Vis.	MEZ								V				S VUL	MCSE	STD				
+2441494.4	8.7			Vis.	MEZ								V				S VUL	MCSE	STD				
+2441497.7	9.4			Vis.	CR								V				S VUL		STD				
+2441500.3	9.2			Vis.	MEZ								V				S VUL	MCSE	STD				
+2441500.7	9.0			Vis.	LX								V				S VUL		STD				
+2441521.6	9.4			Vis.	LX								V				S VUL		STD				
+2441526.6	9.5			Vis.	LX								V				S VUL		STD				
+2441545.6	9.5			Vis.	LX								V				S VUL		STD				
+2441549.6	9.5			Vis.	LX								V				S VUL		STD				
+2441561.6	9.4			Vis.	LX								V				S VUL		STD				
+2441562.4	8.6			Vis.	HEV		NA		NA	ARCHIVAL FILE JAM COR 13 S. NAGY			Z				S VUL	MCSE	STD				
+2441563.4	8.6			Vis.	HEV		NA		NA	ARCHIVAL FILE JAM COR 13 S. NAGY			Z				S VUL	MCSE	STD				
+2441567.4	8.6			Vis.	HEV		NA		NA	ARCHIVAL FILE JAM COR 13 S. NAGY			Z				S VUL	MCSE	STD				
+2441567.6	9.0			Vis.	LX								V				S VUL		STD				
+2441568.4	8.6			Vis.	HEV		NA		NA	ARCHIVAL FILE JAM COR 13 S. NAGY			Z				S VUL	MCSE	STD				
+2441570.6	9.0			Vis.	LX								V				S VUL		STD				
+2441575.6	8.6			Vis.	FD								V				S VUL		STD				
+2441576.6	8.9			Vis.	LX								V				S VUL		STD				
+2441583.6	8.9			Vis.	LX								V				S VUL		STD				
+2441608.6	9.4			Vis.	LX								V				S VUL		STD				
+2441616.5	9.5			Vis.	LX								V				S VUL		STD				
+2441616.7	9.8			Vis.	CR								V				S VUL		STD				
+2441621.6	9.3			Vis.	LX								V				S VUL		STD				
+2441625.6	9.3			Vis.	LX								V				S VUL		STD				
+2441632.5	9.1			Vis.	LX								V				S VUL		STD				
+2441634.5	9.2			Vis.	WSN								V				S VUL		STD				
+2441642.5	9.0			Vis.	LX								V				S VUL		STD				
+2441642.7	9.1			Vis.	CR								V				S VUL		STD				
+2441646.6	9.0			Vis.	LX								V				S VUL		STD				
+2441654.5	9.3			Vis.	WSN								V				S VUL		STD				
+2441655.5	9.3			Vis.	LX								V				S VUL		STD				
+2441659.5	9.2			Vis.	LX								V				S VUL		STD				
+2441663.6	9.4			Vis.	LX								V				S VUL		STD				
+2441669.5	9.3			Vis.	LX								V				S VUL		STD				
+2441680.5	9.5			Vis.	LX								V				S VUL		STD				
+2441684.5	9.6			Vis.	LX								V				S VUL		STD				
+2441689.5	9.4			Vis.	LX								V				S VUL		STD				
+2441807.9	9.6			Vis.	WSN								V				S VUL		STD				
+2441811.9	9.4			Vis.	ANN								V				S VUL		STD				
+2441838.8	8.9			Vis.	CR								V				S VUL		STD				
+2441841.8	8.8			Vis.	WSN								V				S VUL		STD				
+2441842.7	9.0			Vis.	LX								V				S VUL		STD				
+2441843.9	8.5			Vis.	ANN								V				S VUL		STD				
+2441851.6	9.1			Vis.	LX								V				S VUL		STD				
+2441859.7	9.3			Vis.	WSN								V				S VUL		STD				
+2441867.7	9.5			Vis.	MAN								V				S VUL		STD				
+2441869.62	9.0			Vis.	AJR								V				S VUL		STD				
+2441870.7	9.4			Vis.	LX								V				S VUL		STD				
+2441871.7	9.3			Vis.	WSN								V				S VUL		STD				
+2441874.63	9.3			Vis.	AJR								V				S VUL		STD				
+2441876.6	9.5			Vis.	LX								V				S VUL		STD				
+2441877.6	9.6			Vis.	MAN								V				S VUL		STD				
+2441880.6	9.5			Vis.	LX								V				S VUL		STD				
+2441885.7	9.7			Vis.	MAN								V				S VUL		STD				
+2441887.6	9.5			Vis.	LX								V				S VUL		STD				
+2441892.8	9.4			Vis.	WSN								V				S VUL		STD				
+2441894.6	9.5			Vis.	LX								V				S VUL		STD				
+2441895.7	9.4			Vis.	MAN								V				S VUL		STD				
+2441897.6	9.4			Vis.	MAN								V				S VUL		STD				
+2441899.6	9.5			Vis.	LX								V				S VUL		STD				
+2441901.6	9.2			Vis.	MAN								V				S VUL		STD				
+2441909.6	9.2			Vis.	MAN								V				S VUL		STD				
+2441913.7	9.2			Vis.	MAN								V				S VUL		STD				
+2441919.7	9.4			Vis.	OCN								V				S VUL		STD				
+2441926.6	9.4			Vis.	MAN								V				S VUL		STD				
+2441927.7	9.2			Vis.	WSN								V				S VUL		STD				
+2441930.6	9.2			Vis.	LX								V				S VUL		STD				
+2441935.6	9.4			Vis.	LX								V				S VUL		STD				
+2441956.7	9.6			Vis.	CR								V				S VUL		STD				
+2441970.5	9.0			Vis.	LX								V				S VUL		STD				
+2441970.6	8.9			Vis.	WSN								V				S VUL		STD				
+2441983.6	9.0			Vis.	LX								V				S VUL		STD				
+2441988.6	9.1			Vis.	LX								V				S VUL		STD				
+2441992.7	9.6			Vis.	CR								V				S VUL		STD				
+2441994.6	9.6			Vis.	MAN								V				S VUL		STD				
+2442004.6	9.4			Vis.	WSN								V				S VUL		STD				
+2442018.5	9.5			Vis.	WSN								V				S VUL		STD				
+2442039.5	9.0			Vis.	LX								V				S VUL		STD				
+2442060.5	9.1			Vis.	LX								V				S VUL		STD				
+2442162.8	9.5			Vis.	WSN								V				S VUL		STD				
+2442165.9	9.6			Vis.	BUO								V				S VUL		STD				
+2442169.91	9.7			Vis.	OCN								V				S VUL		STD				
+2442178.0	9.4			Vis.	BUO								V				S VUL		STD				
+2442186.84	9.4			Vis.	OCN								V				S VUL		STD				
+2442201.6	9.4			Vis.	SHS								V				S VUL		STD				
+2442208.7	9.4			Vis.	WSN								V				S VUL		STD				
+2442213.8	9.8			Vis.	OCN								V				S VUL		STD				
+2442214.4	9.2			Vis.	BAU								V				S VUL		STD				
+2442215.7	9.5			Vis.	WSN								V				S VUL		STD				
+2442216.8	9.7			Vis.	CR								V				S VUL		STD				
+2442220.6	9.2			Vis.	SHS								V				S VUL		STD				
+2442222.8	9.6			Vis.	OCN								V				S VUL		STD				
+2442224.6	9.7			Vis.	SHS								V				S VUL		STD				
+2442224.7	9.5			Vis.	MAN								V				S VUL		STD				
+2442229.6	9.1			Vis.	SHS								V				S VUL		STD				
+2442230.6	9.2			Vis.	LX								V				S VUL		STD				
+2442230.6	8.8			Vis.	SHA								V				S VUL		STD				
+2442232.5	9.2			Vis.	SHS								V				S VUL		STD				
+2442234.6	9.3			Vis.	MAN								V				S VUL		STD				
+2442235.6	9.4			Vis.	SHS								V				S VUL		STD				
+2442239.6	9.0			Vis.	SHS								V				S VUL		STD				
+2442239.8	9.4			Vis.	OCN								V				S VUL		STD				
+2442240.6	9.0			Vis.	SHA								V				S VUL		STD				
+2442241.7	8.7			Vis.	STI								V				S VUL		STD				
+2442241.7	8.9			Vis.	WSN								V				S VUL		STD				
+2442242.6	9.0			Vis.	SHS								V				S VUL		STD				
+2442245.5	9.2			Vis.	SHS								V				S VUL		STD				
+2442245.7	9.3			Vis.	OCN								V				S VUL		STD				
+2442248.6	9.0			Vis.	SHS								V				S VUL		STD				
+2442250.6	9.2			Vis.	LX								V				S VUL		STD				
+2442252.5	9.2			Vis.	SHS								V				S VUL		STD				
+2442252.7	8.8			Vis.	MAN								V				S VUL		STD				
+2442255.7	8.8			Vis.	STI								V				S VUL		STD				
+2442257.5	8.8			Vis.	SHS								V				S VUL		STD				
+2442258.8	9.2			Vis.	NEW								V				S VUL		STD				
+2442260.5	9.2			Vis.	SHS								V				S VUL		STD				
+2442264.7	9.3			Vis.	MAN								V				S VUL		STD				
+2442265.5	9.1			Vis.	SHS								V				S VUL		STD				
+2442265.6	9.3			Vis.	SHA								V				S VUL		STD				
+2442266.7	9.5			Vis.	NEW								V				S VUL		STD				
+2442267.6	9.1			Vis.	LX								V				S VUL		STD				
+2442269.5	9.4			Vis.	SHS								V				S VUL		STD				
+2442271.6	9.3			Vis.	MAN								V				S VUL		STD				
+2442272.5	9.7			Vis.	SHS								V				S VUL		STD				
+2442273.6	9.5			Vis.	NEW								V				S VUL		STD				
+2442275.8	9.4			Vis.	WSN								V				S VUL		STD				
+2442278.5	9.2			Vis.	SHS								V				S VUL		STD				
+2442279.6	9.4			Vis.	SHA								V				S VUL		STD				
+2442281.7	9.5			Vis.	WSN								V				S VUL		STD				
+2442282.5	9.2			Vis.	SHS								V				S VUL		STD				
+2442285.6	9.0			Vis.	SHS								V				S VUL		STD				
+2442290.6	9.4			Vis.	SHS								V				S VUL		STD				
+2442294.6	9.2			Vis.	SHS								V				S VUL		STD				
+2442297.6	9.2			Vis.	SHS								V				S VUL		STD				
+2442300.5	9.3			Vis.	SHS								V				S VUL		STD				
+2442303.5	9.2			Vis.	SHS								V				S VUL		STD				
+2442305.8	9.1			Vis.	STI								V				S VUL		STD				
+2442306.6	8.9			Vis.	LX								V				S VUL		STD				
+2442307.5	9.0			Vis.	SHS								V				S VUL		STD				
+2442308.7	9.0			Vis.	WSN								V				S VUL		STD				
+2442312.6	9.2			Vis.	SHS								V				S VUL		STD				
+2442314.8	9.5			Vis.	CR								V				S VUL		STD				
+2442316.5	9.0			Vis.	SHS								V				S VUL		STD				
+2442317.6	8.9			Vis.	LX								V				S VUL		STD				
+2442324.5	9.0			Vis.	SHS								V				S VUL		STD				
+2442325.6	8.9			Vis.	LX								V				S VUL		STD				
+2442326.7	8.9			Vis.	WSN								V				S VUL		STD				
+2442328.5	9.0			Vis.	SHS								V				S VUL		STD				
+2442333.6	9.0			Vis.	SHS								V				S VUL		STD				
+2442336.7	8.8			Vis.	STI								V				S VUL		STD				
+2442337.4	9.0			Vis.	SHS								V				S VUL		STD				
+2442342.4	9.0			Vis.	SHS								V				S VUL		STD				
+2442345.5	9.0			Vis.	OV								V				S VUL		STD				
+2442347.4	9.1			Vis.	SHS								V				S VUL		STD				
+2442348.6	9.1			Vis.	LX								V				S VUL		STD				
+2442349.7	9.1			Vis.	STI								V				S VUL		STD				
+2442353.5	9.2			Vis.	SHS								V				S VUL		STD				
+2442359.5	9.2			Vis.	SHS								V				S VUL		STD				
+2442359.6	9.0			Vis.	STI								V				S VUL		STD				
+2442360.6	9.4			Vis.	LX								V				S VUL		STD				
+2442365.6	9.4			Vis.	LX								V				S VUL		STD				
+2442370.4	9.0			Vis.	SHS								V				S VUL		STD				
+2442375.5	8.8			Vis.	LX								V				S VUL		STD				
+2442387.5	9.0			Vis.	SHS								V				S VUL		STD				
+2442388.5	9.0			Vis.	LX								V				S VUL		STD				
+2442391.6	9.1			Vis.	WER								V				S VUL		STD				
+2442396.4	9.2			Vis.	SHS								V				S VUL		STD				
+2442396.5	9.1			Vis.	LX								V				S VUL		STD				
+2442398.6	8.8			Vis.	STI								V				S VUL		STD				
+2442404.5	9.2			Vis.	LX								V				S VUL		STD				
+2442409.4	9.1			Vis.	SHS								V				S VUL		STD				
+2442417.5	9.2			Vis.	WER								V				S VUL		STD				
+2442426.4	9.2			Vis.	SHS								V				S VUL		STD				
+2442433.4	9.1			Vis.	SHS								V				S VUL		STD				
+2442487.7	9.1			Vis.	SHS								V				S VUL		STD				
+2442508.7	9.0			Vis.	SHS								V				S VUL		STD				
+2442523.6	9.2			Vis.	SHS								V				S VUL		STD				
+2442528.6	9.3			Vis.	SHS								V				S VUL		STD				
+2442529.8	9.1			Vis.	NEW								V				S VUL		STD				
+2442540.6	9.2			Vis.	SHS								V				S VUL		STD				
+2442543.7	9.5			Vis.	LX								V				S VUL		STD				
+2442546.6	9.0			Vis.	SHS								V				S VUL		STD				
+2442552.5	9.1			Vis.	SHS								V				S VUL		STD				
+2442560.6	9.3			Vis.	SHS								V				S VUL		STD				
+2442560.7	9.2			Vis.	LX								V				S VUL		STD				
+2442571.5	9.0			Vis.	SHS								V				S VUL		STD				
+2442573.7	9.1			Vis.	LX								V				S VUL		STD				
+2442577.6	8.9			Vis.	SHS								V				S VUL		STD				
+2442583.6	9.0			Vis.	SHS								V				S VUL		STD				
+2442584.8	9.0			Vis.	STI								V				S VUL		STD				
+2442586.8	9.2			Vis.	CR								V				S VUL		STD				
+2442589.6	9.0			Vis.	SHS								V				S VUL		STD				
+2442592.7	9.5			Vis.	NEW								V				S VUL		STD				
+2442594.5	9.1			Vis.	SHS								V				S VUL		STD				
+2442595.7	9.3			Vis.	LX								V				S VUL		STD				
+2442599.7	9.2			Vis.	LX								V				S VUL		STD				
+2442600.8	9.4			Vis.	WER								V				S VUL		STD				
+2442601.4	9.6			Vis.	LKS								V				S VUL		STD				
+2442601.5	9.3			Vis.	SHS								V				S VUL		STD				
+2442609.6	9.2			Vis.	SHS								V				S VUL		STD				
+2442612.7	9.2			Vis.	LX								V				S VUL		STD				
+2442614.5	9.1			Vis.	SHS								V				S VUL		STD				
+2442619.6	9.0			Vis.	SHS								V				S VUL		STD				
+2442621.6	9.5			Vis.	LX								V				S VUL		STD				
+2442622.7	9.6			Vis.	WER								V				S VUL		STD				
+2442623.8	9.6			Vis.	NEW								V				S VUL		STD				
+2442624.7	9.6			Vis.	STI								V				S VUL		STD				
+2442625.6	9.2			Vis.	SHS								V				S VUL		STD				
+2442626.6	9.5			Vis.	LX								V				S VUL		STD				
+2442630.6	9.6			Vis.	LX								V				S VUL		STD				
+2442631.6	9.2			Vis.	SHS								V				S VUL		STD				
+2442634.6	9.5			Vis.	LX								V				S VUL		STD				
+2442636.6	9.0			Vis.	SHS								V				S VUL		STD				
+2442640.7	9.4			Vis.	STI								V				S VUL		STD				
+2442641.5	8.9			Vis.	SHS								V				S VUL		STD				
+2442647.6	9.0			Vis.	LX								V				S VUL		STD				
+2442649.5	9.1			Vis.	SHS								V				S VUL		STD				
+2442649.8	9.1			Vis.	WSN								V				S VUL		STD				
+2442652.4	9.3			Vis.	BOH								V				S VUL	AFOEV	STD				
+2442653.4	9.4			Vis.	BOH								V				S VUL	AFOEV	STD				
+2442653.6	8.9			Vis.	LX								V				S VUL		STD				
+2442654.4	9.6			Vis.	BOH								V				S VUL	AFOEV	STD				
+2442658.5	9.1			Vis.	SHS								V				S VUL		STD				
+2442659.6	8.8			Vis.	LX								V				S VUL		STD				
+2442665.5	9.0			Vis.	SHS								V				S VUL		STD				
+2442666.7	9.2			Vis.	STI								V				S VUL		STD				
+2442670.4	9.0			Vis.	SHS								V				S VUL		STD				
+2442677.5	9.0			Vis.	SHS								V				S VUL		STD				
+2442677.6	9.3			Vis.	LX								V				S VUL		STD				
+2442684.5	9.1			Vis.	SHS								V				S VUL		STD				
+2442684.7	9.2			Vis.	HAY								V				S VUL		STD				
+2442686.6	9.4			Vis.	LX								V				S VUL		STD				
+2442689.5	9.5			Vis.	LX								V				S VUL		STD				
+2442689.5	9.2			Vis.	SHS								V				S VUL		STD				
+2442693.7	9.4			Vis.	STI								V				S VUL		STD				
+2442700.4	9.2			Vis.	SHS								V				S VUL		STD				
+2442700.7	9.7			Vis.	CR								V				S VUL		STD				
+2442707.6	9.0			Vis.	LX								V				S VUL		STD				
+2442708.4	9.2			Vis.	SHS								V				S VUL		STD				
+2442713.5	9.0			Vis.	LX								V				S VUL		STD				
+2442713.6	8.8			Vis.	SHS								V				S VUL		STD				
+2442719.5	9.0			Vis.	LX								V				S VUL		STD				
+2442721.4	9.0			Vis.	SHS								V				S VUL		STD				
+2442721.7	9.0			Vis.	WER								V				S VUL		STD				
+2442726.7	9.1			Vis.	STI								V				S VUL		STD				
+2442727.4	9.0			Vis.	SHS								V				S VUL		STD				
+2442728.5	8.9			Vis.	LX								V				S VUL		STD				
+2442732.4	9.2			Vis.	SHS								V				S VUL		STD				
+2442740.4	9.2			Vis.	SHS								V				S VUL		STD				
+2442748.4	9.2			Vis.	SHS								V				S VUL		STD				
+2442748.5	9.3			Vis.	LX								V				S VUL		STD				
+2442753.4	9.2			Vis.	SHS								V				S VUL		STD				
+2442754.5	9.4			Vis.	LX								V				S VUL		STD				
+2442756.6	9.7			Vis.	STI								V				S VUL		STD				
+2442762.6	9.2			Vis.	CR								V				S VUL		STD				
+2442768.4	9.2			Vis.	SHS								V				S VUL		STD				
+2442775.5	9.3			Vis.	LX								V				S VUL		STD				
+2442779.4	9.2			Vis.	SHS								V				S VUL		STD				
+2442779.5	9.0			Vis.	LX								V				S VUL		STD				
+2442782.5	8.9			Vis.	LX								V				S VUL		STD				
+2442786.4	9.0			Vis.	SHS								V				S VUL		STD				
+2442788.5	9.0			Vis.	LX								V				S VUL		STD				
+2442792.4	9.0			Vis.	SHS								V				S VUL		STD				
+2442892.7	9.5			Vis.	LX								V				S VUL		STD				
+2442935.6	9.2			Vis.	LX								V				S VUL		STD				
+2442952.7	9.6			Vis.	STI								V				S VUL		STD				
+2442956.6	9.5			Vis.	LX								V				S VUL		STD				
+2442957.8	9.6			Vis.	WER								V				S VUL		STD				
+2442958.8	9.9			Vis.	KRS								V				S VUL		STD				
+2442965.6	9.6			Vis.	LX								V				S VUL		STD				
+2442968.6	9.4			Vis.	SHS								V				S VUL		STD				
+2442977.6	9.5			Vis.	LX								V				S VUL		STD				
+2442979.7	8.7			Vis.	KRS								V				S VUL		STD				
+2442981.5	9.0			Vis.	SHS								V				S VUL		STD				
+2442983.7	9.2			Vis.	STI								V				S VUL		STD				
+2442993.5	9.0			Vis.	SHS								V				S VUL		STD				
+2442993.6	9.3			Vis.	LX								V				S VUL		STD				
+2442998.7	9.1			Vis.	STI								V				S VUL		STD				
+2443006.6	9.0			Vis.	SHS								V				S VUL		STD				
+2443007.6	9.4			Vis.	LX								V				S VUL		STD				
+2443008.7	9.4			Vis.	OCN								V				S VUL		STD				
+2443011.6	9.4			Vis.	LX								V				S VUL		STD				
+2443014.7	9.3			Vis.	LVY								V				S VUL		STD				
+2443019.5	9.2			Vis.	SHS								V				S VUL		STD				
+2443021.6	9.3			Vis.	LX								V				S VUL		STD				
+2443025.5	9.0			Vis.	SHS								V				S VUL		STD				
+2443030.5	9.1			Vis.	SHS								V				S VUL		STD				
+2443034.6	9.6			Vis.	OCN								V				S VUL		STD				
+2443035.6	9.5			Vis.	LX								V				S VUL		STD				
+2443040.5	9.2			Vis.	SHS								V				S VUL		STD				
+2443040.7	9.5			Vis.	STI								V				S VUL		STD				
+2443046.6	9.1			Vis.	OV								V				S VUL		STD				
+2443047.6	9.1			Vis.	LX								V				S VUL		STD				
+2443051.4	8.9			Vis.	SHS								V				S VUL		STD				
+2443056.5	9.3			Vis.	OCN								V				S VUL		STD				
+2443061.5	9.1			Vis.	LX								V				S VUL		STD				
+2443075.5	9.1			Vis.	LX								V				S VUL		STD				
+2443075.7	9.3			Vis.	STI								V				S VUL		STD				
+2443083.6	9.2			Vis.	SHS								V				S VUL		STD				
+2443086.7	9.4			Vis.	STI								V				S VUL		STD				
+2443097.5	9.3			Vis.	SHS								V				S VUL		STD				
+2443108.5	9.3			Vis.	LX								V				S VUL		STD				
+2443115.6	9.3			Vis.	STI								V				S VUL		STD				
+2443260.46	8.6			Vis.	KSZ								V				S VUL	MCSE	STD				
+2443285.6	9.3			Vis.	POX								V				S VUL		STD				
+2443291.6	9.4			Vis.	SHS								V				S VUL		STD				
+2443304.6	9.4			Vis.	SHS								V				S VUL		STD				
+2443313.8	9.5			Vis.	STI								V				S VUL		STD				
+2443335.7	9.3			Vis.	STI								V				S VUL		STD				
+2443337.5	9.1			Vis.	SHS								V				S VUL		STD				
+2443348.5	9.1			Vis.	SHS								V				S VUL		STD				
+2443368.5	9.2			Vis.	SHS								V				S VUL		STD				
+2443369.1	9.6			Vis.	CR								V				S VUL		STD				
+2443374.6	9.2			Vis.	LX								V				S VUL		STD				
+2443375.8	9.7			Vis.	STI								V				S VUL		STD				
+2443378.6	9.3			Vis.	SHB								V				S VUL		STD				
+2443380.6	9.2			Vis.	SHS								V				S VUL		STD				
+2443398.6	9.0			Vis.	OV								V				S VUL		STD				
+2443404.6	9.4			Vis.	STI								V				S VUL		STD				
+2443417.6	8.8			Vis.	MOL								V				S VUL		STD				
+2443439.7	9.8			Vis.	STI								V				S VUL		STD				
+2443441.6	9.9			Vis.	LVY								V				S VUL		STD				
+2443446.6	9.4			Vis.	MOL								V				S VUL		STD				
+2443449.5	9.4			Vis.	SHS								V				S VUL		STD				
+2443460.7	9.2			Vis.	STI								V				S VUL		STD				
+2443467.5	8.7			Vis.	MOL								V				S VUL		STD				
+2443494.5	9.0			Vis.	MOL								V				S VUL		STD				
+2443620.6426	9.2			Vis.	SHS								V				S VUL		STD				
+2443656.8	9.7			Vis.	STI								V				S VUL		STD				
+2443664.7	9.0			Vis.	WSN								V				S VUL		STD				
+2443665.8	9.4			Vis.	ALG								V				S VUL		STD				
+2443671.6	8.7			Vis.	SHS								V				S VUL		STD				
+2443675.8	9.4			Vis.	STI								V				S VUL		STD				
+2443684.6	9.0			Vis.	SHS								V				S VUL		STD				
+2443694.8	9.6			Vis.	STI								V				S VUL		STD				
+2443695.6	8.8			Vis.	SHS								V				S VUL		STD				
+2443700.7	9.0			Vis.	SHS								V				S VUL		STD				
+2443701.7	9.0			Vis.	LX								V				S VUL		STD				
+2443706.5	9.0			Vis.	SHS								V				S VUL		STD				
+2443714.8	9.6			Vis.	TM								V				S VUL		STD				
+2443720.6	9.0			Vis.	SHS								V				S VUL		STD				
+2443731.5	9.0			Vis.	SHS								V				S VUL		STD				
+2443742.5	9.0			Vis.	SHS								V				S VUL		STD				
+2443743.8	9.2			Vis.	STI								V				S VUL		STD				
+2443752.6	9.0			Vis.	SHS								V				S VUL		STD				
+2443754.6	9.0			Vis.	LX								V				S VUL		STD				
+2443766.7	9.5			Vis.	STI								V				S VUL		STD				
+2443777.5	9.1			Vis.	SHS								V				S VUL		STD				
+2443803.5	9.0			Vis.	LX								V				S VUL		STD				
+2443811.4	8.7			Vis.	SHS								V				S VUL		STD				
+2443814.6	9.2			Vis.	STI								V				S VUL		STD				
+2443823.5	8.7			Vis.	LX								V				S VUL		STD				
+2443911.7	9.4			Vis.	VOL								V				S VUL	AFOEV	STD				
+2444020.5	9.2			Vis.	VOL								V				S VUL	AFOEV	STD				
+2444024.5	8.8			Vis.	SHS								V				S VUL		STD				
+2444031.5	9.1			Vis.	OJR								V				S VUL		STD				
+2444038.6	8.7			Vis.	SHS								V				S VUL		STD				
+2444044.5	9.1			Vis.	OJR								V				S VUL		STD				
+2444060.6	8.8			Vis.	SHS								V				S VUL		STD				
+2444062.5	9.6			Vis.	OJR								V				S VUL		STD				
+2444062.7	9.3			Vis.	LX								V				S VUL		STD				
+2444072.8	8.6			Vis.	TM								V				S VUL		STD				
+2444073.5	9.1			Vis.	OJR								V				S VUL		STD				
+2444073.6	8.8			Vis.	SHS								V				S VUL		STD				
+2444074.7486	9.3			Vis.	HUZ								V				S VUL		STD				
+2444077.4	9.4			Vis.	VOL								V				S VUL	AFOEV	STD				
+2444084.7	8.9			Vis.	WSN								V				S VUL		STD				
+2444087.4	9.0			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444087.5	9.1			Vis.	GRZ								V				S VUL		STD				
+2444090.4	8.8			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444098.4	8.9			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444101.6	8.8			Vis.	SHS								V				S VUL		STD				
+2444108.5	9.1			Vis.	OJR								V				S VUL		STD				
+2444110.4	8.9			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444113.4	9.0			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444115.4	9.6			Vis.	GRZ								V				S VUL		STD				
+2444115.6	9.3			Vis.	LX								V				S VUL		STD				
+2444121.5	9.4			Vis.	SHS								V				S VUL		STD				
+2444128.8	9.5			Vis.	TM								V				S VUL		STD				
+2444133.5	9.0			Vis.	SHS								V				S VUL		STD				
+2444139.73	9.3			Vis.	OCN								V				S VUL		STD				
+2444141.4	8.7			Vis.	OJR								V				S VUL		STD				
+2444141.5	9.0			Vis.	SHS								V				S VUL		STD				
+2444154.7	9.2			Vis.	SC								V				S VUL		STD				
+2444155.3	9.0			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444162.3	8.8			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444168.6	9.5			Vis.	WSN								V				S VUL		STD				
+2444171.3	9.2			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444180.3	8.9			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444189.2	9.4			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444195.2	9.0			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444196.5	9.2			Vis.	SHS								V				S VUL		STD				
+2444200.2	9.4			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444208.2	8.9			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444215.2	8.9			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444404.5	9.2			Vis.	SHS								V				S VUL		STD				
+2444411.5	9.1			Vis.	SHS								V				S VUL		STD				
+2444414.4	9.1			Vis.	OJR								V				S VUL		STD				
+2444423.5	9.0			Vis.	OJR								V				S VUL		STD				
+2444428.6	9.5			Vis.	BWK								V				S VUL		STD				
+2444430.5	9.0			Vis.	SHS								V				S VUL		STD				
+2444431.5	9.2			Vis.	OJR								V				S VUL		STD				
+2444435.7	8.5			Vis.	MDD								V				S VUL		STD				
+2444441.6	9.5			Vis.	BWK								V				S VUL		STD				
+2444444.4	8.6			Vis.	VED								V				S VUL	AFOEV	STD				
+2444444.7	9.3			Vis.	TM								V				S VUL		STD				
+2444445.5	9.3			Vis.	SHS								V				S VUL		STD				
+2444446.4	9.1			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444446.4	8.7			Vis.	VED								V				S VUL	AFOEV	STD				
+2444449.4	9.1			Vis.	VED								V				S VUL	AFOEV	STD				
+2444452.4	8.9			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444454.3	9.2			Vis.	VED								V				S VUL	AFOEV	STD				
+2444455.6	9.3			Vis.	SHS								V				S VUL		STD				
+2444456.4	9.1			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444456.6	9.5			Vis.	BWK								V				S VUL		STD				
+2444457.3	9.1			Vis.	VED								V				S VUL	AFOEV	STD				
+2444459.6	9.3			Vis.	SHS								V				S VUL		STD				
+2444459.8	9.2			Vis.	TM								V				S VUL		STD				
+2444460.5	9.3			Vis.	OJR								V				S VUL		STD				
+2444460.5	9.4			Vis.	SHS								V				S VUL		STD				
+2444462.4	9.2			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444462.4	9.3			Vis.	VED								V				S VUL	AFOEV	STD				
+2444464.5	9.3			Vis.	SHS								V				S VUL		STD				
+2444466.3	9.2			Vis.	VED								V				S VUL	AFOEV	STD				
+2444466.4	9.5			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444467.6	9.2			Vis.	SHS								V				S VUL		STD				
+2444468.6	9.5			Vis.	LX								V				S VUL		STD				
+2444471.4	9.1			Vis.	VED								V				S VUL	AFOEV	STD				
+2444471.7	9.7			Vis.	BWK								V				S VUL		STD				
+2444472.6	9.5			Vis.	SHS								V				S VUL		STD				
+2444474.6	9.1			Vis.	SHS								V				S VUL		STD				
+2444475.5	9.2			Vis.	SHS								V				S VUL		STD				
+2444484.5	9.2			Vis.	OJR								V				S VUL		STD				
+2444485.4	8.7			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444485.6	8.8			Vis.	SHS								V				S VUL		STD				
+2444486.5	8.8			Vis.	SHS								V				S VUL		STD				
+2444487.5	8.7			Vis.	SHS								V				S VUL		STD				
+2444488.5	8.7			Vis.	SHS								V				S VUL		STD				
+2444488.6	9.0			Vis.	BWK								V				S VUL		STD				
+2444490.5	9.0			Vis.	SHS								V				S VUL		STD				
+2444491.6	8.8			Vis.	TM								V				S VUL		STD				
+2444494.4	8.9			Vis.	OJR								V				S VUL		STD				
+2444498.3	8.9			Vis.	VED								V				S VUL	AFOEV	STD				
+2444498.5	8.8			Vis.	SHS								V				S VUL		STD				
+2444501.4	8.8			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444504.3	8.5			Vis.	VED								V				S VUL	AFOEV	STD				
+2444504.5	8.8			Vis.	SHS								V				S VUL		STD				
+2444508.3	9.1			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444509.3	9.1			Vis.	OJR								V				S VUL		STD				
+2444510.6	8.7			Vis.	SHS								V				S VUL		STD				
+2444511.3	8.8			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444512.3	9.0			Vis.	VED								V				S VUL	AFOEV	STD				
+2444512.5	9.5			Vis.	SHS								V				S VUL		STD				
+2444520.3	8.8			Vis.	VED								V				S VUL	AFOEV	STD				
+2444521.4	9.2			Vis.	OJR								V				S VUL		STD				
+2444521.5	9.5			Vis.	BWK								V				S VUL		STD				
+2444530.4	9.2			Vis.	OJR								V				S VUL		STD				
+2444532.3	9.2			Vis.	VED								V				S VUL	AFOEV	STD				
+2444542.3	9.0			Vis.	VED								V				S VUL	AFOEV	STD				
+2444545.6	9.3			Vis.	BWK								V				S VUL		STD				
+2444732.6	9.2			Vis.	SHS								V				S VUL		STD				
+2444759.8	9.4			Vis.	BWK								V				S VUL		STD				
+2444793.4	9.3			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444793.4	8.9			Vis.	VED								V				S VUL	AFOEV	STD				
+2444813.4	9.4			Vis.	SCZ								V				S VUL	AFOEV	STD				
+2444815.4	9.2			Vis.	VED								V				S VUL	AFOEV	STD				
+2444821.4	9.0			Vis.	VED								V				S VUL	AFOEV	STD				
+2444833.3	8.5			Vis.	VED								V				S VUL	AFOEV	STD				
+2444860.6	9.4			Vis.	LX								V				S VUL		STD				
+2444867.6	9.3			Vis.	WSN								V				S VUL		STD				
+2444881.33	9.6			Vis.	LAB								V				S VUL		STD				
+2444885.37	9.0			Vis.	CEA								V				S VUL	AFOEV	STD				
+2444886.5	9.0			Vis.	SHS								V				S VUL		STD				
+2444894.6	9.4			Vis.	MKJ								V				S VUL		STD				
+2444895.6	9.1			Vis.	LX								V				S VUL		STD				
+2444916.6	9.4			Vis.	MKJ								V				S VUL		STD				
+2444942.2	9.5			Vis.	KKF								V				S VUL		STD				
+2444947.2	9.5			Vis.	KKF								V				S VUL		STD				
+2444956.2	9.2			Vis.	KKF								V				S VUL		STD				
+2444978.2	8.5			Vis.	KKF								V				S VUL		STD				
+2444983.2	9.0			Vis.	KKF								V				S VUL		STD				
+2445081.6	9.0			Vis.	SHS								V				S VUL		STD				
+2445087.611	9.3			Vis.	CEA								V				S VUL	AFOEV	STD				
+2445092.6	9.0			Vis.	SHS								V				S VUL		STD				
+2445114.585	8.5			Vis.	CEA								V				S VUL	AFOEV	STD				
+2445129.5	8.7			Vis.	SOZ								V				S VUL	MCSE	STD				
+2445136.457	8.9			Vis.	CEA								V				S VUL	AFOEV	STD				
+2445138.5	9.2			Vis.	OJR								V				S VUL		STD				
+2445139.499	8.8			Vis.	CEA								V				S VUL	AFOEV	STD				
+2445145.5	9.2			Vis.	SHS								V				S VUL		STD				
+2445150.7	9.5			Vis.	BWK								V				S VUL		STD				
+2445151.504	8.9			Vis.	CEA								V				S VUL	AFOEV	STD				
+2445152.5	9.3			Vis.	SHS								V				S VUL		STD				
+2445157.4	9.2			Vis.	VED								V				S VUL	AFOEV	STD				
+2445160.7	9.3			Vis.	MKJ								V				S VUL		STD				
+2445169.49	8.4			Vis.	CEA								V				S VUL	AFOEV	STD				
+2445171.7	9.0			Vis.	SHS								V				S VUL		STD				
+2445172.485	8.9			Vis.	CEA								V				S VUL	AFOEV	STD				
+2445175.8	9.1			Vis.	MKJ								V				S VUL		STD				
+2445177.483	8.6			Vis.	CEA								V				S VUL	AFOEV	STD				
+2445179.7	8.8			Vis.	SHS								V				S VUL		STD				
+2445180.8	9.3			Vis.	BWK								V				S VUL		STD				
+2445193.6	9.0			Vis.	SHS								V				S VUL		STD				
+2445196.7	9.2			Vis.	MKJ								V				S VUL		STD				
+2445200.5	9.2			Vis.	SHS								V				S VUL		STD				
+2445200.6	9.5			Vis.	BWK								V				S VUL		STD				
+2445204.423	9.0			Vis.	CEA								V				S VUL	AFOEV	STD				
+2445210.7	9.2			Vis.	MKJ								V				S VUL		STD				
+2445211.404	9.0			Vis.	CEA								V				S VUL	AFOEV	STD				
+2445222.399	8.9			Vis.	CEA								V				S VUL	AFOEV	STD				
+2445222.5	9.0			Vis.	SHS								V				S VUL		STD				
+2445222.7	9.4			Vis.	MKJ								V				S VUL		STD				
+2445226.7	9.5			Vis.	BWK								V				S VUL		STD				
+2445235.361	8.5			Vis.	CEA								V				S VUL	AFOEV	STD				
+2445236.6	9.1			Vis.	MKJ								V				S VUL		STD				
+2445250.7	9.2			Vis.	BWK								V				S VUL		STD				
+2445253.6	9.1			Vis.	MKJ								V				S VUL		STD				
+2445258.366	8.6			Vis.	CEA								V				S VUL	AFOEV	STD				
+2445260.5	9.4			Vis.	LX								V				S VUL		STD				
+2445266.5	9.5			Vis.	BMW								V				S VUL		STD				
+2445291.6	9.2			Vis.	MKJ								V				S VUL		STD				
+2445472.6	9.2			Vis.	SHS								V				S VUL		STD				
+2445527.4	8.9			Vis.	VED								V				S VUL	AFOEV	STD				
+2445532.3	8.4			Vis.	VED								V				S VUL	AFOEV	STD				
+2445542.4	9.0			Vis.	VED								V				S VUL	AFOEV	STD				
+2445546.4	8.8			Vis.	VED								V				S VUL	AFOEV	STD				
+2445550.3	8.7			Vis.	VED								V				S VUL	AFOEV	STD				
+2445554.5	9.3			Vis.	SHS								V				S VUL		STD				
+2445554.7	9.5			Vis.	BMW								V				S VUL		STD				
+2445555.4	9.1			Vis.	VED								V				S VUL	AFOEV	STD				
+2445580.5	8.6			Vis.	SHS								V				S VUL		STD				
+2445605.3	9.0			Vis.	VED								V				S VUL	AFOEV	STD				
+2445612.8	9.1			Vis.	HK								V				S VUL		STD				
+2445630.3	9.5			Vis.	VED								V				S VUL	AFOEV	STD				
+2445645.3	8.6			Vis.	VED								V				S VUL	AFOEV	STD				
+2445649.2	9.2			Vis.	VED								V				S VUL	AFOEV	STD				
+2445658.2	9.7			Vis.	VED								V				S VUL	AFOEV	STD				
+2445674.2	8.8			Vis.	VED								V				S VUL	AFOEV	STD				
+2445878.4	8.7			Vis.	VED								V				S VUL	AFOEV	STD				
+2445911.5	9.5			Vis.	SHS								V				S VUL		STD				
+2445916.4	9.6			Vis.	SVT								V				S VUL		STD				
+2445916.4	8.7			Vis.	VED								V				S VUL	AFOEV	STD				
+2445955.6	9.6			Vis.	CK								V				S VUL		STD				
+2445965.3	8.8			Vis.	VED								V				S VUL	AFOEV	STD				
+2445973.3	9.1			Vis.	VED								V				S VUL	AFOEV	STD				
+2445993.3	8.5			Vis.	VED								V				S VUL	AFOEV	STD				
+2446016.2	8.7			Vis.	VED								V				S VUL	AFOEV	STD				
+2446031.2	8.8			Vis.	VED								V				S VUL	AFOEV	STD				
+2446040.2	8.9			Vis.	VED								V				S VUL	AFOEV	STD				
+2446215.5	9.0			Vis.	SHS								V				S VUL		STD				
+2446226.5	9.1			Vis.	SHS								V				S VUL		STD				
+2446226.7	9.5			Vis.	RJI								V				S VUL		STD				
+2446241.5	9.0			Vis.	SHS								V				S VUL		STD				
+2446244.4	9.3			Vis.	VED								V				S VUL	AFOEV	STD				
+2446258.4	9.1			Vis.	VED								V				S VUL	AFOEV	STD				
+2446261.5	9.0			Vis.	SHS								V				S VUL		STD				
+2446269.6	9.2			Vis.	SHS								V				S VUL		STD				
+2446271.4	8.7			Vis.	VED								V				S VUL	AFOEV	STD				
+2446279.4	8.5			Vis.	VED								V				S VUL	AFOEV	STD				
+2446294.6	9.0			Vis.	SHS								V				S VUL		STD				
+2446319.3	9.3			Vis.	VED								V				S VUL	AFOEV	STD				
+2446328.6	9.0			Vis.	SHS								V				S VUL		STD				
+2446335.3	8.7			Vis.	VED								V				S VUL	AFOEV	STD				
+2446349.3	8.6			Vis.	VED								V				S VUL	AFOEV	STD				
+2446359.3	8.9			Vis.	VED								V				S VUL	AFOEV	STD				
+2446368.3	9.0			Vis.	VED								V				S VUL	AFOEV	STD				
+2446376.3	9.2			Vis.	VED								V				S VUL	AFOEV	STD				
+2446385.2	9.4			Vis.	VED								V				S VUL	AFOEV	STD				
+2446401.2	9.0			Vis.	VED								V				S VUL	AFOEV	STD				
+2446616.4	8.6			Vis.	VED								V				S VUL	AFOEV	STD				
+2446623.4	8.7			Vis.	VED								V				S VUL	AFOEV	STD				
+2446639.4	8.9			Vis.	VED								V				S VUL	AFOEV	STD				
+2446648.3	9.0			Vis.	VED								V				S VUL	AFOEV	STD				
+2446650.4	9.4			Vis.	VOL								V				S VUL	AFOEV	STD				
+2446652.4	9.3			Vis.	VOL								V				S VUL	AFOEV	STD				
+2446655.5	9.2			Vis.	SHS								V				S VUL		STD				
+2446665.4	9.3			Vis.	VOL								V				S VUL	AFOEV	STD				
+2446673.6	9.5			Vis.	RJI								V				S VUL		STD				
+2446677.4	9.2			Vis.	VOL								V				S VUL	AFOEV	STD				
+2446681.3	8.7			Vis.	VED								V				S VUL	AFOEV	STD				
+2446687.6	8.9			Vis.	SHS								V				S VUL		STD				
+2446694.3	8.7			Vis.	VED								V				S VUL	AFOEV	STD				
+2446700.3	8.8			Vis.	VED								V				S VUL	AFOEV	STD				
+2446707.3	9.0			Vis.	VED								V				S VUL	AFOEV	STD				
+2446730.3	9.0			Vis.	VED								V				S VUL	AFOEV	STD				
+2446732.7	9.4			Vis.	HK								V				S VUL		STD				
+2446739.2	9.2			Vis.	VED								V				S VUL	AFOEV	STD				
+2446739.5	9.2			Vis.	SHS								V				S VUL		STD				
+2446747.2	8.5			Vis.	VED								V				S VUL	AFOEV	STD				
+2446761.2	8.5			Vis.	VED								V				S VUL	AFOEV	STD				
+2446765.4	9.1			Vis.	SHS								V				S VUL		STD				
+2446877.7	8.8			Vis.	SHS								V				S VUL		STD				
+2446910.6	9.0			Vis.	SHS								V				S VUL		STD				
+2446913.9	9.2			Vis.	HK								V				S VUL		STD				
+2446939.6	9.0			Vis.	SHS								V				S VUL		STD				
+2446984.9	9.5			Vis.	HK								V				S VUL		STD				
+2447025.4	9.1			Vis.	VOL								V				S VUL	AFOEV	STD				
+2447042.5	9.0			Vis.	SHS								V				S VUL		STD				
+2447049.3	9.1			Vis.	VOL								V				S VUL	AFOEV	STD				
+2447057.3	9.2			Vis.	VED								V				S VUL	AFOEV	STD				
+2447065.3	9.1			Vis.	VED								V				S VUL	AFOEV	STD				
+2447086.3	9.2			Vis.	VED								V				S VUL	AFOEV	STD				
+2447297.9	9.1			Vis.	HK								V				S VUL		STD				
+2447344.6	9.2			Vis.	SHS								V				S VUL		STD				
+2447347.7	9.3			Vis.	TDB								V				S VUL		STD				
+2447352.4	9.2			Vis.	VED								V				S VUL	AFOEV	STD				
+2447361.4	8.8			Vis.	VED								V				S VUL	AFOEV	STD				
+2447372.4	8.5			Vis.	VED								V				S VUL	AFOEV	STD				
+2447387.8	8.6			Vis.	HK								V				S VUL		STD				
+2447409.8	8.9			Vis.	HK								V				S VUL		STD				
+2447412.3	9.2			Vis.	VED								V				S VUL	AFOEV	STD				
+2447419.5	9.0			Vis.	SHS								V				S VUL		STD				
+2447426.3	9.2			Vis.	VED								V				S VUL	AFOEV	STD				
+2447435.3	8.7			Vis.	VED								V				S VUL	AFOEV	STD				
+2447436.7	8.8			Vis.	HK								V				S VUL		STD				
+2447437.7	8.4			Vis.	HK								V				S VUL		STD				
+2447708.8	9.4			Vis.	TDB								V				S VUL		STD				
+2447709.6	8.7			Vis.	SHS								V				S VUL		STD				
+2447710.5	9.4			Vis.	POX								V				S VUL		STD				
+2447715.8	8.8			Vis.	HK								V				S VUL		STD				
+2447719.88	8.8			Vis.	OCN								V				S VUL		STD				
+2447720.8	8.9			Vis.	TDB								V				S VUL		STD				
+2447739.9	9.7			Vis.	HK								V				S VUL		STD				
+2447747.9	9.2			Vis.	HK								V				S VUL		STD				
+2447760.84	9.6			Vis.	OCN								V				S VUL		STD				
+2447765.5	9.0			Vis.	SHS								V				S VUL		STD				
+2447775.5	9.7			Vis.	POX								V				S VUL		STD				
+2447789.4	8.8			Vis.	POX								V				S VUL		STD				
+2447796.79	8.8			Vis.	OCN								V				S VUL		STD				
+2447797.4	8.9			Vis.	POX								V				S VUL		STD				
+2447808.6	9.2			Vis.	TDB								V				S VUL		STD				
+2447855.3	8.8			Vis.	POX								V				S VUL		STD				
+2448039.5	9.8			Vis.	POX								V				S VUL		STD				
+2448065.8	8.8			Vis.	HK								V				S VUL		STD				
+2448076.6	9.4			Vis.	POX								V				S VUL		STD				
+2448087.6	9.2			Vis.	POX								V				S VUL		STD				
+2448099.5	9.2			Vis.	SHS								V				S VUL		STD				
+2448102.5	9.4			Vis.	POX								V				S VUL		STD				
+2448119.9	8.8			Vis.	HK								V				S VUL		STD				
+2448158.8	9.1			Vis.	HK								V				S VUL		STD				
+2448159.4	9.3			Vis.	POX								V				S VUL		STD				
+2448207.6	8.9			Vis.	HK								V				S VUL		STD				
+2448424.9	8.8			Vis.	HK								V				S VUL		STD				
+2448477.9	9.0			Vis.	HK								V				S VUL		STD				
+2448794.7	9.6			Vis.	SWT								V				S VUL		STD				
+2448802.9	8.7			Vis.	HK								V				S VUL		STD				
+2448825.8	9.3			Vis.	HK								V				S VUL		STD				
+2448842.6	9.9			Vis.	SWT								V				S VUL		STD				
+2448870.6	9.2			Vis.	TDB								V				S VUL		STD				
+2448871.4	8.7			Vis.	CEA								V				S VUL	AFOEV	STD				
+2448877.6	8.9			Vis.	SWT								V				S VUL		STD				
+2448890.6	8.8			Vis.	HK								V				S VUL		STD				
+2449163.8	9.2			Vis.	HK								V				S VUL		STD				
+2449179.7	9.4			Vis.	TDB								V				S VUL		STD				
+2449187.8	9.5			Vis.	HK								V				S VUL		STD				
+2449197.8	9.7			Vis.	FMG								V				S VUL		STD				
+2449539.7806	9.3			Vis.	HK								V				S VUL		STD				
+2449603.4	8.4			Vis.	MJZ								V				S VUL	AFOEV	STD				
+2449621.4	8.7			Vis.	MJZ								V				S VUL	AFOEV	STD				
+2449628.4	8.7			Vis.	MJZ								V				S VUL	AFOEV	STD				
+2449637.4	8.7			Vis.	MJZ								V				S VUL	AFOEV	STD				
+2449657.4	8.7			Vis.	MJZ								V				S VUL	AFOEV	STD				
+2449670.3	8.9			Vis.	MJZ								V				S VUL	AFOEV	STD				
+2449979.6	9.2			Vis.	MKJ								V				S VUL		STD				
+2449991.6	9.3			Vis.	MKJ								V				S VUL		STD				
+2450002.6	9.5			Vis.	MKJ								V				S VUL		STD				
+2450303.3854	9.3			Vis.	MAV								V				S VUL		STD				
+2450323.8	8.6			Vis.	SJE	M							V				S VUL		STD				
+2450331.7	8.9			Vis.	SJE								V				S VUL		STD				
+2450335.7424	9.3			Vis.	HK								V				S VUL		STD				
+2450363.6	9.3			Vis.	SJE								V				S VUL		STD				
+2450373.6	9.4			Vis.	MKJ								V				S VUL		STD				
+2450377.6	8.9			Vis.	SJE	M							V				S VUL		STD				
+2450416.6	9.1			Vis.	SJE								V				S VUL		STD				
+2450640.7	9.4			Vis.	RRB								V				S VUL		STD				
+2450682.7	8.8			Vis.	SJE								V				S VUL		STD				
+2450720.6236	9.5			Vis.	HK								V				S VUL		STD				
+2450756.6660	9.5			Vis.	HK								V				S VUL		STD				
+2450991.8514	8.9			Vis.	HK	S							V				S VUL		STD				
+2451046.5	9.7			Vis.	SZW								V				S VUL		STD				
+2451055.7764	9.1			Vis.	HUZ								V				S VUL		STD				
+2451076.4	9.2			Vis.	SZW								V				S VUL		STD				
+2451314.5	9.3			Vis.	VSB								V				S VUL	AFOEV	STD				
+2451376.7	9.4			Vis.	WI								V				S VUL		STD				
+2451390.7	9.2			Vis.	WI								V				S VUL		STD				
+2451406.7	8.7			Vis.	WI								V				S VUL		STD				
+2451411.6	8.8			Vis.	WI								V				S VUL		STD				
+2451425.6	8.7			Vis.	WI								V				S VUL		STD				
+2451432.7	9.1			Vis.	WI								V				S VUL		STD				
+2451433.8160	9.1			Vis.	LRD								V				S VUL		STD				
+2451438.6	9.1			Vis.	WI								V				S VUL		STD				
+2451456.6	9.1			Vis.	WI								V				S VUL		STD				
+2451469.6	8.8			Vis.	WI								V				S VUL		STD				
+2451657.9	9.3			Vis.	WI								V				S VUL		STD				
+2451694.9222	9.3			Vis.	HK								V				S VUL		STD				
+2451780.351	9.4			Vis.	LTO								V				S VUL		STD				
+2451815.34	8.9			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451816.27	9.5			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451817.26	8.9			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451819.25	8.6			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451821.27	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451823.25	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451825.27	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451838.34	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451841.25	9.1			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451842.21	9.2			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451843.22	9.4			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451847.16	9.3			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451850.19	9.4			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451850.19	9.7			Vis.	MXA	K							V				S VUL	AFOEV	STD				
+2451850.22	9.4			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451865.19	9.3			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451865.19	9.3			Vis.	MXA	K							V				S VUL	AFOEV	STD				
+2451868.21	9.2			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451868.21	9.2			Vis.	MXA	K							V				S VUL	AFOEV	STD				
+2451896.2	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451896.2	9.0			Vis.	MXA	K							V				S VUL	AFOEV	STD				
+2451902.2	9.0			Vis.	MXA	K							V				S VUL	AFOEV	STD				
+2451902.21	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451930.17	9.1			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451933.18	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451934.17	9.1			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451935.16	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451960.584	9.0			Vis.	KMM		89	91	AAVSO				V				S VUL		STD				
+2451998.55	9.2			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2451999.47	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452000.53	9.4			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452046.45	9.2			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452047.45	9.2			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452050.5	9.0			Vis.	VED								V				S VUL	AFOEV	STD				
+2452053.443	9.3			Vis.	LTO	G							V				S VUL		STD				
+2452055.43	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452056.45	9.2			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452058.5	9.4			Vis.	VED								V				S VUL	AFOEV	STD				
+2452059.39	9.2			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452060.4	9.4			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452072.5	9.0			Vis.	VED								V				S VUL	AFOEV	STD				
+2452075.43	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452079.39	9.1			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452080.39	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452080.4	8.8			Vis.	VED								V				S VUL	AFOEV	STD				
+2452089.5	8.7			Vis.	VED								V				S VUL	AFOEV	STD				
+2452102.33	9.0			Vis.	MVR								V				S VUL	AFOEV	STD				
+2452104.36	9.0			Vis.	MVR								V				S VUL	AFOEV	STD				
+2452105.34	9.0			Vis.	MVR								V				S VUL	AFOEV	STD				
+2452108.35	9.0			Vis.	MVR								V				S VUL	AFOEV	STD				
+2452108.437	9.2			Vis.	LTO								V				S VUL		STD				
+2452115.33	9.0			Vis.	MVR								V				S VUL	AFOEV	STD				
+2452116.40	9.2			Vis.	MVR								V				S VUL	AFOEV	STD				
+2452116.521	9.3			Vis.	LTO								V				S VUL		STD				
+2452118.408	9.2			Vis.	LTO								V				S VUL		STD				
+2452132.38	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452133.39	9.1			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452134.35	9.2			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452135.38	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452137.29	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452139.36	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452139.5	9.1			Vis.	VED								V				S VUL	AFOEV	STD				
+2452140.38	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452143.349	9.1			Vis.	LTO	GK							V				S VUL		STD				
+2452144.32	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452145.35	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452146.33	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452147.28	8.9			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452148.27	8.9			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452148.332	8.8			Vis.	LTO	GK							V				S VUL		STD				
+2452149.33	8.9			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452150.4	9.0			Vis.	VED								V				S VUL	AFOEV	STD				
+2452163.36	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452164.30	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452165.25	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452165.6	9.3			Vis.	KRS								V				S VUL		STD				
+2452166.26	8.9			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452167.30	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452170.27	8.9			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452172.36	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452177.319	9.3			Vis.	LTO								V				S VUL		STD				
+2452178.315	9.3			Vis.	LTO								V				S VUL		STD				
+2452185.306	9.0			Vis.	LTO								V				S VUL		STD				
+2452185.5	9.2			Vis.	VED								V				S VUL	AFOEV	STD				
+2452190.27	9.4			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452191.25	9.2			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452192.27	9.4			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452192.4	9.2			Vis.	VED								V				S VUL	AFOEV	STD				
+2452195.27	9.3			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452206.3	9.2			Vis.	VED								V				S VUL	AFOEV	STD				
+2452220.18	8.9			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452223.3	9.0			Vis.	VED								V				S VUL	AFOEV	STD				
+2452248.2	9.3			Vis.	MXA	K							V				S VUL	AFOEV	STD				
+2452248.21	9.2			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452249.15	9.4			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452249.2	9.3			Vis.	MXA	K							V				S VUL	AFOEV	STD				
+2452251.15	9.4			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452251.2	9.4			Vis.	MXA	K							V				S VUL	AFOEV	STD				
+2452252.15	9.4			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452252.2	9.4			Vis.	MXA	K							V				S VUL	AFOEV	STD				
+2452252.3	9.2			Vis.	VED								V				S VUL	AFOEV	STD				
+2452282.18	8.9			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452282.2	9.0			Vis.	MXA	K							V				S VUL	AFOEV	STD				
+2452283.18	9.0			Vis.	MVR	K							V				S VUL	AFOEV	STD				
+2452283.2	9.0			Vis.	MXA	K							V				S VUL	AFOEV	STD				
+2452400.4215	9.8			Vis.	HBL		84	94	TYCHO2				V				S VUL		STD				
+2452401.4576	9.8			Vis.	HBL		84	94	TYCHO2				V				S VUL		STD				
+2452410.4319	9.7			Vis.	HBL		84	94	TYCHO2				V				S VUL		STD				
+2452411.4250	9.6			Vis.	HBL		84	94	TYCHO2				V				S VUL		STD				
+2452412.4472	9.6			Vis.	HBL		84	94	TYCHO2				V				S VUL		STD				
+2452423.3944	9.2			Vis.	HBL		84	94	TYCHO2				V				S VUL		STD				
+2452424.4486	9.1			Vis.	HBL		84	94	TYCHO2				V				S VUL		STD				
+2452425.5	8.6			Vis.	VED								V				S VUL	AFOEV	STD				
+2452426.4076	9.1			Vis.	HBL		84	94	TYCHO2				V				S VUL		STD				
+2452427.3882	9.1			Vis.	HBL		84	94	TYCHO2				V				S VUL		STD				
+2452437.4667	9.1			Vis.	HBL		84	94	TYCHO2				V				S VUL		STD				
+2452440.4840	9.2			Vis.	HBL		84	94	TYCHO2				V				S VUL		STD				
+2452442.4090	9.5			Vis.	HBL		84	94	TYCHO2				V				S VUL		STD				
+2452469.8	9.1			Vis.	KRS								V				S VUL		STD				
+2452503.4	8.8			Vis.	ACH								V				S VUL	AFOEV	STD				
+2452513.7	9.0			Vis.	KRS								V				S VUL		STD				
+2452518.4	8.9			Vis.	BXN								V				S VUL	AFOEV	STD				
+2452521.3	9.5			Vis.	BXN								V				S VUL	AFOEV	STD				
+2452530.317	9.0			Vis.	LTO	GK	8.0/9.6		SAO/GSC				V				S VUL		STD				
+2452548.5	9.3			Vis.	VED								V				S VUL	AFOEV	STD				
+2452556.4	9.0			Vis.	VED								V				S VUL	AFOEV	STD				
+2452579.5	9.0			Vis.	VED								V				S VUL	AFOEV	STD				
+2452598.3	9.0			Vis.	VED								V				S VUL	AFOEV	STD				
+2452606.4	9.5			Vis.	VED								V				S VUL	AFOEV	STD				
+2452811.5	9.2			Vis.	VED								V				S VUL	AFOEV	STD				
+2452826.5	8.7			Vis.	VED								V				S VUL	AFOEV	STD				
+2452834.5	8.8			Vis.	VED								V				S VUL	AFOEV	STD				
+2452843.5	8.9			Vis.	VED								V				S VUL	AFOEV	STD				
+2452857.5	9.0			Vis.	VED								V				S VUL	AFOEV	STD				
+2452870.5	9.2			Vis.	VED								V				S VUL	AFOEV	STD				
+2452886.3	9.5			Vis.	BXN								Z				S VUL	AFOEV	STD				
+2452904.3	9.0			Vis.	VED								Z				S VUL	AFOEV	STD				
+2452922.3	9.0			Vis.	VED								Z				S VUL	AFOEV	STD				
+2452935.4	9.2			Vis.	VED								Z				S VUL	AFOEV	STD				
+2452945.3	9.3			Vis.	VED								Z				S VUL	AFOEV	STD				
+2452956.3	9.3			Vis.	BXN								Z				S VUL	AFOEV	STD				
+2452957.3	9.0			Vis.	VED								Z				S VUL	AFOEV	STD				
+2452966.3	9.0			Vis.	VED								Z				S VUL	AFOEV	STD				
+2452978.2	8.8			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453169.5	9.0			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453185.4	8.9			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453197.4	9.0			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453207.4	9.2			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453215.4	9.1			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453224.4	9.3			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453232.4	9.2			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453242.4	8.9			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453251.5	8.9			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453271.3	9.0			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453283.3	9.3			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453300.3	9.2			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453313.3	9.0			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453320.3	9.0			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453330.3	9.2			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453340.3	9.2			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453347.3	9.2			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453358.2	9.2			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453508.6	9.2			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453521.6	9.0			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453535.83	8.9			V	CK		75	90	1970	USED 70 MM LENS ATTACHED TO ST6			Z				S VUL		STD				
+2453552.4	9.2			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453564.4	9.4			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453572.4	9.3			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453586.4	8.9			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453596.4	8.9			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453611.4	8.9			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453621.4	9.2			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453629.3	9.4			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453646.5	9.2			Vis.	SHS		91	96	SB1968				Z				S VUL		STD				
+2453697.3	9.3			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453706.3	9.2			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453892.5	9.3			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453899.4	9.4			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453907.4	9.5			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453918.4	9.3			Vis.	VED	         							Z				S VUL	AFOEV	STD				
+2453926.5	9.0			Vis.	VED	         							Z				S VUL	AFOEV	STD				
+2453935.4	9.0			Vis.	VED	         							Z				S VUL	AFOEV	STD				
+2453945.71458	9.3			Vis.	MHI		89	91	SB 5/68		0		Z				S VUL		STD				
+2453952.4	9.0			Vis.	VED	         							Z				S VUL	AFOEV	STD				
+2453962.4	9.1			Vis.	VED	         							Z				S VUL	AFOEV	STD				
+2453963.4875	9.5			Vis.	SSW	T        							Z				S VUL		STD				
+2453972.3	9.2			Vis.	VED	         							Z				S VUL	AFOEV	STD				
+2453981.43472	9.8			Vis.	SSW	T	940	1006	TYCHO		0		Z				S VUL		STD				
+2453982.4	9.1			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453987.42361	9.6			Vis.	SSW	MT	940	1006	TYCHO		0		Z				S VUL		STD				
+2453990.3	9.0			Vis.	VED								Z				S VUL	AFOEV	STD				
+2453990.38889	9.3			Vis.	SSW	MT	907	940	TYCHO		0		Z				S VUL		STD				
+2453993.39931	9.2			Vis.	SSW	T	907	940	TYCHO		0		Z				S VUL		STD				
+2453997.41042	9.1			Vis.	SSW	T	848	907	TYCHO		0		Z				S VUL		STD				
+2453999.3	9.0			Vis.	VED						0		Z				S VUL	AFOEV	STD				
+2454001.39792	8.9			Vis.	SSW	T	848	907	TYCHO		0		Z				S VUL		STD				
+2454008.36111	8.8			Vis.	SSW	T	848	907	TYCHO		0		Z				S VUL		STD				
+2454010.3	9.0			Vis.	VED								Z				S VUL	AFOEV	STD				
+2454015.35278	9.1			Vis.	SSW	MT	848	907.940	TYCHO		0		Z				S VUL		STD				
+2454018.4	9.0			Vis.	VED								Z				S VUL	AFOEV	STD				
+2454026.31597	9.3			Vis.	SSW	T	907	940	TYCHO		0		Z				S VUL		STD				
+2454031.27500	9.65			Vis.	SSW	T	940	1006	TYCHO		0		Z				S VUL		STD				
+2454033.3	9.2			Vis.	VED								Z				S VUL	AFOEV	STD				
+2454035.31111	9.4			Vis.	SSW	T	907	940	TYCHO		0		Z				S VUL		STD				
+2454039.25139	9.7			Vis.	SSW	T	940	1006	TYCHO		0		Z				S VUL		STD				
+2454055.22917	9.65			Vis.	SSW	T	940	1006	TYCHO		0		Z				S VUL		STD				
+2454055.3	8.9			Vis.	BXN	         							Z				S VUL	AFOEV	STD				
+2454059.3	9.0			Vis.	VED	         							Z				S VUL	AFOEV	STD				
+2454061.23472	9.3			Vis.	SSW	T	907	940	TYCHO		0		Z				S VUL		STD				
+2454063.21250	8.9			Vis.	SSW	T	848	907	TYCHO		0		Z				S VUL		STD				
+2454067.24722	8.9			Vis.	SSW	T	848	907	TYCHO		0		Z				S VUL		STD				
+2454071.19097	8.95			Vis.	SSW	T	848	907	TYCHO		0		Z				S VUL		STD				
+2454076.19722	9.1			Vis.	SSW	MT	848	907	TYCHO		0		Z				S VUL		STD				
+2454078.20764	9.2			Vis.	SSW	T	907	940	TYCHO		0		Z				S VUL		STD				
+2454080.2	9.0			Vis.	VED	         							Z				S VUL	AFOEV	STD				
+2454081.20417	9.25			Vis.	SSW	T	907	940	TYCHO		0		Z				S VUL		STD				
+2454084.19861	9.4			Vis.	SSW	T	907	940	TYCHO		0		Z				S VUL		STD				
+2454245.43611	9.3			Vis.	SSW	T	907	940	TYCHO		0		Z				S VUL		STD				
+2454263.43125	8.95			Vis.	SSW	T	848	907	TYCHO		0		Z				S VUL		STD				
+2454271.46389	8.8			Vis.	SSW	T	848	907	TYCHO		0		Z				S VUL		STD				
+2454295.4	9.0			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2454303.4	9.2			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2454308.52569	9.65			Vis.	SSW	T	940	1006	TYCHO		0		Z				S VUL		STD				
+2454312.4	9.1			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2454324.4	9.1			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2454339.3	9.1			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2454346.4	8.8			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2454351.45	8.80			Vis.	JTP		NA		NA				Z				S VUL		STD				
+2454354.4	8.9			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2454357.37917	9.6			Vis.	SSW	T	940	1006	TYCHO		0		Z				S VUL		STD				
+2454360.39861	9.4			Vis.	SSW	T	907	940	TYCHO		0		Z				S VUL		STD				
+2454362.4	9.0			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2454363.39931	9.3			Vis.	SSW	T	907	940	TYCHO		0		Z				S VUL		STD				
+2454376.3	9.1			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2454384.33750	9.45			Vis.	SSW	T	940	1006	TYCHO		0		Z				S VUL		STD				
+2454389.3	9.2			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2454390.29653	9.75			Vis.	SSW	T	940	1006	TYCHO		0		Z				S VUL		STD				
+2454393.3	9.2			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2454397.3	9.2			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2454404.3	9.0			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2454434.22222	9.2			Vis.	SSW	T	907	940	TYCHO		0		Z				S VUL		STD				
+2454440.22917	9.2			Vis.	SSW	T	907	940	TYCHO		0		Z				S VUL		STD				
+2454450.3	9.2			Vis.	PEG		NA		NA				Z				S VUL		STD				
+2454620.45347	8.8			Vis.	SSW	K	tycho2148-3596	tycho 2147-2957	TYCHO				Z				S VUL		STD				
+2454631.4	9.0			Vis.	VED		NA		NA				Z				S VUL		STD				
+2454639.4	9.2			Vis.	VED		NA		NA				Z				S VUL		STD				
+2454677.50833	9.4			Vis.	SSW	K	tycho2147-2957	tycho 2147-40	TYCHO				Z				S VUL		STD				
+2454679.51042	9.2			Vis.	SSW	K	tycho2147-2957	tycho 2147-40	TYCHO				Z				S VUL		STD				
+2454680.4	9.2			Vis.	VED		NA		NA				Z				S VUL		STD				
+2454682.50139	8.9			Vis.	SSW	K	tycho2148-3596	tycho 2147-2957	TYCHO				Z				S VUL		STD				
+2454688.4	9.2			Vis.	VED		NA		NA				Z				S VUL		STD				
+2454691.49653	8.65			Vis.	SSW	K	tyc2148-3596	tyc 2147-2957	TYCHO				Z				S VUL		STD				
+2454696.4	9.1			Vis.	VED		NA		NA				Z				S VUL		STD				
+2454697.4	9.4			Vis.	VED		NA		NA				Z				S VUL		STD				
+2454697.47083	8.8			Vis.	SSW	BK	tyc2148-3596	tyc 2147-2957	TYCHO				Z				S VUL		STD				
+2454701.48264	8.95			Vis.	SSW	K	tyc2148-3596	tyc 2147-2957	TYCHO				Z				S VUL		STD				
+2454702.4458	9.2			Vis.	LOB		90	97	B1013DPD				Z				S VUL		STD				
+2454704.5	9.2			Vis.	VED		NA		NA				Z				S VUL		STD				
+2454709.42778	9.2			Vis.	SSW	K	tyc2147-2957	tyc 2147-40	TYCHO				Z				S VUL		STD				
+2454712.44792	9.3			Vis.	SSW	K	tyc2147-2957	tyc 2147-40	TYCHO				Z				S VUL		STD				
+2454715.40833	9.4			Vis.	SSW	K	tyc2147-2957	tyc 2147-40	TYCHO				Z				S VUL		STD				
+2454718.43194	9.5			Vis.	SSW	K	tyc2147-40	tyc 2147-454	TYCHO				Z				S VUL		STD				
+2454726.3	9.4			Vis.	VED		NA		NA				Z				S VUL		STD				
+2454736.5	9.2			Vis.	VED		NA		NA				Z				S VUL		STD				
+2454737.40903	9.45			Vis.	SSW	K	tyc2147-40	tyc 2147-454	TYCHO				Z				S VUL		STD				
+2454741.37708	9.3			Vis.	SSW	K	tyc2147-2957	tyc 2147-40	TYCHO				Z				S VUL		STD				
+2454745.31528	9.35			Vis.	SSW	K	tyc2147-2957	tyc 2147-40	TYCHO	 chart questioned			Z				S VUL		STD				
+2454746.3	9.0			Vis.	VED		NA		NA				Z				S VUL		STD				
+2454751.32083	9.15			Vis.	SSW	K	tyc2147-2957	tyc 2147-40	TYCHO				Z				S VUL		STD				
+2454757.4	8.6			Vis.	PEG		NA		NA				Z				S VUL		STD				
+2454761.29792	8.9			Vis.	SSW	K	tyc2148-3596	tyc 2147-40	TYCHO				Z				S VUL		STD				
+2454766.3597	8.7			Vis.	LOB		85	90	B1013DPD				Z				S VUL		STD				
+2454769.28472	9.15			Vis.	SSW	K	tyc2147-2957	tyc 2147-40	TYCHO				Z				S VUL		STD				
+2454771.25417	9.15			Vis.	SSW	K	tyc2147-2957	tyc 2147-40	TYCHO				Z				S VUL		STD				
+2454780.22431	9.35			Vis.	SSW	K	tyc2147-2957	tyc 2147-40	TYCHO				Z				S VUL		STD				
+2454810.18889	9.3			Vis.	SSW	K	tyc2147-2957	tyc 2147-40	TYCHO				Z				S VUL		STD				
+2454814.18750	9.05			Vis.	SSW	K	tyc2147-2957	tyc 2147-40	TYCHO				Z				S VUL		STD				
+2454828.3	8.7			Vis.	PEG		NA		NA				Z				S VUL		STD				
+2455054.4	9.2			Vis.	VED		NA		NA				Z				S VUL		STD				
+2455063.4	9.3			Vis.	VED		NA		NA				Z				S VUL		STD				
+2455072.4	9.4			Vis.	VED		NA		NA				Z				S VUL		STD				
+2455082.3	9.1			Vis.	VED		NA		NA				Z				S VUL		STD				
+2455090.3	9.0			Vis.	VED		NA		NA				Z				S VUL		STD				
+2455094.36806	9.05			Vis.	SSW	K	tyc2147-2957	tyc 2147-40	TYCHO				Z				S VUL		STD				
+2455099.3	8.9			Vis.	VED		NA		NA				Z				S VUL		STD				
+2455100.35764	8.95			Vis.	SSW	K	tyc2148-3596	tyc 2147-2957	TYCHO				Z				S VUL		STD				
+2455105.35208	8.95			Vis.	SSW	BK	tyc2148-3596	tyc 2147-2957	TYCHO				Z				S VUL		STD				
+2455108.35278	9.1			Vis.	SSW	BK	tyc2147-2957	tyc 2147-40	TYCHO				Z				S VUL		STD				
+2455112.34722	9.2			Vis.	SSW	K	tyc2147-2957	tyc 2147-40	TYCHO				Z				S VUL		STD				
+2455122.4382	9.1			Vis.	LOB		91		1013DPD				Z				S VUL	AAM	STD				
+2455137.29306	9.45			Vis.	SSW	BK	tyc2147-40	tyc 2147-454	TYCHO				Z				S VUL		STD				
+2455151.21111	9.6			Vis.	SSW	K	tyc2147-40	tyc 2147-454	TYCHO				Z				S VUL		STD				
+2455159.25347	8.75			Vis.	SSW	K	tyc2148-3596	tyc 2147-40	TYCHO				Z				S VUL		STD				
+2455162.21042	8.85			Vis.	SSW	K	tyc2148-3596	tyc 2147-454	TYCHO				Z				S VUL		STD				
+2455164.20486	8.85			Vis.	SSW	K	tyc2148-3596	tyc 2147-2957	TYCHO				Z				S VUL		STD				
+2455340.6	9.3			Vis.	PEG		NA		NA				Z				S VUL		STD				
+2455384.5	8.9			Vis.	VED		NA		NA				Z				S VUL		STD				
+2455393.4	9.0			Vis.	VED		NA		NA				Z				S VUL		STD				
+2455393.418	9.20			CV	HFO		NA				0		Z				S VUL	AFOEV	STD				
+2455400.4	9.2			Vis.	VED		NA		NA				Z				S VUL		STD				
+2455409.4	9.3			Vis.	VED		NA		NA				Z				S VUL		STD				
+2455417.4	9.5			Vis.	VED		NA		NA				Z				S VUL		STD				
+2455429.375	9.0			Vis.	KIY	K	TYC2147-01856-1	TYC2147-02957-1	TYCHO				Z				S VUL	AAVSO	STD				
+2455429.4	9.0			Vis.	VED		NA		NA				Z				S VUL		STD				
+2455437.34097	8.7			Vis.	KIY	K	TYC2147-01856-1(8.6)	TYC2147-02957-1(9.1)	TYCHO				Z				S VUL	AAVSO	STD				
+2455440.26736	9.2			Vis.	KIY	K	TYC2147-02957-1(9.1)	TYC2147-01266-1(9.5)	TYCHO				Z				S VUL	AAVSO	STD				
+2455440.3	9.0			Vis.	VED		NA		NA				Z				S VUL		STD				
+2455441.24514	9.2			Vis.	KIY	K	TYC2147-02957-1(9.1)	TYC2147-01266-1(9.5)	TYCHO				Z				S VUL	AAVSO	STD				
+2455453.4	8.7			Vis.	PEG		NA		NA				Z				S VUL		STD				
+2455457.26597	9.1			Vis.	KIY	K	TYC2147-02957-1(9.1)	TYC2147-01266-1(9.5)	TYCHO				Z				S VUL	AAVSO	STD				
+2455458.5	8.7			Vis.	PEG		NA		NA				Z				S VUL		STD				
+2455461.21667	9.4			Vis.	KIY	BK	TYC2147-02957-1(9.1)	TYC2147-01266-1(9.5)	TYCHO	MOON			Z				S VUL	AAVSO	STD				
+2455478.4	9.2			Vis.	VED		NA		NA				Z				S VUL		STD				
+2455482.3736	8.4			Vis.	BXN		NA		NA				Z				S VUL		STD				
+2455483.17014	9.4			Vis.	KIY	K	TYC2147-02957-1	TYC2147-01266-1	TYCHO				Z				S VUL	AAVSO	STD				
+2455484.17014	9.6			Vis.	KIY	K	TYC2147-01266-1		TYCHO				Z				S VUL	AAVSO	STD				
+2455498.3	8.6			Vis.	PEG		NA		NA				Z				S VUL		STD				
+2455540.2	9.0			Vis.	PEG		NA		NA				Z				S VUL		STD				
+2455771.4	9.2			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2455779.4	9.0			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2455787.4	8.9			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2455798.55556	8.2			Vis.	LOB		79	85	120506				Z				S VUL	AAM	STD				
+2455814.4	8.9			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2455879.3	9.1			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2456130.4	8.7			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2456137.4	8.8			Vis.	NDQ		NA		NA				Z				S VUL	AFOEV	STD				
+2456139.4	8.9			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2456148.4	8.7			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2456153.6	9.2			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2456161.5	8.9			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2456179.3	9.2			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2456188.5	8.9			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2456196.46	8.8			Vis.	LTK		86	90	8877GZ				Z				S VUL	MCSE	STD				
+2456202.4	9.1			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2456205.4	8.6			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2456262.3	8.8			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2456274.3	8.7			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2456295.3	8.9			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2456488.4	9.2			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2456490.796	10.776	0.036		B	UIS01		ENSEMBLE	134	12343BON		0		Z		15.084		S Vul		STD				
+2456499.4	9.0			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2456505.705	9.106	0.033		V	UIS01		ENSEMBLE	134	12468AWE		0		Z		13.512		S Vul		STD				
+2456505.708	11.142	0.046		B	UIS01		ENSEMBLE	134	12468AVY		0		Z		15.128		S Vul		STD				
+2456508.4	9.2			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2456517.4	9.2			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2456529.5	8.9			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2456532.638	8.905	0.243		V	UIS01		ENSEMBLE	134_1	12616BKU		0		Z		13.409		S Vul		STD				
+2456532.641	10.634	0.037		B	UIS01		ENSEMBLE	134_1	12616BKI		0		Z		14.323		S Vul		STD				
+2456536.65	8.8	0.038		V	UIS01		ENSEMBLE	128_1	12635DDJ		0		Z		12.785		S Vul		STD				
+2456536.653	10.455	0.036		B	UIS01		ENSEMBLE	128_1	12635DDJ		0		Z		13.384		S Vul		STD				
+2456541.644	8.741	0.029		V	UIS01		ENSEMBLE	128_1	12635DDJ		0		Z		12.768		S Vul		STD				
+2456541.648	10.392	0.045		B	UIS01		ENSEMBLE	128_1	12635DDJ		0		Z		13.353		S Vul		STD				
+2456545.646	10.426	0.033		B	UIS01		ENSEMBLE	128_1	12635DDJ		0		Z		13.391		S Vul		STD				
+2456558.4	9.0			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2456559.605	8.814	0.042		V	UIS01		ENSEMBLE	128_1	12635DDJ		0		Z		12.746		S Vul		STD				
+2456559.607	10.72	0.041		B	UIS01		ENSEMBLE	128_1	12635DDJ		0		Z		13.348		S Vul		STD				
+2456562.606	8.842	0.032		V	UIS01		ENSEMBLE	128_1	12635DDJ		0		Z		12.752		S Vul		STD				
+2456562.608	10.804	0.025		B	UIS01		ENSEMBLE	128_1	12635DDJ		0		Z		13.380		S Vul		STD				
+2456565.587	8.847	0.028		V	UIS01		ENSEMBLE	128_1	12635DDJ		0		Z		12.762		S Vul		STD				
+2456565.589	10.703	0.077		B	UIS01		ENSEMBLE	128_1	12635DDJ		0		Z		13.263		S Vul		STD				
+2456567.595	8.946	0.027		V	UIS01		ENSEMBLE	128_1	12635DDJ		0		Z		12.792		S Vul		STD				
+2456567.598	10.921	0.043		B	UIS01		ENSEMBLE	128_1	12635DDJ		0		Z		13.394		S Vul		STD				
+2456624.3	9.3			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2456805.5	9.2			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2456814.5	9.0			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2456840.5	9.10			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2456848.38	9.20			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2456861.46806	9.2			Vis.	CPE		90	93	12202CME				Z				S VUL	AAVSO	STD				
+2456869.4	9.0			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2456881.44375	9.1			Vis.	CPE	B	90	93	12202CME				Z				S VUL	AAVSO	STD				
+2456928.36458	9.3			Vis.	CPE		93		12202CME				Z				S VUL	AAVSO	STD				
+2456932.4	9.1			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2456939.35764	9.1			Vis.	CPE	B	90	93	12202CME				Z				S VUL	AAVSO	STD				
+2456946.4	9.0			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2456954.42292	8.7			Vis.	CPE		86	90	12202CME				Z				S VUL	AAVSO	STD				
+2456955.30417	8.8			Vis.	CPE		86	90	12202CME				Z				S VUL	AAVSO	STD				
+2456962.5	8.40			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457013.25139	9.4			Vis.	CPE		93		12202CME				Z				S VUL	AAVSO	STD				
+2457024.2	8.7			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2457182.5	9.2			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457199.5	9.2			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457210.4	9.2			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457219.4	9.2			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457246.4	8.7			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457256.4	8.8			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457298.4	9.0			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457317.3	9.2			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457327.4	9.3			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457333.4	8.9			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2457338.4	9.0			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457343.3	9.1			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2457350.3	9.4			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2457358.3	9.1			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457364.2	8.9			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2457382.3	8.7			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2457535.5	9.0			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457546.5	9.0			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457579.5	9.5			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457595.4	9.1			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457606.4	9.3			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457625.4	9.2			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457691.3	9.3			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457905.5	9.2			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457912.4	9.3			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2457917.5	9.0			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457925.5	9.0			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457938.5	8.8			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457948.649	9.0			Vis.	SEDB		90	93	X16244ON				Z				S VUL	AAVSO	STD				
+2457950.4	9.5			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2457980.51153	9.485	0.041		TG	KCSB		ENSEMBLE	97_2	X23285M		0		Z		9.683		S VUL	MCSE	STD				
+2457981.50124	9.528	0.043		TG	KCSB		ENSEMBLE	97_2	X23285M		0		Z		9.637		S VUL	MCSE	STD				
+2457986.48174	9.284	0.061		TG	KCSB		ENSEMBLE	97_2	X23285M		0		Z		9.727		S VUL	MCSE	STD				
+2458010.5	8.6			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2458051.4	9.4			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2458079.3	8.6			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2458244.5639	9.3			Vis.	CALC		93	90	X16276OL				Z				S VUL	AAVSO	STD				
+2458256.715	9.4			Vis.	SEDB		93	101	X13456ALO				Z				S VUL	AAVSO	STD				
+2458292.5	9.1			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2458307.5	9.1			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2458318.668	9.2			Vis.	SEDB		90	93	X16244ON				Z				S VUL	AAVSO	STD				
+2458337.7791	8.878	0.013		V	SFS		ENSEMBLE	TYC 2152 3054 1		K	1	1.239	Z		8.075		S VUL	AAVSO	STD	791			
+2458337.7791	10.377	0.056		B	SFS		ENSEMBLE	TYC 2152 3054 1		K	1	1.239	Z		8.448		S VUL	AAVSO	STD	791			
+2458344.594	8.7			Vis.	SEDB		86	90	X16244OW				Z				S VUL	AAVSO	STD				
+2458364.7228	8.964	0.027		V	SFS		ENSEMBLE	TYC 2152 3054 1		K	1	1.326	Z		8.081		S VUL	AAVSO	STD	228			
+2458364.7228	10.530	0.024		B	SFS		ENSEMBLE	TYC 2152 3054 1		K	1	1.326	Z		8.461		S VUL	AAVSO	STD	228			
+2458365.6632	8.998	0.014		V	SFS		ENSEMBLE	TYC 2152 3054 1		K	1	1.107	Z		8.084		S VUL	AAVSO	STD	632			
+2458365.6632	10.553	0.033		B	SFS		ENSEMBLE	TYC 2152 3054 1		K	1	1.107	Z		8.467		S VUL	AAVSO	STD	632			
+2458367.7236	9.013	0.015		V	SFS		ENSEMBLE	TYC 2152 3054 1		K	1	1.381	Z		8.073		S VUL	AAVSO	STD	236			
+2458367.7236	10.571	0.041		B	SFS		ENSEMBLE	TYC 2152 3054 1		K	1	1.381	Z		8.457		S VUL	AAVSO	STD	236			
+2458368.586	8.9			Vis.	SEDB		86	93	X16244ON				Z				S VUL	AAVSO	STD				
+2458377.5	9.3			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2458378.3167	9.4			Vis.	JDAA		9.3		X23285BYR				Z				S VUL	AAVSO	STD				
+2458380.7781	9.232	0.039		V	SFS		ENSEMBLE	TYC 2152 3054 1		K	1	2.702	Z		8.055		S VUL	AAVSO	STD	781			
+2458380.7781	10.759	0.051		B	SFS		ENSEMBLE	TYC 2152 3054 1		K	1	2.702	Z		8.425		S VUL	AAVSO	STD	781			
+2458381.8110	9.244	0.034		V	SFS		ENSEMBLE	TYC 2152 3054 1		K	1	4.592	Z		8.065		S VUL	AAVSO	STD	110			
+2458381.8110	10.761	0.062		B	SFS		ENSEMBLE	TYC 2152 3054 1		K	1	4.592	Z		8.421		S VUL	AAVSO	STD	110			
+2458384.568	9.4			Vis.	SEDB		93	100	X16244ON				Z				S VUL	AAVSO	STD				
+2458393.6385	9.364	0.014		V	SFS		ENSEMBLE	TYC 2152 3054 1		K	1	1.298	Z		8.083		S VUL	AAVSO	STD	385			
+2458393.6385	10.973	0.036		B	SFS		ENSEMBLE	TYC 2152 3054 1		K	1	1.298	Z		8.472		S VUL	AAVSO	STD	385			
+2458396.598	9.2			Vis.	SEDB		90	93	X16244ON				Z				S VUL	AAVSO	STD				
+2458407.3153	9.0			Vis.	JDAA		9.0		X23285BYR				Z				S VUL	AAVSO	STD				
+2458422.6027	8.818	0.030		V	SFS		ENSEMBLE	TYC 2152 3054 1		K; W	1	1.616	Z		8.075		S VUL	AAVSO	STD	27			
+2458422.6027	10.664	0.050		B	SFS		ENSEMBLE	TYC 2152 3054 1		K; W	1	1.616	Z		8.446		S VUL	AAVSO	STD	27			
+2458426.5889	8.865	0.011		V	SFS		ENSEMBLE	TYC 2152 3054 1		K	1	1.587	Z		8.082		S VUL	AAVSO	STD	889			
+2458426.5889	10.701	0.022		B	SFS		ENSEMBLE	TYC 2152 3054 1		K	1	1.587	Z		8.463		S VUL	AAVSO	STD	889			
+2458429.5739	8.874	0.035		V	SFS		ENSEMBLE	TYC 2152 3054 1		K; W	1	1.526	Z		8.073		S VUL	AAVSO	STD	739			
+2458429.5739	10.747	0.036		B	SFS		ENSEMBLE	TYC 2152 3054 1		K; W	1	1.526	Z		8.451		S VUL	AAVSO	STD	739			
+2458433.5602	8.902	0.012		V	SFS		ENSEMBLE	TYC 2152 3054 1		K	1	1.503	Z		7.447		S VUL	AAVSO	STD	602			
+2458433.5602	10.420	0.021		B	SFS		ENSEMBLE	TYC 2152 3054 1		K	1	1.503	Z		8.454		S VUL	AAVSO	STD	602			
+2458434.5549	8.958	0.013		V	SFS		ENSEMBLE	TYC 2152 3054 1		K	1	1.482	Z		8.073		S VUL	AAVSO	STD	549			
+2458434.5549	10.944	0.023		B	SFS		ENSEMBLE	TYC 2152 3054 1		K	1	1.482	Z		8.445		S VUL	AAVSO	STD	549			
+2458669.5	9.5			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2458678.4	9.2			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2458687.4	8.5			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2458691.7615	9.699	0.034		B	SFS		ENSEMBLE	TYC 2152 3054 1		K:  COMP MAGS PER ARXIV.1906.10479	1	1.087	Z		8.595		S VUL	AAVSO	STD	615			
+2458694.79	9.73	0.03		B	SFS		ENSEMBLE	TYC 2152 3054 1		K:  COMP MAGS PER ARXIV.1906.10479	1	1.2	Z		8.61		S VUL	AAVSO	STD	909			
+2458699.5	8.9			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2458706.8463	9.905	0.023		B	SFS		ENSEMBLE	TYC 2152 3054 1		K:  COMP MAGS PER ARXIV.1906.10479	1	1.876	Z		8.617		S VUL	AAVSO	STD	463			
+2458708.6	9.0			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2458717.4	9.0			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2458725.6950	9.176	0.015		V	SFS		ENSEMBLE	TYC 2152 3054 1		K:  COMP MAGS PER ARXIV.1906.10479	1	1.156	Z		8.069		S VUL	AAVSO	STD	950			
+2458725.6950	11.169	0.018		B	SFS		ENSEMBLE	TYC 2152 3054 1		K:  COMP MAGS PER ARXIV.1906.10479	1	1.156	Z		8.544		S VUL	AAVSO	STD	950			
+2458728.4	9.2			Vis.	VED		NA		NA				Z				S VUL	AFOEV	STD				
+2458730.6873	9.241	0.011		V	SFS		ENSEMBLE	TYC 2152 3054 1		K:  COMP MAGS PER ARXIV.1906.10479	1	1.176	Z		8.072		S VUL	AAVSO	STD	873			
+2458730.6873	11.510	0.037		B	SFS		ENSEMBLE	TYC 2152 3054 1		K:  COMP MAGS PER ARXIV.1906.10479	1	1.176	Z		8.543		S VUL	AAVSO	STD	873			
+2458731.6	9.1			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2458739.6	9.3			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2458746.6	9.08	0.01		V	SFS		ENSEMBLE	TYC 2152 3054 1		K:  COMP MAGS PER ARXIV.1906.10479	1	1.07	Z		8.07		S VUL	AAVSO	STD	39			
+2458746.6	10.96	0.03		B	SFS		ENSEMBLE	TYC 2152 3054 1		K:  COMP MAGS PER ARXIV.1906.10479	1	1.07	Z		8.53		S VUL	AAVSO	STD	39			
+2458747.6195	9.032	0.008		V	SFS		ENSEMBLE	TYC 2152 3054 1		K:  COMP MAGS PER ARXIV.1906.10479	1	1.112	Z		8.069		S VUL	AAVSO	STD	195			
+2458747.6195	10.892	0.024		B	SFS		ENSEMBLE	TYC 2152 3054 1		K:  COMP MAGS PER ARXIV.1906.10479	1	1.112	Z		8.534		S VUL	AAVSO	STD	195			
+2458749.6324	8.943	0.011		V	SFS		ENSEMBLE	TYC 2152 3054 1		K:  COMP MAGS PER ARXIV.1906.10479	1	1.166	Z		8.063		S VUL	AAVSO	STD	324			
+2458749.6324	10.794	0.019		B	SFS		ENSEMBLE	TYC 2152 3054 1		K:  COMP MAGS PER ARXIV.1906.10479	1	1.166	Z		8.527		S VUL	AAVSO	STD	324			
+2458767.4	9.0			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2458770.491	8.9			Vis.	SEDB		86	90	X16244ON				Z				S VUL	AAVSO	STD				
+2458775.5898	8.925	0.018		V	SFS		ENSEMBLE	TYC 2152 3054 1		K:  COMP MAGS PER ARXIV.1906.10479	1	1.283	Z		8.076		S VUL	AAVSO	STD	898			
+2458775.5898	10.351	0.028		B	SFS		ENSEMBLE	TYC 2152 3054 1		K:  COMP MAGS PER ARXIV.1906.10479	1	1.283	Z		8.530		S VUL	AAVSO	STD	898			
+2458781.6240	8.971	0.018		V	SFS		ENSEMBLE	TYC 2152 3054 1		K:  COMP MAGS PER ARXIV.1906.10479	1	1.659	Z		8.063		S VUL	AAVSO	STD	240			
+2458781.6240	10.933	0.023		B	SFS		ENSEMBLE	TYC 2152 3054 1		K:  COMP MAGS PER ARXIV.1906.10479	1	1.659	Z		8.532		S VUL	AAVSO	STD	240			
+2458797.4	9.0			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2458804.4	9.0			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2458821.3	8.9			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2458838.3	8.9			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				
+2458854.2	9.1			Vis.	PEG		NA		NA				Z				S VUL	AFOEV	STD				

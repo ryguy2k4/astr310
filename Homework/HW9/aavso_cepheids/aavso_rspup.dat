@@ -1,0 +1,2219 @@
+JD	Magnitude	Uncertainty	HQuncertainty	Band	Observer Code	Comment Code(s)	Comp Star 1	Comp Star 2	Charts	Comments	Transfomed	Airmass	Validation Flag	Cmag	Kmag	HJD	Star Name	Observer Affiliation	Measurement Method	Grouping Method	ADS Reference	Digitizer	Credit
+2440218.7	7.2			Vis.	LYR								V				RS PUP		STD				
+2441361.8	6.5			Vis.	CR								V				RS PUP		STD				
+2441383.7	7.3			Vis.	CR								V				RS PUP		STD				
+2441392.7	8.0			Vis.	CR								V				RS PUP		STD				
+2441725.5	7.5			Vis.	FER								V				RS PUP		STD				
+2441733.5	6.8			Vis.	FER								V				RS PUP		STD				
+2441735.6	6.3			Vis.	MAN								V				RS PUP		STD				
+2441736.7	6.1			Vis.	MAN								V				RS PUP		STD				
+2441737.7	6.4			Vis.	MAN								V				RS PUP		STD				
+2441738.7	6.6			Vis.	MAN								V				RS PUP		STD				
+2441739.7	6.7			Vis.	MAN								V				RS PUP		STD				
+2441744.5	7.2			Vis.	FER								V				RS PUP		STD				
+2441745.7	6.9			Vis.	MAN								V				RS PUP		STD				
+2441746.6	7.0			Vis.	MAN								V				RS PUP		STD				
+2441747.6	7.2			Vis.	MAN								V				RS PUP		STD				
+2441748.6	7.1			Vis.	MAN								V				RS PUP		STD				
+2441749.6	7.0			Vis.	MAN								V				RS PUP		STD				
+2441751.5	7.4			Vis.	FER								V				RS PUP		STD				
+2441751.7	7.0			Vis.	MAN								V				RS PUP		STD				
+2441752.6	7.0			Vis.	MAN								V				RS PUP		STD				
+2441753.6	7.4			Vis.	MAN								V				RS PUP		STD				
+2441754.6	7.5			Vis.	MAN								V				RS PUP		STD				
+2441756.6	7.6			Vis.	MAN								V				RS PUP		STD				
+2441763.6	8.0			Vis.	MAN								V				RS PUP		STD				
+2441764.5	7.6			Vis.	FER								V				RS PUP		STD				
+2441767.6	7.8			Vis.	MAN								V				RS PUP		STD				
+2441768.6	7.9			Vis.	MAN								V				RS PUP		STD				
+2441770.7	8.0			Vis.	CR								V				RS PUP		STD				
+2441771.5	7.2			Vis.	FER								V				RS PUP		STD				
+2441772.6	7.0			Vis.	MAN								V				RS PUP		STD				
+2441780.5	7.0			Vis.	FER								V				RS PUP		STD				
+2441780.7	6.7			Vis.	CR								V				RS PUP		STD				
+2441781.6	6.5			Vis.	MAN								V				RS PUP		STD				
+2441782.6	6.6			Vis.	MAN								V				RS PUP		STD				
+2441784.6	6.7			Vis.	MAN								V				RS PUP		STD				
+2441792.5	7.2			Vis.	FER								V				RS PUP		STD				
+2441794.6	7.1			Vis.	MAN								V				RS PUP		STD				
+2441801.5	7.5			Vis.	FER								V				RS PUP		STD				
+2441815.0	7.2			Vis.	FER								V				RS PUP		STD				
+2441823.0	7.1			Vis.	FER								V				RS PUP		STD				
+2441834.0	7.1			Vis.	FER								V				RS PUP		STD				
+2441848.1	7.5			Vis.	FER								V				RS PUP		STD				
+2441980.9	7.0			Vis.	MDD								V				RS PUP		STD				
+2441981.9	6.8			Vis.	MDD								V				RS PUP		STD				
+2441987.9	6.8			Vis.	MDD								V				RS PUP		STD				
+2441988.0	6.5			Vis.	MAN								V				RS PUP		STD				
+2441990.0	6.7			Vis.	MAN								V				RS PUP		STD				
+2441992.0	6.8			Vis.	MAN								V				RS PUP		STD				
+2441993.0	6.9			Vis.	MDD								V				RS PUP		STD				
+2442004.1	7.1			Vis.	FER								V				RS PUP		STD				
+2442015.1	7.8			Vis.	FER								V				RS PUP		STD				
+2442020.0	6.9			Vis.	MDD								V				RS PUP		STD				
+2442039.7	6.8			Vis.	MAN								V				RS PUP		STD				
+2442039.8	8.0			Vis.	MDD								V				RS PUP		STD				
+2442043.7	7.4			Vis.	GAS								V				RS PUP		STD				
+2442044.8	7.6			Vis.	MDD								V				RS PUP		STD				
+2442075.7	6.6			Vis.	MAN								V				RS PUP		STD				
+2442076.7	6.5			Vis.	MAN								V				RS PUP		STD				
+2442077.7	6.9			Vis.	MAN								V				RS PUP		STD				
+2442079.7	7.0			Vis.	MAN								V				RS PUP		STD				
+2442079.8	7.6			Vis.	CR								V				RS PUP		STD				
+2442086.7	7.0			Vis.	MAN								V				RS PUP		STD				
+2442089.6	7.4			Vis.	MAN								V				RS PUP		STD				
+2442092.6	7.8			Vis.	MAN								V				RS PUP		STD				
+2442096.7	7.7			Vis.	MAN								V				RS PUP		STD				
+2442107.6	5.9			Vis.	MAN								V				RS PUP		STD				
+2442108.6	6.0			Vis.	MAN								V				RS PUP		STD				
+2442109.7	6.0			Vis.	MAN								V				RS PUP		STD				
+2442110.7	6.3			Vis.	MAN								V				RS PUP		STD				
+2442113.6	6.6			Vis.	MAN								V				RS PUP		STD				
+2442115.6	6.6			Vis.	MDD								V				RS PUP		STD				
+2442119.6	7.3			Vis.	MDD								V				RS PUP		STD				
+2442120.5	7.3			Vis.	MDD								V				RS PUP		STD				
+2442121.5	7.5			Vis.	MDD								V				RS PUP		STD				
+2442121.6	7.0			Vis.	MAN								V				RS PUP		STD				
+2442124.6	7.1			Vis.	MAN								V				RS PUP		STD				
+2442128.6	7.4			Vis.	MAN								V				RS PUP		STD				
+2442130.7	8.1			Vis.	GAS								V				RS PUP		STD				
+2442131.6	7.1			Vis.	MAN								V				RS PUP		STD				
+2442133.6	7.4			Vis.	MAN								V				RS PUP		STD				
+2442136.7	8.0			Vis.	MDD								V				RS PUP		STD				
+2442137.6	8.0			Vis.	MDD								V				RS PUP		STD				
+2442138.6	7.9			Vis.	MAN								V				RS PUP		STD				
+2442138.6	7.7			Vis.	MDD								V				RS PUP		STD				
+2442140.6	7.7			Vis.	MAN								V				RS PUP		STD				
+2442155.6	7.1			Vis.	MDD								V				RS PUP		STD				
+2442156.6	6.7			Vis.	MDD								V				RS PUP		STD				
+2442157.6	6.6			Vis.	MDD								V				RS PUP		STD				
+2442158.6	6.6			Vis.	MDD								V				RS PUP		STD				
+2442161.6	6.7			Vis.	MDD								V				RS PUP		STD				
+2442162.6	6.8			Vis.	MDD								V				RS PUP		STD				
+2442166.6	7.3			Vis.	MDD								V				RS PUP		STD				
+2442339.0	7.8			Vis.	MDD								V				RS PUP		STD				
+2442342.0	8.0			Vis.	MDD								V				RS PUP		STD				
+2442439.7	6.4			Vis.	MAN								V				RS PUP		STD				
+2442449.6	6.4			Vis.	MAN								V				RS PUP		STD				
+2442451.6	6.8			Vis.	MAN								V				RS PUP		STD				
+2442452.7	6.8			Vis.	MAN								V				RS PUP		STD				
+2442454.6	7.0			Vis.	MAN								V				RS PUP		STD				
+2442455.6	7.1			Vis.	MAN								V				RS PUP		STD				
+2442465.6	7.7			Vis.	MAN								V				RS PUP		STD				
+2442470.6	7.7			Vis.	MAN								V				RS PUP		STD				
+2442472.7	7.5			Vis.	CR								V				RS PUP		STD				
+2442472.7	7.7			Vis.	MAN								V				RS PUP		STD				
+2442473.6	7.8			Vis.	MAN								V				RS PUP		STD				
+2442474.6	7.1			Vis.	MAN								V				RS PUP		STD				
+2442475.7	7.1			Vis.	MAN								V				RS PUP		STD				
+2442477.6	6.6			Vis.	MAN								V				RS PUP		STD				
+2442480.6	6.4			Vis.	MAN								V				RS PUP		STD				
+2442480.7	6.6			Vis.	CR								V				RS PUP		STD				
+2442481.6	6.3			Vis.	MAN								V				RS PUP		STD				
+2442482.6	6.4			Vis.	MAN								V				RS PUP		STD				
+2442483.7	6.7			Vis.	CR								V				RS PUP		STD				
+2442483.7	6.6			Vis.	MAN								V				RS PUP		STD				
+2442484.7	6.5			Vis.	MAN								V				RS PUP		STD				
+2442490.7	6.8			Vis.	CR								V				RS PUP		STD				
+2442492.7	7.1			Vis.	CR								V				RS PUP		STD				
+2442494.7	7.4			Vis.	CR								V				RS PUP		STD				
+2442501.7	7.6			Vis.	CR								V				RS PUP		STD				
+2442502.7	7.5			Vis.	CR								V				RS PUP		STD				
+2442506.7	7.8			Vis.	CR								V				RS PUP		STD				
+2442515.7	7.5			Vis.	CR								V				RS PUP		STD				
+2442522.7	6.6			Vis.	CR								V				RS PUP		STD				
+2442530.7	7.4			Vis.	CR								V				RS PUP		STD				
+2442707.1	7.5			Vis.	CR								V				RS PUP		STD				
+2442786.8	7.5			Vis.	CR								V				RS PUP		STD				
+2443174.1	8.0			Vis.	CR								V				RS PUP		STD				
+2443248.1	7.3			Vis.	FER								V				RS PUP		STD				
+2443251.1	7.4			Vis.	FER								V				RS PUP		STD				
+2443255.0	8.0			Vis.	CR								V				RS PUP		STD				
+2443258.0	8.0			Vis.	CR								V				RS PUP		STD				
+2443294.0	7.8			Vis.	CR								V				RS PUP		STD				
+2443491.0	6.8			Vis.	CR								V				RS PUP		STD				
+2443499.0	7.9			Vis.	CR								V				RS PUP		STD				
+2443520.0	6.5			Vis.	CR								V				RS PUP		STD				
+2443524.1	6.8			Vis.	FER								V				RS PUP		STD				
+2443537.72	7.5			Vis.	GOP	C							V				RS PUP		STD				
+2443543.735	7.9			Vis.	GOP								V				RS PUP		STD				
+2443544.734	7.9			Vis.	GOP								V				RS PUP		STD				
+2443551.709	7.3			Vis.	GOP								V				RS PUP		STD				
+2443553.697	6.7			Vis.	GOP								V				RS PUP		STD				
+2443560.69	7.0			Vis.	GOP	C							V				RS PUP		STD				
+2443562.684	6.7			Vis.	GOP	C							V				RS PUP		STD				
+2443563.676	6.7			Vis.	GOP	C							V				RS PUP		STD				
+2443578.1	7.0			Vis.	CR								V				RS PUP		STD				
+2443586.615	7.9			Vis.	GOP	C							V				RS PUP		STD				
+2443589.611	8.0			Vis.	GOP	C							V				RS PUP		STD				
+2443595.592	6.7			Vis.	GOP								V				RS PUP		STD				
+2443596.611	6.6			Vis.	GOP								V				RS PUP		STD				
+2443599.58	6.6			Vis.	GOP								V				RS PUP		STD				
+2443603.0	7.3			Vis.	CR								V				RS PUP		STD				
+2443620.0	7.2			Vis.	CR								V				RS PUP		STD				
+2443895.775	6.8			Vis.	GOP								V				RS PUP		STD				
+2443897.768	6.8			Vis.	GOP								V				RS PUP		STD				
+2443901.75	7.1			Vis.	GOP								V				RS PUP		STD				
+2443931.671	6.7			Vis.	GOP								V				RS PUP		STD				
+2443934.672	6.7			Vis.	GOP								V				RS PUP		STD				
+2443937.656	6.8			Vis.	GOP								V				RS PUP		STD				
+2443938.0	6.5			Vis.	CR								V				RS PUP		STD				
+2443938.64	6.8			Vis.	GOP								V				RS PUP		STD				
+2443940.646	6.8			Vis.	GOP								V				RS PUP		STD				
+2443941.639	7.0			Vis.	GOP								V				RS PUP		STD				
+2443955.618	7.5			Vis.	GOP								V				RS PUP		STD				
+2443956.605	7.5			Vis.	GOP								V				RS PUP		STD				
+2443957.0	7.5			Vis.	CR								V				RS PUP		STD				
+2443957.612	7.9			Vis.	GOP								V				RS PUP		STD				
+2443968.575	6.7			Vis.	GOP								V				RS PUP		STD				
+2443970.572	6.6			Vis.	GOP								V				RS PUP		STD				
+2443988.0	6.8			Vis.	CR								V				RS PUP		STD				
+2443995.0	7.9			Vis.	CR								V				RS PUP		STD				
+2444167.2	8.0			Vis.	CR								V				RS PUP		STD				
+2444198.831	7.9			Vis.	DEY								V				RS PUP		STD				
+2444233.851	7.3			Vis.	GOP								V				RS PUP		STD				
+2444252.0	8.0			Vis.	CR								V				RS PUP		STD				
+2444264.0	6.5			Vis.	CR								V				RS PUP		STD				
+2444276.0	7.5			Vis.	CR								V				RS PUP		STD				
+2444289.694	7.5			Vis.	GOP								V				RS PUP		STD				
+2444291.69	7.9			Vis.	GOP								V				RS PUP		STD				
+2444292.694	7.9			Vis.	GOP								V				RS PUP		STD				
+2444295.675	7.9			Vis.	GOP								V				RS PUP		STD				
+2444304.656	6.3			Vis.	GOP								V				RS PUP		STD				
+2444318.0	7.6			Vis.	CR								V				RS PUP		STD				
+2444320.611	7.1			Vis.	GOP								V				RS PUP		STD				
+2444327.597	7.5			Vis.	GOP								V				RS PUP		STD				
+2444341.0	7.1			Vis.	CR								V				RS PUP		STD				
+2444382.9	6.7			Vis.	CR								V				RS PUP		STD				
+2444551.945	6.8			Vis.	GOP								V				RS PUP		STD				
+2444601.839	6.9			Vis.	GOP								V				RS PUP		STD				
+2444683.61	6.1			Vis.	GOP								V				RS PUP		STD				
+2444694.0	6.8			Vis.	CR								V				RS PUP		STD				
+2444694.597	7.1			Vis.	GOP								V				RS PUP		STD				
+2444699.579	7.7			Vis.	GOP								V				RS PUP		STD				
+2444700.562	7.3			Vis.	GOP								V				RS PUP		STD				
+2444707.0	8.0			Vis.	CR								V				RS PUP		STD				
+2444737.0	6.7			Vis.	CR								V				RS PUP		STD				
+2445022.691	7.2			Vis.	GOP								V				RS PUP		STD				
+2445023.685	7.2			Vis.	GOP								V				RS PUP		STD				
+2445024.684	7.3			Vis.	GOP								V				RS PUP		STD				
+2445077.0	7.9			Vis.	CR								V				RS PUP		STD				
+2445090.0	6.8			Vis.	CR								V				RS PUP		STD				
+2445309.1	6.8			Vis.	CR								V				RS PUP		STD				
+2445375.0	7.5			Vis.	CR								V				RS PUP		STD				
+2445379.717	6.5			Vis.	GOP								V				RS PUP		STD				
+2445404.65	7.4			Vis.	GOP								V				RS PUP		STD				
+2445408.64	7.8			Vis.	GOP								V				RS PUP		STD				
+2445424.0	6.7			Vis.	CR								V				RS PUP		STD				
+2445437.0	7.4			Vis.	CR								V				RS PUP		STD				
+2445728.79	7.2			Vis.	GOP								V				RS PUP		STD				
+2445729.68	7.2			Vis.	GOP								V				RS PUP		STD				
+2445736.67	7.6			Vis.	GOP								V				RS PUP		STD				
+2445753.66	6.9			Vis.	GOP								V				RS PUP		STD				
+2445755.7	6.6			Vis.	GOP								V				RS PUP		STD				
+2445760.66	6.8			Vis.	GOP								V				RS PUP		STD				
+2445766.55	7.0			Vis.	GOP								V				RS PUP		STD				
+2445767.55	6.7			Vis.	GOP								V				RS PUP		STD				
+2445768.0	7.0			Vis.	CR								V				RS PUP		STD				
+2445781.56	7.9			Vis.	GOP								V				RS PUP		STD				
+2445784.56	8.0			Vis.	GOP								V				RS PUP		STD				
+2445796.57	6.7			Vis.	GOP								V				RS PUP		STD				
+2445800.6	6.6			Vis.	GOP								V				RS PUP		STD				
+2445808.58	7.0			Vis.	GOP								V				RS PUP		STD				
+2445823.0	6.7			Vis.	CR								V				RS PUP		STD				
+2446056.1	6.7			Vis.	CR								V				RS PUP		STD				
+2446143.56	7.2			Vis.	GOP								V				RS PUP		STD				
+2446148.57	7.5			Vis.	GOP								V				RS PUP		STD				
+2446170.6	6.7			Vis.	GOP								V				RS PUP		STD				
+2446172.58	6.5			Vis.	GOP								V				RS PUP		STD				
+2446173.58	6.7			Vis.	GOP								V				RS PUP		STD				
+2446174.0	6.5			Vis.	CR								V				RS PUP		STD				
+2446200.9	7.5			Vis.	CR								V				RS PUP		STD				
+2446518.581	6.7			Vis.	GOP								V				RS PUP		STD				
+2446566.0	7.1			Vis.	CR								V				RS PUP		STD				
+2446761.885	7.0			Vis.	CCN	C							V				RS PUP		STD				
+2446765.776	7.5			Vis.	CCN	C							V				RS PUP		STD				
+2446767.819	7.9			Vis.	CCN								V				RS PUP		STD				
+2446773.867	8.0			Vis.	CCN								V				RS PUP		STD				
+2446775.838	7.9			Vis.	CCN								V				RS PUP		STD				
+2446792.672	6.9			Vis.	CCN								V				RS PUP		STD				
+2446793.739	7.4			Vis.	CCN								V				RS PUP		STD				
+2446794.766	7.3			Vis.	CCN								V				RS PUP		STD				
+2446795.844	7.5			Vis.	CCN								V				RS PUP		STD				
+2446796.697	7.1			Vis.	CCN								V				RS PUP		STD				
+2446798.661	7.4			Vis.	CCN								V				RS PUP		STD				
+2446799.65	7.4			Vis.	CCN								V				RS PUP		STD				
+2446801.646	7.4			Vis.	CCN								V				RS PUP		STD				
+2446824.0	7.2			Vis.	CR								V				RS PUP		STD				
+2446846.552	7.3			Vis.	CCN								V				RS PUP		STD				
+2446847.631	7.2			Vis.	CCN								V				RS PUP		STD				
+2446853.531	8.2			Vis.	CCN								V				RS PUP		STD				
+2446855.631	8.1			Vis.	CCN								V				RS PUP		STD				
+2446857.533	7.9			Vis.	CCN								V				RS PUP		STD				
+2446890.1	6.7			Vis.	CR								V				RS PUP		STD				
+2446918.0	6.7			Vis.	CR								V				RS PUP		STD				
+2446921.0	6.8			Vis.	CR								V				RS PUP		STD				
+2447098.2	7.3			Vis.	CR								V				RS PUP		STD				
+2447156.1	8.3			Vis.	CR								V				RS PUP		STD				
+2447187.0	7.3			Vis.	CR								V				RS PUP		STD				
+2447196.69	7.2			Vis.	DZS								V				RS PUP		STD				
+2447197.54	6.9			Vis.	DZS								V				RS PUP		STD				
+2447197.69	7.0			Vis.	DZS								V				RS PUP		STD				
+2447198.59	7.2			Vis.	KCF								V				RS PUP		STD				
+2447198.63	7.0			Vis.	DZS								V				RS PUP		STD				
+2447199.58	6.8			Vis.	DZS								V				RS PUP		STD				
+2447199.64	6.8			Vis.	DZS								V				RS PUP		STD				
+2447201.57	6.6			Vis.	KCF								V				RS PUP		STD				
+2447203.54	6.5			Vis.	KCF								V				RS PUP		STD				
+2447208.57	6.4			Vis.	KCF								V				RS PUP		STD				
+2447208.66	6.7			Vis.	DZS								V				RS PUP		STD				
+2447209.64	6.7			Vis.	DZS								V				RS PUP		STD				
+2447210.54	6.5			Vis.	KCF								V				RS PUP		STD				
+2447210.69	6.8			Vis.	DZS								V				RS PUP		STD				
+2447211.65	6.4			Vis.	DZS								V				RS PUP		STD				
+2447212.63	6.6			Vis.	DZS								V				RS PUP		STD				
+2447217.66	6.7			Vis.	DZS								V				RS PUP		STD				
+2447218.54	7.1			Vis.	KCF								V				RS PUP		STD				
+2447218.63	6.8			Vis.	DZS								V				RS PUP		STD				
+2447219.63	6.8			Vis.	DZS								V				RS PUP		STD				
+2447220.72	6.8			Vis.	DZS								V				RS PUP		STD				
+2447221.54	7.0			Vis.	KCF								V				RS PUP		STD				
+2447223.64	6.8			Vis.	DZS								V				RS PUP		STD				
+2447224.68	6.8			Vis.	DZS								V				RS PUP		STD				
+2447233.62	8.0			Vis.	GOP								V				RS PUP		STD				
+2447235.56	7.6			Vis.	GOP								V				RS PUP		STD				
+2447235.71	7.4			Vis.	DZS								V				RS PUP		STD				
+2447236.68	7.6			Vis.	DZS								V				RS PUP		STD				
+2447237.68	7.0			Vis.	DZS								V				RS PUP		STD				
+2447239.58	7.3			Vis.	DZS								V				RS PUP		STD				
+2447240.66	6.9			Vis.	DZS								V				RS PUP		STD				
+2447240.7	7.0			Vis.	DZS								V				RS PUP		STD				
+2447241.59	6.8			Vis.	DZS								V				RS PUP		STD				
+2447241.65	6.8			Vis.	DZS								V				RS PUP		STD				
+2447241.69	6.8			Vis.	DZS								V				RS PUP		STD				
+2447244.6	6.6			Vis.	DZS								V				RS PUP		STD				
+2447245.61	6.6			Vis.	DZS								V				RS PUP		STD				
+2447246.52	6.7			Vis.	DZS								V				RS PUP		STD				
+2447253.62	6.6			Vis.	DZS								V				RS PUP		STD				
+2447253.66	6.6			Vis.	DZS								V				RS PUP		STD				
+2447254.49	6.6			Vis.	DZS								V				RS PUP		STD				
+2447254.65	6.6			Vis.	DZS								V				RS PUP		STD				
+2447254.7	6.6			Vis.	DZS								V				RS PUP		STD				
+2447255.57	6.7			Vis.	DZS								V				RS PUP		STD				
+2447255.64	6.7			Vis.	DZS								V				RS PUP		STD				
+2447256.64	6.7			Vis.	DZS								V				RS PUP		STD				
+2447259.66	6.6			Vis.	DZS								V				RS PUP		STD				
+2447259.7	6.7			Vis.	DZS								V				RS PUP		STD				
+2447260.66	6.8			Vis.	DZS								V				RS PUP		STD				
+2447260.69	6.7			Vis.	DZS								V				RS PUP		STD				
+2447261.56	6.7			Vis.	DZS								V				RS PUP		STD				
+2447261.68	6.7			Vis.	DZS								V				RS PUP		STD				
+2447265.56	6.6			Vis.	DZS								V				RS PUP		STD				
+2447265.64	6.7			Vis.	DZS								V				RS PUP		STD				
+2447266.62	6.7			Vis.	DZS								V				RS PUP		STD				
+2447268.49	6.7			Vis.	DZS								V				RS PUP		STD				
+2447268.56	6.7			Vis.	DZS								V				RS PUP		STD				
+2447268.63	6.7			Vis.	DZS								V				RS PUP		STD				
+2447269.52	6.9			Vis.	DZS								V				RS PUP		STD				
+2447269.57	6.8			Vis.	DZS								V				RS PUP		STD				
+2447269.64	7.0			Vis.	DZS								V				RS PUP		STD				
+2447274.0	7.1			Vis.	CR								V				RS PUP		STD				
+2447274.52	7.0			Vis.	DZS								V				RS PUP		STD				
+2447274.64	7.1			Vis.	DZS								V				RS PUP		STD				
+2447276.55	7.4			Vis.	DZS								V				RS PUP		STD				
+2447276.59	7.4			Vis.	DZS								V				RS PUP		STD				
+2447276.64	7.4			Vis.	DZS								V				RS PUP		STD				
+2447278.64	7.5			Vis.	DZS								V				RS PUP		STD				
+2447279.58	7.3			Vis.	DZS								V				RS PUP		STD				
+2447279.65	7.4			Vis.	DZS								V				RS PUP		STD				
+2447285.64	6.3			Vis.	DZS								V				RS PUP		STD				
+2447286.5	6.6			Vis.	DZS								V				RS PUP		STD				
+2447286.56	6.6			Vis.	DZS								V				RS PUP		STD				
+2447288.63	6.5			Vis.	DZS								V				RS PUP		STD				
+2447289.52	6.5			Vis.	DZS								V				RS PUP		STD				
+2447289.63	6.5			Vis.	DZS								V				RS PUP		STD				
+2447290.58	6.4			Vis.	DZS								V				RS PUP		STD				
+2447295.6	6.5			Vis.	DZS								V				RS PUP		STD				
+2447298.58	6.8			Vis.	DZS								V				RS PUP		STD				
+2447299.65	6.8			Vis.	DZS								V				RS PUP		STD				
+2447301.64	6.8			Vis.	DZS								V				RS PUP		STD				
+2447302.6	6.8			Vis.	DZS								V				RS PUP		STD				
+2447304.57	6.8			Vis.	DZS								V				RS PUP		STD				
+2447307.45	6.8			Vis.	DZS								V				RS PUP		STD				
+2447307.54	6.9			Vis.	DZS								V				RS PUP		STD				
+2447307.6	6.9			Vis.	DZS								V				RS PUP		STD				
+2447317.43	7.0			Vis.	DZS								V				RS PUP		STD				
+2447317.5	7.1			Vis.	DZS								V				RS PUP		STD				
+2447317.57	7.0			Vis.	DZS								V				RS PUP		STD				
+2447318.53	7.1			Vis.	DZS								V				RS PUP		STD				
+2447324.46	6.8			Vis.	DZS								V				RS PUP		STD				
+2447326.43	6.6			Vis.	DZS								V				RS PUP		STD				
+2447326.49	6.6			Vis.	DZS								V				RS PUP		STD				
+2447326.56	6.6			Vis.	DZS								V				RS PUP		STD				
+2447338.41	6.7			Vis.	DZS								V				RS PUP		STD				
+2447338.48	6.8			Vis.	DZS								V				RS PUP		STD				
+2447339.42	6.8			Vis.	DZS								V				RS PUP		STD				
+2447479.68	6.7			Vis.	DZS								V				RS PUP		STD				
+2447481.66	7.4			Vis.	DZS								V				RS PUP		STD				
+2447482.66	7.4			Vis.	DZS								V				RS PUP		STD				
+2447485.64	7.4			Vis.	DZS								V				RS PUP		STD				
+2447485.72	7.4			Vis.	DZS								V				RS PUP		STD				
+2447488.68	7.3			Vis.	DZS								V				RS PUP		STD				
+2447489.67	7.4			Vis.	DZS								V				RS PUP		STD				
+2447490.67	7.0			Vis.	DZS								V				RS PUP		STD				
+2447492.65	6.6			Vis.	DZS								V				RS PUP		STD				
+2447492.7	6.6			Vis.	DZS								V				RS PUP		STD				
+2447493.66	6.3			Vis.	DZS								V				RS PUP		STD				
+2447494.63	6.3			Vis.	DZS								V				RS PUP		STD				
+2447497.62	6.4			Vis.	DZS								V				RS PUP		STD				
+2447498.6	6.5			Vis.	DZS								V				RS PUP		STD				
+2447499.6	6.7			Vis.	DZS								V				RS PUP		STD				
+2447499.67	6.6			Vis.	DZS								V				RS PUP		STD				
+2447501.6	6.4			Vis.	DZS								V				RS PUP		STD				
+2447503.57	6.4			Vis.	DZS								V				RS PUP		STD				
+2447508.54	6.4			Vis.	DZS								V				RS PUP		STD				
+2447509.61	6.7			Vis.	DZS								V				RS PUP		STD				
+2447510.54	6.8			Vis.	DZS								V				RS PUP		STD				
+2447510.61	6.8			Vis.	DZS								V				RS PUP		STD				
+2447510.65	6.8			Vis.	DZS								V				RS PUP		STD				
+2447511.63	7.0			Vis.	DZS								V				RS PUP		STD				
+2447512.56	7.0			Vis.	DZS								V				RS PUP		STD				
+2447512.6	7.1			Vis.	DZS								V				RS PUP		STD				
+2447515.61	6.9			Vis.	DZS								V				RS PUP		STD				
+2447515.68	7.0			Vis.	DZS								V				RS PUP		STD				
+2447516.56	7.1			Vis.	DZS								V				RS PUP		STD				
+2447517.56	7.2			Vis.	DZS								V				RS PUP		STD				
+2447517.63	7.1			Vis.	DZS								V				RS PUP		STD				
+2447519.54	7.3			Vis.	DZS								V				RS PUP		STD				
+2447519.62	7.3			Vis.	DZS								V				RS PUP		STD				
+2447520.65	7.2			Vis.	DZS								V				RS PUP		STD				
+2447527.56	7.5			Vis.	DZS								V				RS PUP		STD				
+2447528.64	7.6			Vis.	DZS								V				RS PUP		STD				
+2447529.66	7.4			Vis.	DZS								V				RS PUP		STD				
+2447529.71	7.5			Vis.	DZS								V				RS PUP		STD				
+2447530.67	7.2			Vis.	DZS								V				RS PUP		STD				
+2447531.7	7.0			Vis.	DZS								V				RS PUP		STD				
+2447534.68	6.5			Vis.	DZS								V				RS PUP		STD				
+2447535.67	6.3			Vis.	DZS								V				RS PUP		STD				
+2447543.68	6.6			Vis.	DZS								V				RS PUP		STD				
+2447546.66	6.8			Vis.	DZS								V				RS PUP		STD				
+2447547.68	6.7			Vis.	DZS								V				RS PUP		STD				
+2447551.64	6.7			Vis.	DZS								V				RS PUP		STD				
+2447554.58	6.7			Vis.	DZS								V				RS PUP		STD				
+2447554.66	6.7			Vis.	DZS								V				RS PUP		STD				
+2447557.65	6.7			Vis.	DZS								V				RS PUP		STD				
+2447558.66	7.1			Vis.	DZS								V				RS PUP		STD				
+2447561.58	7.1			Vis.	DZS								V				RS PUP		STD				
+2447561.7	7.1			Vis.	DZS								V				RS PUP		STD				
+2447574.71	6.6			Vis.	DZS								V				RS PUP		STD				
+2447580.71	6.5			Vis.	DZS								V				RS PUP		STD				
+2447581.71	6.6			Vis.	DZS								V				RS PUP		STD				
+2447582.55	6.6			Vis.	DZS								V				RS PUP		STD				
+2447583.69	6.4			Vis.	DZS								V				RS PUP		STD				
+2447584.66	6.5			Vis.	DZS								V				RS PUP		STD				
+2447602.6	7.4			Vis.	DZS								V				RS PUP		STD				
+2447603.66	7.4			Vis.	DZS								V				RS PUP		STD				
+2447608.66	7.5			Vis.	DZS								V				RS PUP		STD				
+2447610.68	7.3			Vis.	DZS								V				RS PUP		STD				
+2447612.63	7.2			Vis.	DZS								V				RS PUP		STD				
+2447613.58	7.2			Vis.	DZS								V				RS PUP		STD				
+2447617.54	6.5			Vis.	DZS								V				RS PUP		STD				
+2447618.56	6.8			Vis.	DZS								V				RS PUP		STD				
+2447619.44	6.7			Vis.	DZS								V				RS PUP		STD				
+2447620.54	6.7			Vis.	DZS								V				RS PUP		STD				
+2447622.56	6.7			Vis.	DZS								V				RS PUP		STD				
+2447628.56	6.7			Vis.	DZS								V				RS PUP		STD				
+2447630.47	6.7			Vis.	DZS								V				RS PUP		STD				
+2447631.46	6.7			Vis.	DZS								V				RS PUP		STD				
+2447635.54	6.8			Vis.	DZS								V				RS PUP		STD				
+2447637.43	6.9			Vis.	DZS								V				RS PUP		STD				
+2447638.38	6.8			Vis.	DZS								V				RS PUP		STD				
+2447647.54	7.4			Vis.	DZS								V				RS PUP		STD				
+2447648.38	7.5			Vis.	DZS								V				RS PUP		STD				
+2447649.37	7.5			Vis.	DZS								V				RS PUP		STD				
+2447653.52	7.2			Vis.	DZS								V				RS PUP		STD				
+2447663.52	6.7			Vis.	DZS								V				RS PUP		STD				
+2447666.41	6.8			Vis.	DZS								V				RS PUP		STD				
+2447667.42	6.7			Vis.	DZS								V				RS PUP		STD				
+2447672.42	6.7			Vis.	DZS								V				RS PUP		STD				
+2447674.41	6.7			Vis.	DZS								V				RS PUP		STD				
+2447680.37	6.8			Vis.	DZS								V				RS PUP		STD				
+2447682.37	6.8			Vis.	DZS								V				RS PUP		STD				
+2447688.41	6.8			Vis.	DZS								V				RS PUP		STD				
+2447709.37	6.8			Vis.	DZS								V				RS PUP		STD				
+2447819.52	7.3			Vis.	DZS								V				RS PUP		STD				
+2447824.54	6.8			Vis.	DZS								V				RS PUP		STD				
+2447826.51	6.8			Vis.	DZS								V				RS PUP		STD				
+2447828.5	6.7			Vis.	DZS								V				RS PUP		STD				
+2447835.52	6.4			Vis.	DZS								V				RS PUP		STD				
+2447836.52	6.7			Vis.	DZS								V				RS PUP		STD				
+2447845.49	6.8			Vis.	DZS								V				RS PUP		STD				
+2447846.48	7.0			Vis.	DZS								V				RS PUP		STD				
+2447847.46	7.1			Vis.	DZS								V				RS PUP		STD				
+2447852.51	7.2			Vis.	DZS								V				RS PUP		STD				
+2447855.48	7.1			Vis.	DZS								V				RS PUP		STD				
+2447856.45	7.3			Vis.	DZS								V				RS PUP		STD				
+2447857.52	7.6			Vis.	DZS								V				RS PUP		STD				
+2447859.54	7.5			Vis.	DZS								V				RS PUP		STD				
+2447860.53	7.1			Vis.	DZS								V				RS PUP		STD				
+2447861.51	7.2			Vis.	DZS								V				RS PUP		STD				
+2447863.46	7.1			Vis.	DZS								V				RS PUP		STD				
+2447864.48	6.9			Vis.	DZS								V				RS PUP		STD				
+2447865.54	6.8			Vis.	DZS								V				RS PUP		STD				
+2447866.53	6.6			Vis.	DZS								V				RS PUP		STD				
+2447871.53	6.4			Vis.	DZS								V				RS PUP		STD				
+2447872.47	6.3			Vis.	DZS								V				RS PUP		STD				
+2447872.53	6.4			Vis.	DZS								V				RS PUP		STD				
+2447878.53	6.8			Vis.	DZS								V				RS PUP		STD				
+2447879.47	6.6			Vis.	DZS								V				RS PUP		STD				
+2447880.52	6.6			Vis.	DZS								V				RS PUP		STD				
+2447881.52	6.6			Vis.	DZS								V				RS PUP		STD				
+2447884.49	7.0			Vis.	DZS								V				RS PUP		STD				
+2447887.47	6.8			Vis.	DZS								V				RS PUP		STD				
+2447888.5	6.9			Vis.	DZS								V				RS PUP		STD				
+2447890.46	7.0			Vis.	DZS								V				RS PUP		STD				
+2447890.54	7.0			Vis.	DZS								V				RS PUP		STD				
+2447891.52	7.1			Vis.	DZS								V				RS PUP		STD				
+2447896.59	7.5			Vis.	DZS								V				RS PUP		STD				
+2447897.57	7.4			Vis.	DZS								V				RS PUP		STD				
+2447898.59	7.5			Vis.	DZS								V				RS PUP		STD				
+2447900.61	7.6			Vis.	DZS								V				RS PUP		STD				
+2447901.56	7.5			Vis.	DZS								V				RS PUP		STD				
+2447905.62	6.8			Vis.	DZS								V				RS PUP		STD				
+2447909.6	6.6			Vis.	DZS								V				RS PUP		STD				
+2447910.6	6.6			Vis.	DZS								V				RS PUP		STD				
+2447912.56	6.6			Vis.	DZS								V				RS PUP		STD				
+2447920.57	6.8			Vis.	DZS								V				RS PUP		STD				
+2447983.57	7.4			Vis.	DZS								V				RS PUP		STD				
+2447997.56	6.4			Vis.	DZS								V				RS PUP		STD				
+2447999.48	6.5			Vis.	DZS								V				RS PUP		STD				
+2448003.61	6.8			Vis.	DZS								V				RS PUP		STD				
+2448006.945	6.8			Vis.	DZS								V				RS PUP		STD				
+2448008.53	6.8			Vis.	DZS								V				RS PUP		STD				
+2448009.45	6.4			Vis.	DZS								V				RS PUP		STD				
+2448010.46	6.8			Vis.	DZS								V				RS PUP		STD				
+2448010.46	6.9			Vis.	DZS								V				RS PUP		STD				
+2448011.46	6.9			Vis.	DZS								V				RS PUP		STD				
+2448013.46	6.8			Vis.	DZS								V				RS PUP		STD				
+2448017.44	7.0			Vis.	DZS								V				RS PUP		STD				
+2448020.48	7.3			Vis.	DZS								V				RS PUP		STD				
+2448022.45	7.5			Vis.	DZS								V				RS PUP		STD				
+2448024.9	8.0			Vis.	CR								V				RS PUP		STD				
+2448027.45	7.6			Vis.	DZS								V				RS PUP		STD				
+2448037.44	6.6			Vis.	DZS								V				RS PUP		STD				
+2448039.43	6.6			Vis.	DZS								V				RS PUP		STD				
+2448045.45	6.8			Vis.	DZS								V				RS PUP		STD				
+2448051.52	6.9			Vis.	DZS								V				RS PUP		STD				
+2448052.52	6.9			Vis.	DZS								V				RS PUP		STD				
+2448053.52	6.9			Vis.	DZS								V				RS PUP		STD				
+2448059.43	7.2			Vis.	DZS								V				RS PUP		STD				
+2448059.52	6.9			Vis.	DZS								V				RS PUP		STD				
+2448060.54	7.3			Vis.	DZS								V				RS PUP		STD				
+2448061.43	7.5			Vis.	DZS								V				RS PUP		STD				
+2448062.44	7.6			Vis.	DZS								V				RS PUP		STD				
+2448067.41	7.4			Vis.	DZS								V				RS PUP		STD				
+2448068.45	7.6			Vis.	DZS								V				RS PUP		STD				
+2448073.45	6.5			Vis.	DZS								V				RS PUP		STD				
+2448083.423	6.6			Vis.	DZS								V				RS PUP		STD				
+2448090.45	6.9			Vis.	DZS								V				RS PUP		STD				
+2448091.43	6.8			Vis.	DZS								V				RS PUP		STD				
+2448092.44	6.8			Vis.	DZS								V				RS PUP		STD				
+2448095.42	6.9			Vis.	DZS								V				RS PUP		STD				
+2448098.44	6.8			Vis.	DZS								V				RS PUP		STD				
+2448100.43	7.0			Vis.	DZS								V				RS PUP		STD				
+2448223.57	7.1			Vis.	DZS								V				RS PUP		STD				
+2448224.57	7.1			Vis.	DZS								V				RS PUP		STD				
+2448225.57	7.4			Vis.	DZS								V				RS PUP		STD				
+2448226.53	6.9			Vis.	DZS								V				RS PUP		STD				
+2448228.53	6.7			Vis.	DZS								V				RS PUP		STD				
+2448229.54	6.6			Vis.	DZS								V				RS PUP		STD				
+2448232.53	6.5			Vis.	DZS								V				RS PUP		STD				
+2448232.55	6.6			Vis.	DZS								V				RS PUP		STD				
+2448237.54	6.5			Vis.	DZS								V				RS PUP		STD				
+2448239.53	6.5			Vis.	DZS								V				RS PUP		STD				
+2448240.53	6.6			Vis.	DZS								V				RS PUP		STD				
+2448241.58	6.6			Vis.	DZS								V				RS PUP		STD				
+2448242.55	6.4			Vis.	DZS								V				RS PUP		STD				
+2448244.61	6.4			Vis.	DZS								V				RS PUP		STD				
+2448246.66	6.6			Vis.	DZS								V				RS PUP		STD				
+2448248.55	6.8			Vis.	DZS								V				RS PUP		STD				
+2448251.56	6.8			Vis.	DZS								V				RS PUP		STD				
+2448253.57	6.8			Vis.	DZS								V				RS PUP		STD				
+2448254.56	6.9			Vis.	DZS								V				RS PUP		STD				
+2448258.56	7.0			Vis.	DZS								V				RS PUP		STD				
+2448260.56	6.9			Vis.	DZS								V				RS PUP		STD				
+2448261.54	6.9			Vis.	DZS								V				RS PUP		STD				
+2448264.39	7.0			Vis.	DZS								V				RS PUP		STD				
+2448267.52	7.2			Vis.	DZS								V				RS PUP		STD				
+2448270.57	7.2			Vis.	DZS								V				RS PUP		STD				
+2448274.61	7.4			Vis.	DZS								V				RS PUP		STD				
+2448278.56	6.9			Vis.	DZS								V				RS PUP		STD				
+2448279.56	6.8			Vis.	DZS								V				RS PUP		STD				
+2448288.56	6.5			Vis.	DZS								V				RS PUP		STD				
+2448289.55	6.6			Vis.	DZS								V				RS PUP		STD				
+2448291.0	7.0			Vis.	CR								V				RS PUP		STD				
+2448291.53	6.8			Vis.	DZS								V				RS PUP		STD				
+2448293.56	6.8			Vis.	DZS								V				RS PUP		STD				
+2448295.56	6.8			Vis.	DZS								V				RS PUP		STD				
+2448305.53	7.0			Vis.	DZS								V				RS PUP		STD				
+2448312.54	7.1			Vis.	DZS								V				RS PUP		STD				
+2448314.5	7.2			Vis.	DZS								V				RS PUP		STD				
+2448318.49	7.0			Vis.	DZS								V				RS PUP		STD				
+2448320.47	7.0			Vis.	DZS								V				RS PUP		STD				
+2448326.48	6.8			Vis.	DZS								V				RS PUP		STD				
+2448328.49	6.8			Vis.	DZS								V				RS PUP		STD				
+2448330.47	6.7			Vis.	DZS								V				RS PUP		STD				
+2448332.46	6.8			Vis.	DZS								V				RS PUP		STD				
+2448336.48	6.9			Vis.	DZS								V				RS PUP		STD				
+2448339.47	6.8			Vis.	DZS								V				RS PUP		STD				
+2448340.55	6.8			Vis.	DZS								V				RS PUP		STD				
+2448341.53	6.8			Vis.	DZS								V				RS PUP		STD				
+2448345.51	7.0			Vis.	DZS								V				RS PUP		STD				
+2448347.55	6.9			Vis.	DZS								V				RS PUP		STD				
+2448350.51	7.1			Vis.	DZS								V				RS PUP		STD				
+2448356.1	8.0			Vis.	CR								V				RS PUP		STD				
+2448365.52	6.8			Vis.	DZS								V				RS PUP		STD				
+2448366.55	6.7			Vis.	DZS								V				RS PUP		STD				
+2448367.54	6.6			Vis.	DZS								V				RS PUP		STD				
+2448370.49	6.6			Vis.	DZS								V				RS PUP		STD				
+2448372.47	6.8			Vis.	DZS								V				RS PUP		STD				
+2448373.49	6.8			Vis.	DZS								V				RS PUP		STD				
+2448382.51	6.8			Vis.	DZS								V				RS PUP		STD				
+2448384.47	6.8			Vis.	DZS								V				RS PUP		STD				
+2448386.50	6.9			Vis.	DZS								V				RS PUP		STD				
+2448390.0	7.2			Vis.	CR								V				RS PUP		STD				
+2448394.50	7.4			Vis.	DZS								V				RS PUP		STD				
+2448396.58	7.4			Vis.	DZS								V				RS PUP		STD				
+2448400.46	7.4			Vis.	DZS								V				RS PUP		STD				
+2448416.44	6.6			Vis.	DZS								V				RS PUP		STD				
+2448417.50	6.8			Vis.	DZS								V				RS PUP		STD				
+2448419.44	6.8			Vis.	DZS								V				RS PUP		STD				
+2448431.42	7.0			Vis.	DZS								V				RS PUP		STD				
+2448437.42	7.5			Vis.	DZS								V				RS PUP		STD				
+2448438.42	7.4			Vis.	DZS								V				RS PUP		STD				
+2448452.445	6.5			Vis.	DZS								V				RS PUP		STD				
+2448454.456	6.4			Vis.	DZS								V				RS PUP		STD				
+2448460.445	6.9			Vis.	DZS								V				RS PUP		STD				
+2448463.439	6.8			Vis.	DZS								V				RS PUP		STD				
+2448625.568	6.8			Vis.	DZS								V				RS PUP		STD				
+2448626.545	6.8			Vis.	DZS								V				RS PUP		STD				
+2448629.0	7.3			Vis.	CR								V				RS PUP		STD				
+2448630.0	7.0			Vis.	CR								V				RS PUP		STD				
+2448630.531	6.8			Vis.	DZS								V				RS PUP		STD				
+2448631.530	6.8			Vis.	DZS								V				RS PUP		STD				
+2448633.531	6.9			Vis.	DZS								V				RS PUP		STD				
+2448635.564	7.1			Vis.	DZS								V				RS PUP		STD				
+2448637.535	7.2			Vis.	DZS								V				RS PUP		STD				
+2448638.534	7.1			Vis.	DZS								V				RS PUP		STD				
+2448640.0	7.6			Vis.	CR								V				RS PUP		STD				
+2448640.534	7.3			Vis.	DZS								V				RS PUP		STD				
+2448642.518	7.2			Vis.	DZS								V				RS PUP		STD				
+2448643.531	7.4			Vis.	DZS								V				RS PUP		STD				
+2448647.0	7.7			Vis.	CR								V				RS PUP		STD				
+2448650.1	7.3			Vis.	CR								V				RS PUP		STD				
+2448653.535	6.6			Vis.	DZS								V				RS PUP		STD				
+2448660.528	6.6			Vis.	DZS								V				RS PUP		STD				
+2448661.528	6.6			Vis.	DZS								V				RS PUP		STD				
+2448665.0	6.7			Vis.	CR								V				RS PUP		STD				
+2448669.9	7.2			Vis.	CR								V				RS PUP		STD				
+2448671.520	6.8			Vis.	DZS								V				RS PUP		STD				
+2448672.522	6.9			Vis.	DZS								V				RS PUP		STD				
+2448676.511	7.1			Vis.	DZS								V				RS PUP		STD				
+2448677.505	7.1			Vis.	DZS								V				RS PUP		STD				
+2448678.503	7.1			Vis.	DZS								V				RS PUP		STD				
+2448680.500	7.2			Vis.	DZS								V				RS PUP		STD				
+2448683.515	7.4			Vis.	DZS								V				RS PUP		STD				
+2448688.505	7.4			Vis.	DZS								V				RS PUP		STD				
+2448691.1	7.8			Vis.	CR								V				RS PUP		STD				
+2448706.555	6.9			Vis.	DZS								V				RS PUP		STD				
+2448711.1	6.8			Vis.	CR								V				RS PUP		STD				
+2448711.525	6.7			Vis.	DZS								V				RS PUP		STD				
+2448712.534	6.8			Vis.	DZS								V				RS PUP		STD				
+2448716.512	6.9			Vis.	DZS								V				RS PUP		STD				
+2448722.515	7.1			Vis.	DZS								V				RS PUP		STD				
+2448726.538	7.1			Vis.	DZS								V				RS PUP		STD				
+2448738.518	6.7			Vis.	DZS								V				RS PUP		STD				
+2448739.511	6.6			Vis.	DZS								V				RS PUP		STD				
+2448744.531	6.6			Vis.	DZS								V				RS PUP		STD				
+2448746.511	6.5			Vis.	DZS								V				RS PUP		STD				
+2448755.456	6.9			Vis.	DZS								V				RS PUP		STD				
+2448762.455	7.0			Vis.	DZS								V				RS PUP		STD				
+2448766.433	7.0			Vis.	DZS								V				RS PUP		STD				
+2448772.9	7.2			Vis.	CR								V				RS PUP		STD				
+2448810.423	7.5			Vis.	DZS								V				RS PUP		STD				
+2448950.1	6.6			Vis.	CR								V				RS PUP		STD				
+2448971.561	7.1			Vis.	DZS								V				RS PUP		STD				
+2448974.546	7.5			Vis.	DZS								V				RS PUP		STD				
+2448989.0	7.1			Vis.	CR								V				RS PUP		STD				
+2448992.559	6.8			Vis.	DZS								V				RS PUP		STD				
+2448998.554	6.5			Vis.	DZS								V				RS PUP		STD				
+2448999.544	6.8			Vis.	DZS								V				RS PUP		STD				
+2449013.582	7.0			Vis.	DZS								V				RS PUP		STD				
+2449017.559	7.3			Vis.	DZS								V				RS PUP		STD				
+2449018.68	7.8			Vis.	GOP								V				RS PUP		STD				
+2449019.547	7.3			Vis.	DZS								V				RS PUP		STD				
+2449020.570	7.4			Vis.	DZS								V				RS PUP		STD				
+2449023.554	7.0			Vis.	DZS								V				RS PUP		STD				
+2449032.539	6.5			Vis.	DZS								V				RS PUP		STD				
+2449034.551	6.7			Vis.	DZS								V				RS PUP		STD				
+2449054.504	7.0			Vis.	DZS								V				RS PUP		STD				
+2449056.491	7.1			Vis.	DZS								V				RS PUP		STD				
+2449057.486	7.3			Vis.	DZS								V				RS PUP		STD				
+2449058.487	7.4			Vis.	DZS								V				RS PUP		STD				
+2449061.1	7.8			Vis.	CR								V				RS PUP		STD				
+2449063.479	7.1			Vis.	DZS								V				RS PUP		STD				
+2449066.475	6.9			Vis.	DZS								V				RS PUP		STD				
+2449070.474	6.5			Vis.	DZS								V				RS PUP		STD				
+2449071.466	6.6			Vis.	DZS								V				RS PUP		STD				
+2449077.491	6.6			Vis.	DZS								V				RS PUP		STD				
+2449079.447	6.8			Vis.	DZS								V				RS PUP		STD				
+2449086.500	6.7			Vis.	DZS								V				RS PUP		STD				
+2449087.522	6.8			Vis.	DZS								V				RS PUP		STD				
+2449096.0	6.9			Vis.	CR								V				RS PUP		STD				
+2449099.8929	7.641			V	APOG					S. WALKER (APOG) ARCHIVAL DATA IMPORT	1		Z			2449099.8939	RS PUP		STD	1			
+2449099.8929	10.53			U	APOG					S. WALKER (APOG) ARCHIVAL DATA IMPORT	1		Z			2449099.8939	RS PUP		STD	1			
+2449099.8929	9.348			B	APOG					S. WALKER (APOG) ARCHIVAL DATA IMPORT	1		Z			2449099.8939	RS PUP		STD	1			
+2449099.8939	7.641	0.007		V	APOG	K				 ERR: 0.007   SENT BY STAN WALKER			Z				RS PUP		STD				
+2449099.8939	9.348	0.010		B	APOG	K				 ERR: 0.010   SENT BY STAN WALKER			Z				RS PUP		STD				
+2449099.8939	10.53	0.050		U	APOG	K				 ERR: 0.050   SENT BY STAN WALKER			Z				RS PUP		STD				
+2449100.536	7.4			Vis.	DZS								V				RS PUP		STD				
+2449106.540	7.2			Vis.	DZS								V				RS PUP		STD				
+2449107.505	7.0			Vis.	DZS								V				RS PUP		STD				
+2449108.8648	8.782			U	APOG					S. WALKER (APOG) ARCHIVAL DATA IMPORT	1		Z			2449108.8652	RS PUP		STD	2			
+2449108.8648	6.801			V	APOG					S. WALKER (APOG) ARCHIVAL DATA IMPORT	1		Z			2449108.8652	RS PUP		STD	2			
+2449108.8648	8			B	APOG					S. WALKER (APOG) ARCHIVAL DATA IMPORT	1		Z			2449108.8652	RS PUP		STD	2			
+2449108.8652	6.801	0.007		V	APOG	K				 ERR: 0.007   SENT BY STAN WALKER			Z				RS PUP		STD				
+2449108.8652	8.000	0.010		B	APOG	K				 ERR: 0.010   SENT BY STAN WALKER			Z				RS PUP		STD				
+2449108.8652	8.782	0.050		U	APOG	K				 ERR: 0.050   SENT BY STAN WALKER			Z				RS PUP		STD				
+2449119.543	6.6			Vis.	DZS								V				RS PUP		STD				
+2449121.442	6.7			Vis.	DZS								V				RS PUP		STD				
+2449122.436	6.8			Vis.	DZS								V				RS PUP		STD				
+2449123.0	6.5			Vis.	CR								V				RS PUP		STD				
+2449126.441	6.8			Vis.	DZS								V				RS PUP		STD				
+2449129.435	6.8			Vis.	DZS								V				RS PUP		STD				
+2449130.7904	7.216	0.007		V	APOG	K				 ERR: 0.007   SENT BY STAN WALKER			Z				RS PUP		STD				
+2449130.7904	8.849	0.010		B	APOG	K				 ERR: 0.010   SENT BY STAN WALKER			Z				RS PUP		STD				
+2449130.7904	10.201	0.050		U	APOG	K				 ERR: 0.050   SENT BY STAN WALKER			Z				RS PUP		STD				
+2449130.7913	10.201			U	APOG					S. WALKER (APOG) ARCHIVAL DATA IMPORT	1		Z			2449130.7904	RS PUP		STD	3			
+2449130.7913	8.849			B	APOG					S. WALKER (APOG) ARCHIVAL DATA IMPORT	1		Z			2449130.7904	RS PUP		STD	3			
+2449130.7913	7.216			V	APOG					S. WALKER (APOG) ARCHIVAL DATA IMPORT	1		Z			2449130.7904	RS PUP		STD	3			
+2449131.434	6.8			Vis.	DZS								V				RS PUP		STD				
+2449133.436	6.9			Vis.	DZS								V				RS PUP		STD				
+2449136.434	6.9			Vis.	DZS								V				RS PUP		STD				
+2449139.430	7.1			Vis.	DZS								V				RS PUP		STD				
+2449148.4	7.2			Vis.	LMF								V				RS PUP		STD				
+2449157.435	6.7			Vis.	DZS								V				RS PUP		STD				
+2449159.428	6.6			Vis.	DZS								V				RS PUP		STD				
+2449168.465	6.8			Vis.	DZS								V				RS PUP		STD				
+2449183.427	7.0			Vis.	DZS								V				RS PUP		STD				
+2449192.430	6.6			Vis.	DZS								V				RS PUP		STD				
+2449363.576	6.8			Vis.	DZS								V				RS PUP		STD				
+2449374.1	7.2			Vis.	CR								V				RS PUP		STD				
+2449381.565	6.8			Vis.	DZS								V				RS PUP		STD				
+2449387.533	6.9			Vis.	DZS								V				RS PUP		STD				
+2449389.546	7.2			Vis.	DZS								V				RS PUP		STD				
+2449391.531	7.1			Vis.	DZS								V				RS PUP		STD				
+2449414.9260	6.971			V	APOG					S. WALKER (APOG) ARCHIVAL DATA IMPORT	1		Z			2449414.9292	RS PUP		STD	4			
+2449414.9260	8.517			B	APOG					S. WALKER (APOG) ARCHIVAL DATA IMPORT	1		Z			2449414.9292	RS PUP		STD	4			
+2449414.9260	9.877			U	APOG					S. WALKER (APOG) ARCHIVAL DATA IMPORT	1		Z			2449414.9292	RS PUP		STD	4			
+2449414.9292	6.971	0.007		V	APOG	K				 ERR: 0.007   SENT BY STAN WALKER			Z				RS PUP		STD				
+2449414.9292	8.517	0.010		B	APOG	K				 ERR: 0.010   SENT BY STAN WALKER			Z				RS PUP		STD				
+2449414.9292	9.877	0.050		U	APOG	K				 ERR: 0.050   SENT BY STAN WALKER			Z				RS PUP		STD				
+2449423.498	6.9			Vis.	DZS								V				RS PUP		STD				
+2449432.9098	9.326			B	APOG					S. WALKER (APOG) ARCHIVAL DATA IMPORT	1		Z			2449432.9124	RS PUP		STD	5			
+2449432.9098	10.916			U	APOG					S. WALKER (APOG) ARCHIVAL DATA IMPORT	1		Z			2449432.9124	RS PUP		STD	5			
+2449432.9098	7.600			V	APOG					S. WALKER (APOG) ARCHIVAL DATA IMPORT	1		Z			2449432.9124	RS PUP		STD	5			
+2449432.9124	7.6	0.007		V	APOG	K				 ERR: 0.007   SENT BY STAN WALKER			Z				RS PUP		STD				
+2449432.9124	9.326	0.010		B	APOG	K				 ERR: 0.010   SENT BY STAN WALKER			Z				RS PUP		STD				
+2449432.9124	10.916	0.050		U	APOG	K				 ERR: 0.050   SENT BY STAN WALKER			Z				RS PUP		STD				
+2449437.547	6.9			Vis.	DZS								V				RS PUP		STD				
+2449449.601	7.0			Vis.	GOP								V				RS PUP		STD				
+2449451.572	6.6			Vis.	GOP								V				RS PUP		STD				
+2449457.9	6.8			Vis.	CR								V				RS PUP		STD				
+2449465.545	6.9			Vis.	DZS								V				RS PUP		STD				
+2449478.472	7.2			Vis.	DZS								V				RS PUP		STD				
+2449482.471	6.6			Vis.	DZS								V				RS PUP		STD				
+2449485.453	6.4			Vis.	DZS								V				RS PUP		STD				
+2449490.0	6.5			Vis.	CR								V				RS PUP		STD				
+2449512.9	7.4			Vis.	CR								V				RS PUP		STD				
+2449522.440	6.7			Vis.	DZS								V				RS PUP		STD				
+2449529.447	6.6			Vis.	DZS								V				RS PUP		STD				
+2449530.431	6.6			Vis.	DZS								V				RS PUP		STD				
+2449531.423	6.6			Vis.	DZS								V				RS PUP		STD				
+2449535.435	6.6			Vis.	DZS								V				RS PUP		STD				
+2449545.431	6.6			Vis.	DZS								V				RS PUP		STD				
+2449726.617	7.8			Vis.	DZS								V				RS PUP		STD				
+2449729.1	7.5			Vis.	CR	K							V				RS PUP		STD				
+2449730.61	7.5			Vis.	DZS								V				RS PUP		STD				
+2449731.0211	9.428			U	APOG					S. WALKER (APOG) ARCHIVAL DATA IMPORT	1		Z			2449731.0242	RS PUP		STD	6			
+2449731.0211	6.856			V	APOG					S. WALKER (APOG) ARCHIVAL DATA IMPORT	1		Z			2449731.0242	RS PUP		STD	6			
+2449731.0211	8.132			B	APOG					S. WALKER (APOG) ARCHIVAL DATA IMPORT	1		Z			2449731.0242	RS PUP		STD	6			
+2449731.0242	6.856	0.007		V	APOG	K				 ERR: 0.007   SENT BY STAN WALKER			Z				RS PUP		STD				
+2449731.0242	8.132	0.010		B	APOG	K				 ERR: 0.010   SENT BY STAN WALKER			Z				RS PUP		STD				
+2449731.0242	9.428	0.050		U	APOG	K				 ERR: 0.050   SENT BY STAN WALKER			Z				RS PUP		STD				
+2449741.595	6.8			Vis.	DZS								V				RS PUP		STD				
+2449742.544	6.8			Vis.	DZS								V				RS PUP		STD				
+2449754.536	6.9			Vis.	DZS								V				RS PUP		STD				
+2449755.573	6.9			Vis.	DZS								V				RS PUP		STD				
+2449773.641	6.8			Vis.	DZS								V				RS PUP		STD				
+2449774.556	6.8			Vis.	DZS								V				RS PUP		STD				
+2449782.612	6.8			Vis.	DZS								V				RS PUP		STD				
+2449785.635	6.8			Vis.	DZS								V				RS PUP		STD				
+2449806.0	6.9			Vis.	CR								V				RS PUP		STD				
+2449812.547	6.9			Vis.	DZS								V				RS PUP		STD				
+2449819.519	6.6			Vis.	DZS								V				RS PUP		STD				
+2449820.515	6.8			Vis.	DZS								V				RS PUP		STD				
+2449821.531	6.5			Vis.	DZS								V				RS PUP		STD				
+2449829.5	6.7			Vis.	DZS								V				RS PUP		STD				
+2449833.477	6.8			Vis.	DZS								V				RS PUP		STD				
+2449846.454	7.0			Vis.	DZS								V				RS PUP		STD				
+2449847.477	7.0			Vis.	DZS								V				RS PUP		STD				
+2449848.464	7.0			Vis.	DZS								V				RS PUP		STD				
+2449876.473	6.8			Vis.	DZS								V				RS PUP		STD				
+2449877.468	6.9			Vis.	DZS								V				RS PUP		STD				
+2449882.425	7.0			Vis.	DZS								V				RS PUP		STD				
+2449902.438	6.6			Vis.	DZS								V				RS PUP		STD				
+2449917.436	6.7			Vis.	DZS								V				RS PUP		STD				
+2449918.443	6.6			Vis.	DZS								V				RS PUP		STD				
+2450040.862	7.0			Vis.	GOP								V				RS PUP		STD				
+2450043.823	7.5			Vis.	GOP								V				RS PUP		STD				
+2450135.564	7.4			Vis.	DZS								V				RS PUP		STD				
+2450137.519	7.4			Vis.	DZS								V				RS PUP		STD				
+2450138.528	7.4			Vis.	DZS								V				RS PUP		STD				
+2450139.512	7.4			Vis.	DZS								V				RS PUP		STD				
+2450140.513	7.4			Vis.	DZS								V				RS PUP		STD				
+2450145.493	6.8			Vis.	DZS								V				RS PUP		STD				
+2450163.0	6.8			Vis.	CR	K							V				RS PUP		STD				
+2450165.5785	7.4			Vis.	SQR								V				RS PUP		STD				
+2450180.5854	8.0			Vis.	SQR								V				RS PUP		STD				
+2450181.5715	8.1			Vis.	SQR								V				RS PUP		STD				
+2450183.5708	8.2			Vis.	SQR								V				RS PUP		STD				
+2450184.5493	8.2			Vis.	SQR								V				RS PUP		STD				
+2450190.5660	6.8			Vis.	SQR								V				RS PUP		STD				
+2450225.9	7.4			Vis.	CR	K							V				RS PUP		STD				
+2450401.6854	6.8			Vis.	SUX								V				RS PUP	AFOEV	STD				
+2450462.1	7.8			Vis.	CR								V				RS PUP		STD				
+2450867.5403	7.1			Vis.	SBN	G							V				RS PUP		STD				
+2450869.5278	7.3			Vis.	SBN	G							V				RS PUP		STD				
+2450871.5035	7.4			Vis.	SBN	G							V				RS PUP		STD				
+2450874.559	7.3			Vis.	LX								Z				RS PUP		STD				
+2450875.5319	7.4			Vis.	LX	U							Z				RS PUP		STD				
+2450877.552	7.6			Vis.	LX	U							Z				RS PUP		STD				
+2450905.1	7.0			Vis.	CR	K							V				RS PUP		STD				
+2450925.4264	7.7			Vis.	ARL								V				RS PUP		STD				
+2450935.4236	6.7			Vis.	ARL								V				RS PUP		STD				
+2451193.1	6.8			Vis.	CR	K							V				RS PUP		STD				
+2451198.4896	7.3			Vis.	ARL								V				RS PUP		STD				
+2451203.5458	7.4			Vis.	ARL								V				RS PUP		STD				
+2451213.4521	7.5			Vis.	ARL								V				RS PUP		STD				
+2451221.4264	7.9			Vis.	ARL								V				RS PUP		STD				
+2451228.6528	6.7			Vis.	SQR	A							V				RS PUP		STD				
+2451231.5521	7.3			Vis.	SQR	A							V				RS PUP		STD				
+2451241.6361	7.4			Vis.	SQR	A							V				RS PUP		STD				
+2451242.6632	7.4			Vis.	SQR	A							V				RS PUP		STD				
+2451244.5924	7.2			Vis.	SBN								V				RS PUP		STD				
+2451245.4965	7.3			Vis.	SBN								V				RS PUP		STD				
+2451245.5729	7.5			Vis.	SQR	A							V				RS PUP		STD				
+2451246.5278	7.4			Vis.	SBN								V				RS PUP		STD				
+2451246.5618	7.9			Vis.	SQR	A							V				RS PUP		STD				
+2451247.5243	7.3			Vis.	SBN								V				RS PUP		STD				
+2451249.4090	7.6			Vis.	SBN								V				RS PUP		STD				
+2451252.4271	7.6			Vis.	SBN								V				RS PUP		STD				
+2451253.5285	7.7			Vis.	SBN								V				RS PUP		STD				
+2451253.5875	7.9			Vis.	SQR	A							V				RS PUP		STD				
+2451254.6451	7.9			Vis.	SQR	A							V				RS PUP		STD				
+2451255.5479	8.5			Vis.	SQR	A							V				RS PUP		STD				
+2451256.5368	8.4			Vis.	SQR	A							V				RS PUP		STD				
+2451257.6076	8.0			Vis.	SQR	A							V				RS PUP		STD				
+2451258.4347	7.9			Vis.	SBN								V				RS PUP		STD				
+2451259.5514	8.2			Vis.	SQR	A							V				RS PUP		STD				
+2451260.6646	8.2			Vis.	SQR	A							V				RS PUP		STD				
+2451262.5132	7.9			Vis.	SBN								V				RS PUP		STD				
+2451263.5646	7.8			Vis.	SBN								V				RS PUP		STD				
+2451265.4861	7.5			Vis.	SBN								V				RS PUP		STD				
+2451266.4278	7.6			Vis.	SBN								V				RS PUP		STD				
+2451266.5618	7.4			Vis.	SQR	A							V				RS PUP		STD				
+2451268.5382	6.8			Vis.	SBN								V				RS PUP		STD				
+2451271.5514	7.3			Vis.	SQR	A							V				RS PUP		STD				
+2451272.5569	7.2			Vis.	SQR	A							V				RS PUP		STD				
+2451274.5819	6.9			Vis.	SQR	A							V				RS PUP		STD				
+2451278.1	6.7			Vis.	CR	K							V				RS PUP		STD				
+2451278.5569	7.3			Vis.	SQR	A							V				RS PUP		STD				
+2451280.5778	7.3			Vis.	SQR	A							V				RS PUP		STD				
+2451281.5792	7.2			Vis.	SQR	A							V				RS PUP		STD				
+2451285.4028	7.3			Vis.	SBN								V				RS PUP		STD				
+2451286.5264	7.4			Vis.	SBN								V				RS PUP		STD				
+2451286.5660	7.4			Vis.	SQR	A							V				RS PUP		STD				
+2451287.4264	7.3			Vis.	SBN								V				RS PUP		STD				
+2451288.5625	7.5			Vis.	SQR	A							V				RS PUP		STD				
+2451289.5597	7.4			Vis.	SQR	A							V				RS PUP		STD				
+2451294.4201	7.5			Vis.	SBN								V				RS PUP		STD				
+2451299.5396	7.5			Vis.	SBN								V				RS PUP		STD				
+2451301.4000	7.4			Vis.	SBN	G							V				RS PUP		STD				
+2451301.5681	8.4			Vis.	SQR	A							V				RS PUP		STD				
+2451302.3889	7.8			Vis.	SBN	G							V				RS PUP		STD				
+2451313.0	6.1			Vis.	CR	K							V				RS PUP		STD				
+2451315.4306	6.5			Vis.	SBN	G							V				RS PUP		STD				
+2451348.8	7.2			Vis.	CR	K							V				RS PUP		STD				
+2451545.4674	7.9			Vis.	SBN								V				RS PUP		STD				
+2451556.1	7.5			Vis.	CR	K							V				RS PUP		STD				
+2451559.5910	7.0			Vis.	SBN								V				RS PUP		STD				
+2451567.533	6.6			Vis.	DZS								V				RS PUP		STD				
+2451568.5118	6.9			Vis.	SBN								V				RS PUP		STD				
+2451568.531	6.6			Vis.	DZS								V				RS PUP		STD				
+2451569.527	6.7			Vis.	DZS								V				RS PUP		STD				
+2451570.531	6.6			Vis.	DZS								V				RS PUP		STD				
+2451571.567	6.6			Vis.	DZS								V				RS PUP		STD				
+2451572.537	6.6			Vis.	DZS								V				RS PUP		STD				
+2451573.539	6.6			Vis.	DZS								V				RS PUP		STD				
+2451575.542	6.8			Vis.	DZS								V				RS PUP		STD				
+2451576.562	6.8			Vis.	DZS								V				RS PUP		STD				
+2451578.560	7.0			Vis.	DZS								V				RS PUP		STD				
+2451579.594	7.0			Vis.	DZS								V				RS PUP		STD				
+2451582.628	6.8			Vis.	DZS								V				RS PUP		STD				
+2451583.622	6.7			Vis.	DZS								V				RS PUP		STD				
+2451584.653	6.7			Vis.	DZS								V				RS PUP		STD				
+2451585.642	6.9			Vis.	DZS								V				RS PUP		STD				
+2451586.4861	7.9			Vis.	SBN								V				RS PUP		STD				
+2451586.644	6.9			Vis.	DZS								V				RS PUP		STD				
+2451588.633	7.0			Vis.	DZS								V				RS PUP		STD				
+2451589.637	7.2			Vis.	DZS								V				RS PUP		STD				
+2451590.705	7.2			Vis.	DZS								V				RS PUP		STD				
+2451591.679	7.4			Vis.	DZS								V				RS PUP		STD				
+2451592.510	7.4			Vis.	DZS								V				RS PUP		STD				
+2451593.4861	7.9			Vis.	SBN								V				RS PUP		STD				
+2451593.645	7.4			Vis.	DZS								V				RS PUP		STD				
+2451596.4729	7.9			Vis.	SBN								V				RS PUP		STD				
+2451599.4812	7.4			Vis.	SBN								V				RS PUP		STD				
+2451600.5222	7.1			Vis.	SBN								V				RS PUP		STD				
+2451601.4812	7.4			Vis.	SBN								V				RS PUP		STD				
+2451602.5340	6.7			Vis.	SBN								V				RS PUP		STD				
+2451603.4465	6.7			Vis.	SBN								V				RS PUP		STD				
+2451606.4597	6.8			Vis.	SBN								V				RS PUP		STD				
+2451606.613	7.0			Vis.	DZS								V				RS PUP		STD				
+2451607.715	7.0			Vis.	DZS								V				RS PUP		STD				
+2451608.4729	6.9			Vis.	SBN								V				RS PUP		STD				
+2451609.4153	7.0			Vis.	SBN								V				RS PUP		STD				
+2451609.656	6.8			Vis.	DZS								V				RS PUP		STD				
+2451610.583	6.5			Vis.	DZS								V				RS PUP		STD				
+2451611.618	6.5			Vis.	DZS								V				RS PUP		STD				
+2451614.560	6.3			Vis.	DZS								V				RS PUP		STD				
+2451615.638	6.2			Vis.	DZS								V				RS PUP		STD				
+2451616.567	6.4			Vis.	DZS								V				RS PUP		STD				
+2451618.559	6.7			Vis.	DZS								V				RS PUP		STD				
+2451619.564	6.7			Vis.	DZS								V				RS PUP		STD				
+2451620.570	6.9			Vis.	DZS								V				RS PUP		STD				
+2451621.673	7.1			Vis.	DZS								V				RS PUP		STD				
+2451622.4326	7.7			Vis.	SBN	M							V				RS PUP		STD				
+2451622.617	7.1			Vis.	DZS								V				RS PUP		STD				
+2451623.627	7.2			Vis.	DZS								V				RS PUP		STD				
+2451624.4479	7.8			Vis.	SBN								V				RS PUP		STD				
+2451625.646	7.4			Vis.	DZS								V				RS PUP		STD				
+2451626.3938	8.0			Vis.	SBN								V				RS PUP		STD				
+2451626.621	7.4			Vis.	DZS								V				RS PUP		STD				
+2451628.621	7.7			Vis.	DZS								V				RS PUP		STD				
+2451629.5146	8.0			Vis.	SBN								V				RS PUP		STD				
+2451629.620	7.8			Vis.	DZS								V				RS PUP		STD				
+2451630.1	7.9			Vis.	CR								V				RS PUP		STD				
+2451630.516	7.8			Vis.	DZS								V				RS PUP		STD				
+2451631.4465	7.9			Vis.	SBN								V				RS PUP		STD				
+2451631.593	7.8			Vis.	DZS								V				RS PUP		STD				
+2451632.595	7.7			Vis.	DZS								V				RS PUP		STD				
+2451633.594	7.7			Vis.	DZS								V				RS PUP		STD				
+2451634.541	7.6			Vis.	DZS								V				RS PUP		STD				
+2451635.583	7.6			Vis.	DZS								V				RS PUP		STD				
+2451636.588	7.6			Vis.	DZS		73	77	FB1970				V				RS PUP		STD				
+2451637.4417	8.1			Vis.	SBN								V				RS PUP		STD				
+2451637.579	7.5			Vis.	DZS		73	77	FB1970				V				RS PUP		STD				
+2451638.4486	7.9			Vis.	SBN								V				RS PUP		STD				
+2451639.4528	7.7			Vis.	SBN								V				RS PUP		STD				
+2451641.4861	7.3			Vis.	SBN								V				RS PUP		STD				
+2451642.5014	7.0			Vis.	SBN								V				RS PUP		STD				
+2451643.5521	6.7			Vis.	SBN								V				RS PUP		STD				
+2451645.3965	6.7			Vis.	SBN								V				RS PUP		STD				
+2451646.4965	6.6			Vis.	SBN								V				RS PUP		STD				
+2451654.5035	7.0			Vis.	SBN	M							V				RS PUP		STD				
+2451655.4160	7.2			Vis.	SBN								V				RS PUP		STD				
+2451656.3875	7.3			Vis.	SBN								V				RS PUP		STD				
+2451657.4431	7.4			Vis.	SBN								V				RS PUP		STD				
+2451658.4563	7.4			Vis.	SBN								V				RS PUP		STD				
+2451659.4083	7.4			Vis.	SBN								V				RS PUP		STD				
+2451662.5049	7.7			Vis.	SBN								V				RS PUP		STD				
+2451663.4639	7.8			Vis.	SBN								V				RS PUP		STD				
+2451665.4417	7.9			Vis.	SBN								V				RS PUP		STD				
+2451674.3847	8.0			Vis.	SBN		77		GUIDE50	509001814			V				RS PUP		STD				
+2451675.542	8.0			Vis.	DZS		77		FB1970				V				RS PUP		STD				
+2451676.4264	8.0			Vis.	SBN		77		GUIDE50	511001914			V				RS PUP		STD				
+2451679.4694	8.0			Vis.	SBN	M	77		GUIDE50	514002016			V				RS PUP		STD				
+2451682.4042	7.3			Vis.	SBN	M	69	77	GUIDE50	517001842			V				RS PUP		STD				
+2451683.3785	7.1			Vis.	SBN	M	69	77	GUIDE50	518001805			V				RS PUP		STD				
+2451692.4083	6.8			Vis.	ARL								V				RS PUP		STD				
+2451698.4208	7.0			Vis.	ARL	K							V				RS PUP		STD				
+2451902.5583	7.1			Vis.	ARL								V				RS PUP		STD				
+2451907.4958	7.5			Vis.	ARL								V				RS PUP		STD				
+2451964.6556	8.3			Vis.	SQR	A							V				RS PUP		STD				
+2451985.5694	7.5			Vis.	SQR	A							V				RS PUP		STD				
+2451987.6125	7.4			Vis.	SQR	A							V				RS PUP		STD				
+2451990.6521	7.5			Vis.	SQR	A							V				RS PUP		STD				
+2451991.5521	7.5			Vis.	SQR	A							V				RS PUP		STD				
+2451992.5660	7.7			Vis.	SQR	A							V				RS PUP		STD				
+2451994.6292	7.6			Vis.	SQR	A							V				RS PUP		STD				
+2451995.5646	7.6			Vis.	SQR	A							V				RS PUP		STD				
+2452000.5757	7.9			Vis.	SQR	A							V				RS PUP		STD				
+2452070.9	7.2			Vis.	CR	K							V				RS PUP		STD				
+2452621.1	7.3			Vis.	CR	K							V				RS PUP		STD				
+2452649.586	6.7			Vis.	IPA		64	77	A				V				RS PUP		STD				
+2452651.569	6.7			Vis.	IPA		64	77	A				V				RS PUP		STD				
+2453001.0	7.9			Vis.	CR	K							Z				RS PUP		STD				
+2453086.3563	7.8			Vis.	RJG	LV	78	79	SAB1986				Z				RS PUP		STD				
+2453086.3576	7.9			Vis.	CAI	LV	78	79	SAB1986				Z				RS PUP		STD				
+2453737.5174	7.9			Vis.	SBN	G	64	69	GUIDE50				Z				RS PUP		STD				
+2453740.5083	8.0			Vis.	SBN	K	64	69	GUIDE50				Z				RS PUP		STD				
+2453752.4917	8.0			Vis.	SBN	KV	64	69	GUIDE50				Z				RS PUP		STD				
+2453759.5299	6.8			Vis.	SBN	K	64	69	GUIDE50				Z				RS PUP		STD				
+2453761.5535	6.7			Vis.	SBN	K	64	69	GUIDE50				Z				RS PUP		STD				
+2453762.5903	6.8			Vis.	SBN	G	64	69	GUIDE50				Z				RS PUP		STD				
+2453763.5333	6.8			Vis.	SBN	K	64	69	GUIDE50				Z				RS PUP		STD				
+2453765.4958	6.8			Vis.	SBN	G	64	69	GUIDE50				Z				RS PUP		STD				
+2453766.5590	7.0			Vis.	SBN	K	64	69	GUIDE50				Z				RS PUP		STD				
+2453767.5715	7.1			Vis.	SBN	K	64	69	GUIDE50				Z				RS PUP		STD				
+2453768.5160	7.2			Vis.	SBN	K	64	69	GUIDE50				Z				RS PUP		STD				
+2453770.5271	7.4			Vis.	SBN	K	64	69	GUIDE50				Z				RS PUP		STD				
+2453771.5910	7.4			Vis.	SBN	K	64	69	GUIDE50				Z				RS PUP		STD				
+2453777.5139	7.6			Vis.	SBN	KM	64	69	GUIDE50				Z				RS PUP		STD				
+2453781.4972	7.8			Vis.	SBN	M	69	77	GUIDE50				Z				RS PUP		STD				
+2453784.5257	7.9			Vis.	SBN	K	69	77	GUIDE50				Z				RS PUP		STD				
+2453786.4451	8.0			Vis.	SBN	G	69	77	GUIDE50				Z				RS PUP		STD				
+2453787.5618	7.9			Vis.	SBN	G	7	9	GUIDE50				Z				RS PUP		STD				
+2453789.5674	7.9			Vis.	SBN	G	64	69	GUIDE50				Z				RS PUP		STD				
+2453791.5299	8.0			Vis.	SBN	G	7	9	GUIDE50				Z				RS PUP		STD				
+2453793.4431	8.0			Vis.	SBN	G	64	69	GUIDE50				Z				RS PUP		STD				
+2453794.5104	7.9			Vis.	SBN	G	64	69	GUIDE50				Z				RS PUP		STD				
+2453795.5542	7.8			Vis.	SBN	G	64	69	GUIDE50				Z				RS PUP		STD				
+2453796.4556	7.7			Vis.	SBN	G	64	69	GUIDE50				Z				RS PUP		STD				
+2453800.4611	6.7			Vis.	SBN	G	64	69	GUIDE50				Z				RS PUP		STD				
+2453804.0056	6.61	0.05		V	DSI	K	812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453804.0125	5.93	0.025		R	DSI	K	7861		AUTOSTAR	"TRANSFORMED, COMP HD 50167 ERR: 0.025"			Z				RS PUP		STD				
+2453804.0125	6.59	0.02		V	DSI	K	7861		AUTOSTAR	"TRANSFORMED, COMP HD 50167 ERR: 0.02"			Z				RS PUP		STD				
+2453804.0125	6.66	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453804.0125	7.85	0.033		B	DSI	K	7861		AUTOSTAR	"TRANSFORMED, COMP HD 50167 ERR: 0.033"			Z				RS PUP		STD				
+2453806.9944	5.97	0.025		R	DSI	K	7861		AUTOSTAR	"TRANSFORMED, COMP HD 50167 ERR: 0.025"			Z				RS PUP		STD				
+2453806.9944	6.7	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453806.9944	6.71	0.05		V	DSI	K	812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453806.9944	8.07	0.02		B	DSI	K	7861		AUTOSTAR	"TRANSFORMED, COMP HD 50167 ERR: 0.02"			Z				RS PUP		STD				
+2453810.991	6.09	0.02		R	DSI	K	9743		AUTOSTAR	"TRANSFORMED, COMP SA101 324 ERR: 0.02"			Z				RS PUP		STD				
+2453810.991	6.81	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453810.991	6.91	0.02		V	DSI	K	9743		AUTOSTAR	"TRANSFORMED, COMP SA101 324 ERR: 0.02"			Z				RS PUP		STD				
+2453810.991	8.40	0.03		B	DSI	K	9743		AUTOSTAR	"TRANSFORMED, COMP SA101 324 ERR: 0.03"			Z				RS PUP		STD				
+2453820.0417	7.13	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453820.0424	6.32	0.025		R	DSI	K	8309		AUTOSTAR	"TRANSFORMED, COMP SA 105 405 ERR: 0.025"			Z				RS PUP		STD				
+2453820.0424	7.15	0.02		V	DSI	K	8309		AUTOSTAR	"TRANSFORMED, COMP SA 105 405 ERR: 0.02"			Z				RS PUP		STD				
+2453820.0424	8.80	0.02		B	DSI	K	8309		AUTOSTAR	"TRANSFORMED, COMP SA 105 405 ERR: 0.02"			Z				RS PUP		STD				
+2453820.9556	6.36	0.02		R	DSI	K	9743		AUTOSTAR	"TRANSFORMED, COMP SA101 324 ERR: 0.02"			Z				RS PUP		STD				
+2453820.9562	7.22	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453822.0299	6.34	0.025		R	DSI	K	9743		AUTOSTAR	"TRANSFORMED, COMP SA101 324 ERR: 0.025"			Z				RS PUP		STD				
+2453822.0299	7.33	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453822.9167	7.19	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453826.9771	7.44	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453831.0583	7.62	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453831.9632	7.72	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453833.9326	7.7	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453834.9486	7.66	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453836.9743	7.43	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453840.9431	6.56	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453843.9854	6.56	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453846.9188	6.62	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453847.9271	6.68	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453848.8965	6.72	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453851.9458	6.83	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453857.9944	7.03	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453859.9306	7.11	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453860.9722	7.2	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453864.95	7.26	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2453868.8604	7.46	0.05		V	DSI		812		AUTOSTAR	 ERR: 0.05			Z				RS PUP		STD				
+2454050.1243	5.18			I	DSI	K	832		AUTOSTAR	COMP E167 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454050.1243	5.80			R	DSI	K	832		AUTOSTAR	COMP E167 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454050.1243	6.47			V	DSI	K	832		AUTOSTAR	COMP E167 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454050.1243	7.66			B	DSI	K	832		AUTOSTAR	COMP E167 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454057.1021	5.29			I	DSI	K	832		AUTOSTAR	COMP E167 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454057.1021	6.03			R	DSI	K	832		AUTOSTAR	COMP E167 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454057.1021	6.78			V	DSI	K	832		AUTOSTAR	COMP E167 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454057.1021	8.24			B	DSI	K	832		AUTOSTAR	COMP E167 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454080.0326	5.88	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454080.0326	7.57	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454080.0326	9.35	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454080.03264	6.63	0.02		R	DSI		8.63		AUTOSTAR S	COMP E394	1		Z				RS PUP		STD				
+2454086.1	8.1			Vis.	CR	K        							Z				RS PUP		STD				
+2454087.0306	5.46			I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454087.0306	6.22			R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454087.0306	6.92			V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454087.0306	8.32			B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454095.0944	5.16			I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454095.0944	5.89			R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454095.0944	6.63			V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454095.0944	7.94			B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454096.0486	5.25			I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454096.0486	5.98			R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454096.0486	6.66			V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454096.0486	8.01			B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454105.9806	5.39			I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454105.9806	6.16			R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454105.9806	7.00			V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454105.9806	8.61			B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454111.0951	5.51			I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454111.0951	6.29			R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454111.0951	7.14			V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454111.0951	8.85			B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454115.1653	5.71			I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454115.1653	6.44			R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454115.1653	7.34			V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454115.1653	9.03			B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454120.0750	5.86			I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454120.0750	6.68			R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454120.0750	7.57			V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454120.0750	9.29			B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454121.0563	5.90			I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454121.0563	6.86			R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454121.0563	7.60			V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454121.0563	9.39			B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454127.1069	8.80			B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454127.1069	7.32			V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454127.1069	6.49			R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454127.1069	5.73			I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454128.9882	5.45			I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454128.9882	6.14			R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454128.9882	6.85			V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454128.9882	8.15			B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454130.9660	5.25			I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454130.9660	5.88			R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454130.9660	6.56			V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454130.9660	7.66			B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454141.0917	5.28			I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454141.0917	6.08			R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454141.0917	6.99			V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454141.0917	8.20			B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454146.0556	5.48			I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.04 TRANSFORM: YES			Z				RS PUP		STD				
+2454146.0556	6.17			R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454146.0556	7.07			V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454146.0556	8.52			B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454146.9938	5.46			I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454146.9938	6.10			R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454146.9938	7.04			V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454146.9938	8.96			B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454155.0813	5.58			I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454155.0813	6.38			R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454155.0813	7.25			V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.04 TRANSFORM: YES			Z				RS PUP		STD				
+2454155.0813	8.92			B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.04 TRANSFORM: YES			Z				RS PUP		STD				
+2454162.9438	5.91			I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454162.9438	6.70			R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454162.9438	7.60			V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454162.9438	9.40			B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454169.0653	5.66			I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454169.0653	6.36			R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454169.0653	7.12			V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454169.0653	8.54			B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454170.0042	5.52			I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454170.0042	6.20			R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454170.0042	6.95			V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454170.0042	8.28			B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454173.0313	5.21			I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454173.0313	5.91			R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454173.0313	6.54			V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454173.0313	7.38			B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454174.9243	5.24			I	DSI	K	863		AUTOSTAR	COMP E532 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454174.9243	5.89			R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES			Z				RS PUP		STD				
+2454174.9243	6.53			V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454174.9243	7.75			B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES			Z				RS PUP		STD				
+2454183.0215	5.29	0.03		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454183.0215	6.02	0.03		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454183.0215	6.81	0.04		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.04 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454183.0215	8.32	0.04		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.04 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454186.9340	5.40	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454186.9340	6.19	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454186.9340	7.00	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454186.9340	8.64	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454202.9271	5.84	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454202.9271	6.64	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454202.9271	7.56	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454202.9271	9.34	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454449.0236	5.78	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	0		Z				RS PUP		STD				
+2454449.0236	6.60	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	0		Z				RS PUP		STD				
+2454449.0236	7.49	0.03		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES	0		Z				RS PUP		STD				
+2454449.0236	9.28	0.04		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.04 TRANSFORM: YES	0		Z				RS PUP		STD				
+2454457.0771	5.87	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	0		Z				RS PUP		STD				
+2454457.0771	6.66	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	0		Z				RS PUP		STD				
+2454457.0771	7.50	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	0		Z				RS PUP		STD				
+2454457.0771	9.14	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	0		Z				RS PUP		STD				
+2454461.0007	5.39	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	0		Z				RS PUP		STD				
+2454461.0007	6.76	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	0		Z				RS PUP		STD				
+2454461.0007	8.05	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	0		Z				RS PUP		STD				
+2454463.0111	5.26	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	0		Z				RS PUP		STD				
+2454463.0111	6.56	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	0		Z				RS PUP		STD				
+2454463.0111	7.74	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	0		Z				RS PUP		STD				
+2454466.1389	5.23	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	0		Z				RS PUP		STD				
+2454466.1389	6.60	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	0		Z				RS PUP		STD				
+2454466.1389	7.84	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	0		Z				RS PUP		STD				
+2454467.6188	6.7			Vis.	SBN	     6	4	69	GUIDE50		0		Z				RS PUP		STD				
+2454470.51458	7.3			Vis.	SBN		69	76	080202				Z				RS PUP		STD				
+2454474.52708	7.6			Vis.	SBN	G	69	74	1997		0		Z				RS PUP		STD				
+2454475.53333	7.7			Vis.	SBN	G	69	74	1997		0		Z				RS PUP		STD				
+2454476.48056	7.8			Vis.	SBN	G	69	74	1997		0		Z				RS PUP		STD				
+2454477.50000	7.9			Vis.	SBN	G	69	74	1997		0		Z				RS PUP		STD				
+2454478.69167	7.5			Vis.	SBN	G	69	74	1997		0		Z				RS PUP		STD				
+2454480.50486	7.8			Vis.	SBN	G	69	77	1997		0		Z				RS PUP		STD				
+2454493.47500	8.0			Vis.	SBN	K	77		1996				Z				RS PUP		STD				
+2454499.62083	7.6			Vis.	SBN	K	69	77	1996				Z				RS PUP		STD				
+2454502.56597	7.0			Vis.	SBN		69	76	080202				Z				RS PUP		STD				
+2454503.48681	6.8			Vis.	SBN		58	69	080202				Z				RS PUP		STD				
+2454509.0840	5.24	0.02		I	DSI	K	863		AUTOSTAR	COMP E391 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454509.0840	5.93	0.02		R	DSI	K	863		AUTOSTAR	COMP E391 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454509.0840	6.64	0.02		V	DSI	K	863		AUTOSTAR	COMP E391 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454509.0840	7.99	0.02		B	DSI	K	863		AUTOSTAR	COMP E391 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454518.0069	5.36	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454518.0069	6.14	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454518.0069	6.94	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454518.0069	8.54	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454520.0944	5.39	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454520.0944	6.19	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454520.0944	7.00	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454520.0944	8.65	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454526.0444	5.55	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454526.0444	6.36	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454526.0444	7.22	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454526.0444	8.93	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454526.9174	5.58	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454526.9174	6.38	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454526.9174	7.25	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454526.9174	8.99	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454528.44931	7.5			Vis.	SBN		69	76	080202				Z				RS PUP		STD				
+2454528.9007	5.64	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454528.9007	7.32	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454528.9007	9.05	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454539.0563	5.93	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454539.0563	7.62	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454539.0563	9.33	0.03		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454555.9049	5.30	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454555.9049	6.81	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454555.9049	8.31	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454556.8618	5.31	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454556.8618	6.85	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454556.8618	8.34	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454558.45486	7.2			Vis.	SBN		69	76	080202				Z				RS PUP		STD				
+2454564.28750	7.3			Vis.	SBN		69	76	080202				Z				RS PUP		STD				
+2454565.41597	7.5			Vis.	SBN		69	76	080202				Z				RS PUP		STD				
+2454568.0299	5.50	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454568.0299	7.17	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454568.0299	8.91	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454573.42153	7.7			Vis.	SBN	BUV	76		080202				Z				RS PUP		STD				
+2454578.9590	5.89	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454578.9590	6.70	0.03		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454578.9590	7.61	0.03		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454578.9590	9.35	0.04		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.04 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454581.9153	5.86	0.03		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454581.9153	7.47	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454581.9153	9.09	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454582.8674	5.74	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454582.8674	6.49	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454582.8674	7.29	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454582.8674	8.82	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454584.40972	7.0			Vis.	SBN	U	69	76	080202				Z				RS PUP		STD				
+2454584.8889	5.49	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454584.8889	6.18	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454584.8889	6.86	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454584.8889	8.16	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454589.8528	5.21	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454589.8528	5.89	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454589.8528	6.57	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454589.8528	7.75	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454590.9083	5.21	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454590.9083	6.59	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454590.9083	7.81	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454598.8632	5.29	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454598.8632	6.06	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454598.8632	6.85	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454598.8632	8.35	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454599.9806	5.36	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454599.9806	6.14	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454599.9806	6.91	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454599.9806	8.47	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454604.9458	5.42	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454604.9458	6.18	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454604.9458	7.04	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454604.9458	8.65	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454606.9153	5.50	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454606.9153	6.35	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454606.9153	7.11	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454606.9153	8.80	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454610.8833	5.60	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454610.8833	6.41	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454610.8833	7.26	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454610.8833	8.99	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454613.9042	5.71	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454613.9042	7.43	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454613.9042	9.16	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454616.9347	5.80	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454616.9347	6.59	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454616.9347	7.52	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454616.9347	9.28	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454631.8861	5.18	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454631.8861	6.57	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454631.8861	7.72	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454827.1563	5.93	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454827.1563	6.75	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454827.1563	7.65	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454827.1563	9.42	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454837.0174	6.22	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454837.0174	5.22	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454837.0174	5.88	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454837.0174	6.53	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454837.0174	7.69	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454838.0354	5.21	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454838.0354	5.88	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454838.0354	6.52	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454838.0354	7.72	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454844.5972	6.7			Vis.	BZX		5.8	6.9	1071aokv	CLEAR VIEW			Z				RS PUP		STD				
+2454845.1389	5.29	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454845.1389	5.99	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454845.1389	6.76	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454845.1389	8.19	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454846.0632	5.31	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454846.0632	6.05	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454846.0632	6.80	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454846.0632	8.30	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454850.9882	5.39	0.03		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454850.9882	6.17	0.04		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.04 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454850.9882	6.97	0.03		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454850.9882	8.59	0.03		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454856.5732	7.2			Vis.	BZX		7.6	6.9	1071aokv	CLEAR VIEW			Z				RS PUP		STD				
+2454860.0396	5.58	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454860.0396	6.40	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454860.0396	7.26	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454860.0396	8.96	0.03		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454860.9660	5.66	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454860.9660	6.44	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454860.9660	7.34	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454860.9660	9.03	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454861.9938	5.70	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454861.9938	6.50	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454861.9938	7.40	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454861.9938	9.10	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454866.9854	5.74	0.03		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454866.9854	6.53	0.03		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454866.9854	7.52	0.03		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454866.9854	9.34	0.03		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.03 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454884.5975	6.9			Vis.	BZX		6.9		1092cwd	CLEAR VIEW			Z				RS PUP		STD				
+2454889.0278	5.26	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454889.0278	6.02	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454889.0278	6.84	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454889.0278	8.34	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454894.5531	6.9			Vis.	BZX		6.9		1092cwd	CLEAR VIEW			Z				RS PUP		STD				
+2454895.0007	5.37	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454895.0007	6.18	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454895.0007	7.00	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454895.0007	8.67	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454909.0069	5.87	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454909.0069	6.70	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454909.0069	7.59	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454909.0069	9.31	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454917.5149	6.6			Vis.	BZX		6.9	5.8	1092cwd	CLEAR VIEW			Z				RS PUP		STD				
+2454918.9715	5.26	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454918.9715	5.91	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454918.9715	6.56	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454918.9715	7.75	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454925.4989	6.1			Vis.	BZX		5.8	6.9	1092cwd				Z				RS PUP		STD				
+2454926.9771	5.29	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454926.9771	6.01	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454926.9771	6.75	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454926.9771	8.16	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454938.4830	6.9			Vis.	BZX		5.8	7.6	1092cwd				Z				RS PUP		STD				
+2454938.9743	5.49	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454938.9743	6.31	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454938.9743	7.14	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454938.9743	8.80	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454939.8958	5.51	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454939.8958	6.28	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454939.8958	7.17	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454939.8958	8.83	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454941.59028	6.1			Vis.	AJC	KL	58	69	TYCHO	TYCHO / LOW IN SKY			Z				RS PUP		STD				
+2454947.9396	5.80	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454947.9396	6.61	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454947.9396	7.49	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454947.9396	9.33	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454949.4857	7.5			Vis.	BZX		6.9	7.6	1092cwd				Z				RS PUP		STD				
+2454953.0090	7.8			Vis.	YDG		76	88	1221acd				Z				RS PUP		STD				
+2454956.0257	7.2			Vis.	YDG		69	76	1221acd				Z				RS PUP		STD				
+2454958.0792	7.1			Vis.	YDG		69	76	1221acd				Z				RS PUP		STD				
+2454958.9667	6.9			Vis.	YDG		58	69	1221acd				Z				RS PUP		STD				
+2454962.5156	6.7			Vis.	BZX		5.8	6.9	1092cwd				Z				RS PUP		STD				
+2454963.9090	5.24	0.02		I	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454963.9090	5.89	0.02		R	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454963.9090	6.58	0.02		V	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454963.9090	7.80	0.02		B	DSI	K	863		AUTOSTAR	COMP E394 Err: 0.02 TRANSFORM: YES	1		Z				RS PUP		STD				
+2454967.1000	7.0			Vis.	YDG		69	76	1221acd				Z				RS PUP		STD				
+2454968.0430	6.8			Vis.	YDG		58	69	1221acd				Z				RS PUP		STD				
+2454969.0826	6.9			Vis.	YDG		58	69	1221acd				Z				RS PUP		STD				
+2454970.0243	6.9			Vis.	YDG		58	69	1221acd				Z				RS PUP		STD				
+2454976.5142	6.9			Vis.	BZX		6.7	6.9	1092cwd	CLEAR VIEW			Z				RS PUP		STD				
+2454978.54167	6.1			Vis.	AJC	K	58	69	TYCHO	TYCHO CATALOGUE USED			Z				RS PUP		STD				
+2454985.5107	7.5			Vis.	BZX		6.9	8.5	1092cwd				Z				RS PUP		STD				
+2455195.0486	7.39	0.020		V	DSI						1		Z				RS PUP		STD				
+2455195.0486	6.52	0.020		R	DSI						1		Z				RS PUP		STD				
+2455195.0486	5.71	0.020		I	DSI						1		Z				RS PUP		STD				
+2455195.0486	9.17	0.020		B	DSI						1		Z				RS PUP		STD				
+2455201.6312	8.3			Vis.	BZX	K	6.9	8.8	guide v.7				Z				RS PUP		STD				
+2455214.0326	5.92	0.040		R	DSI						1		Z				RS PUP		STD				
+2455214.0326	6.61	0.040		V	DSI						1		Z				RS PUP		STD				
+2455214.0326	7.90	0.040		B	DSI						1		Z				RS PUP		STD				
+2455214.0326	5.25	0.040		I	DSI						1		Z				RS PUP		STD				
+2455215.9965	5.95	0.020		R	DSI						1		Z				RS PUP		STD				
+2455215.9965	6.69	0.020		V	DSI						1		Z				RS PUP		STD				
+2455215.9965	5.27	0.020		I	DSI						1		Z				RS PUP		STD				
+2455215.9965	8.03	0.020		B	DSI						1		Z				RS PUP		STD				
+2455218.62986	6.9			Vis.	BZX	K	5.8	6.9	guide v.7				Z				RS PUP		STD				
+2455230.55764	6.9			Vis.	BZX	K	5.8	7.6	guide v.7				Z				RS PUP		STD				
+2455236.9118	6.57	0.020		R	DSI						1		Z				RS PUP		STD				
+2455236.9118	5.75	0.020		I	DSI						1		Z				RS PUP		STD				
+2455236.9118	9.19	0.020		B	DSI						1		Z				RS PUP		STD				
+2455236.9118	7.44	0.020		V	DSI						1		Z				RS PUP		STD				
+2455243.0521	7.67	0.020		V	DSI						1		Z				RS PUP		STD				
+2455243.0521	9.43	0.020		B	DSI						1		Z				RS PUP		STD				
+2455243.0521	6.77	0.020		R	DSI						1		Z				RS PUP		STD				
+2455243.0521	5.95	0.020		I	DSI						1		Z				RS PUP		STD				
+2455243.908	7.62	0.01		V	DSI						1		Z				RS PUP		STD				
+2455243.908	9.36	0.03		B	DSI						1		Z				RS PUP		STD				
+2455243.908	5.99	0.03		I	DSI						1		Z				RS PUP		STD				
+2455245.9451	7.50	0.03		V	DSI						1		Z				RS PUP		STD				
+2455245.9451	9.06	0.00		B	DSI						1		Z				RS PUP		STD				
+2455245.9451	6.66	0.03		R	DSI						1		Z				RS PUP		STD				
+2455245.9451	5.84	0.02		I	DSI						1		Z				RS PUP		STD				
+2455248.0181	7.06	0.02		V	DSI						1		Z				RS PUP		STD				
+2455248.0181	5.58	0.02		I	DSI						1		Z				RS PUP		STD				
+2455248.0181	6.31	0.03		R	DSI						1		Z				RS PUP		STD				
+2455248.0181	8.43	0.02		B	DSI						1		Z				RS PUP		STD				
+2455251.5354	6.5			Vis.	BZX		6.9	5.8	guide v .7				Z				RS PUP		STD				
+2455259.5458	6.5			Vis.	BZX	K	5.8	6.9	guide v.7				Z				RS PUP		STD				
+2455261.9556	6.08	0.03		R	DSI						1		Z				RS PUP		STD				
+2455261.9556	5.30	0.02		I	DSI						1		Z				RS PUP		STD				
+2455261.9556	6.87	0.02		V	DSI						1		Z				RS PUP		STD				
+2455261.9556	8.34	0.05		B	DSI						1		Z				RS PUP		STD				
+2455263.9271	6.12	0.04		R	DSI						1		Z				RS PUP		STD				
+2455263.9271	6.93	0.03		V	DSI						1		Z				RS PUP		STD				
+2455263.9271	8.46	0.02		B	DSI						1		Z				RS PUP		STD				
+2455263.9271	5.39	0.03		I	DSI						1		Z				RS PUP		STD				
+2455271.8965	5.54	0.02		I	DSI						1		Z				RS PUP		STD				
+2455271.8965	6.33	0.03		R	DSI						1		Z				RS PUP		STD				
+2455271.8965	8.94	0.03		B	DSI						1		Z				RS PUP		STD				
+2455271.8965	7.20	0.03		V	DSI						1		Z				RS PUP		STD				
+2455273.0396	5.57	0.04		I	DSI						1		Z				RS PUP		STD				
+2455273.0396	7.18	0.05		V	DSI						1		Z				RS PUP		STD				
+2455273.0396	6.33	0.04		R	DSI						1		Z				RS PUP		STD				
+2455273.0396	8.84	0.06		B	DSI						1		Z				RS PUP		STD				
+2455278.9361	9.26	0.03		B	DSI						1		Z				RS PUP		STD				
+2455278.9361	7.46	0.03		V	DSI						1		Z				RS PUP		STD				
+2455278.9361	5.86	0.01		I	DSI						1		Z				RS PUP		STD				
+2455278.9361	6.58	0.03		R	DSI						1		Z				RS PUP		STD				
+2455292.5653	5.8			Vis.	BZX	K	5.7	5.8	guide v.7				Z				RS PUP		STD				
+2455298.5076	7.0			Vis.	BZX	K	6.2	7.2	guide v.7				Z				RS PUP		STD				
+2455299.9382	8.10	0.01		B	DSI						1		Z				RS PUP		STD				
+2455299.9382	5.25	0.02		I	DSI						1		Z				RS PUP		STD				
+2455299.9382	6.74	0.02		V	DSI						1		Z				RS PUP		STD				
+2455299.9382	5.98	0.03		R	DSI						1		Z				RS PUP		STD				
+2455307.827	7.12			Vis.	ERW	K	NA		VSS				Z				RS PUP	RASNZ-VSS	STD				
+2455312.9521	6.32	0.05		R	DSI						1		Z				RS PUP		STD				
+2455312.9521	7.19	0.03		V	DSI						1		Z				RS PUP		STD				
+2455312.9521	8.87	0.04		B	DSI						1		Z				RS PUP		STD				
+2455312.9521	5.54	0.02		I	DSI						1		Z				RS PUP		STD				
+2455321.847	7.73			Vis.	ERW	K	NA		VSS				Z				RS PUP	RASNZ-VSS	STD				
+2455324.821	7.62			Vis.	ERW	K	NA		VSS				Z				RS PUP	RASNZ-VSS	STD				
+2455325.9181	6.73	0.02		R	DSI						1		Z				RS PUP		STD				
+2455325.9181	9.41	0.02		B	DSI						1		Z				RS PUP		STD				
+2455325.9181	7.67	0.01		V	DSI						1		Z				RS PUP		STD				
+2455325.9181	5.91	0.00		I	DSI						1		Z				RS PUP		STD				
+2455327.94	7.7			Vis.	ERW	K	NA		VSS				Z				RS PUP	RASNZ-VSS	STD				
+2455343.5069	6.9			Vis.	BZX	K	6.2	7.2	guide v.7				Z				RS PUP		STD				
+2455347.825	6.69			Vis.	ERW	K	NA		VSS	0.02			Z				RS PUP	RASNZ-VSS	STD				
+2455348.802	6.77			Vis.	ERW	K	NA		VSS	0.04			Z				RS PUP	RASNZ-VSS	STD				
+2455511.12	6.54			Vis.	ERW	K	NA		VSS	0.1			Z				RS PUP	RASNZ-VSS	STD				
+2455515.16	6.8			Vis.	ERW	K	NA		VSS	0.1			Z				RS PUP	RASNZ-VSS	STD				
+2455534.055	8.18			Vis.	ERW	K	NA		VSS	0.06			Z				RS PUP	RASNZ-VSS	STD				
+2455541.911	6.61			Vis.	ERW	K	NA		VSS	0.07			Z				RS PUP	RASNZ-VSS	STD				
+2455543.0444	7.69	0.01		B	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455543.0444	6.52	0.01		V	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455543.0444	5.88	0.01		R	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455543.0444	5.19	0.01		I	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455555.0028	8.46	0.01		B	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455555.0028	6.88	0.01		V	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455555.0028	6.05	0.01		R	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455555.0028	5.32	0.01		I	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455561.0181	8.80	0.02		B	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455561.0181	7.09	0.01		V	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455561.0181	6.27	0.01		R	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455561.0181	5.48	0.01		I	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455570.946	7.7			Vis.	ERW	K	NA		VSS	0.02			Z				RS PUP	RASNZ-VSS	STD				
+2455586.9868	7.77	0.01		B	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455586.9868	6.54	0.02		V	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455586.9868	5.92	0.01		R	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455586.9868	5.23	0.01		I	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455615.5386	8.35			Vis.	BZX	K	8.3	8.4	GUIDE V.7				Z				RS PUP		STD				
+2455618.9792	9.21	0.02		B	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455618.9792	7.54	0.03		V	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455618.9792	6.69	0.04		R	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455618.9792	5.90	0.03		I	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455649.9986	9.10	0.02		B	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455649.9986	7.35	0.02		V	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455649.9986	6.43	0.02		R	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455649.9986	5.63	0.03		I	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455660.835	7.94			Vis.	ERW	K	NA		VSS	0.04			Z				RS PUP	RASNZ-VSS	STD				
+2455663.9118	8.18	0.01		B	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455663.9118	6.87	0.01		V	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455663.9118	6.15	0.02		R	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455663.9118	5.47	0.03		I	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455667.5413	5.9			Vis.	BZX		5.8	6.2	1092cwd				Z				RS PUP		STD				
+2455674.803	6.94			Vis.	ERW	K	NA		VSS	0.09			Z				RS PUP	RASNZ-VSS	STD				
+2455678.81	7.14			Vis.	ERW	K	NA		VSS	0.03			Z				RS PUP	RASNZ-VSS	STD				
+2455680.5295	6.9			Vis.	BZX	K	5.7	6.9	guide v.7				Z				RS PUP		STD				
+2455701.5170	7.2			Vis.	BZX	K	6.7	7.2	guide v.7				Z				RS PUP		STD				
+2455718.40417	7.1			Vis.	SBN	V	69	77	ASSA-Guide	Bin 12x50			Z				RS Pup	REA	STD				
+2455936.9438	7.215	0.008		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	2.050	Z		6.792		RS PUP	AAVSO	STD	1			
+2455936.9438	8.554	0.014		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	2.050	Z		8.038		RS PUP	AAVSO	STD	1			
+2455936.9438	6.204	0.136		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	2.050	Z		6.151		RS PUP	AAVSO	STD	1			
+2455938.9258	7.331	0.001		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	2.325	Z		6.818		RS PUP	AAVSO	STD	1			
+2455938.9258	9.018	0.119		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	2.325	Z		7.928		RS PUP	AAVSO	STD	1			
+2455938.9258	6.371	0.193		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	2.325	Z		6.237		RS PUP	AAVSO	STD	1			
+2455947.2599	7.681	0.002		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.622	Z		6.799		RS PUP	AAVSO	STD	1			
+2455947.2599	9.380	0.021		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.622	Z		8.065		RS PUP	AAVSO	STD	1			
+2455947.2599	6.847	0.005		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.622	Z		6.204		RS PUP	AAVSO	STD	1			
+2455948.2055	7.695	0.016		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.249	Z		6.793		RS PUP	AAVSO	STD	1			
+2455948.2055	9.600	0.132		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.249	Z		7.991		RS PUP	AAVSO	STD	1			
+2455948.2055	6.770	0.077		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.249	Z		6.137		RS PUP	AAVSO	STD	1			
+2455956.54861	6.8			Vis.	SBN	B	58	69	6435cjv	Chart used is similar			Z				RS PUP	REA	STD				
+2455963.9746	6.729	0.018		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.159	Z		6.799		RS PUP	AAVSO	STD	1			
+2455963.9746	8.057	0.010		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.159	Z		8.018		RS PUP	AAVSO	STD	1			
+2455963.9746	6.048	0.036		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.159	Z		6.196		RS PUP	AAVSO	STD	1			
+2455965.9329	6.799	0.005		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.318	Z		6.799		RS PUP	AAVSO	STD	1			
+2455965.9329	8.218	0.216		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.318	Z		8.097		RS PUP	AAVSO	STD	1			
+2455965.9329	6.053	0.076		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.318	Z		6.162		RS PUP	AAVSO	STD	1			
+2455969.56111	7.4			Vis.	SBN		69	76	080202				Z				RS PUP	REA	STD				
+2455969.9539	6.937	0.004		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.173	Z		6.804		RS PUP	AAVSO	STD	1			
+2455969.9539	8.447	0.024		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.173	Z		7.974		RS PUP	AAVSO	STD	1			
+2455969.9539	6.170	0.014		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.173	Z		6.176		RS PUP	AAVSO	STD	1			
+2455980.9104	9.03	0.03		B	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455980.9104	7.32	0.03		V	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455980.9104	6.43	0.03		R	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455980.9104	5.63	0.03		I	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2455992.9421	7.529	0.011		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.058	Z		6.798		RS PUP	AAVSO	STD	1			
+2455992.9421	9.185	0.079		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.058	Z		8.027		RS PUP	AAVSO	STD	1			
+2455992.9421	6.711	0.026		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.058	Z		6.175		RS PUP	AAVSO	STD	1			
+2456000.0125	7.73	0.03		B	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2456000.0125	6.54	0.04		V	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2456000.0125	5.91	0.03		R	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2456000.0125	5.21	0.03		I	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2456007.868	6.36			Vis.	ERW	K	NA		VSS	0.12			Z				RS PUP	RASNZ-VSS	STD				
+2456007.9166	6.823	0.002		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.043	Z		6.807		RS PUP	AAVSO	STD	1			
+2456007.9166	8.245	0.014		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.043	Z		8.004		RS PUP	AAVSO	STD	1			
+2456007.9166	6.090	0.004		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.043	Z		6.184		RS PUP	AAVSO	STD	1			
+2456009.9198	6.905	0.006		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.039	Z		6.816		RS PUP	AAVSO	STD	1			
+2456009.9198	8.401	0.012		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.039	Z		8.019		RS PUP	AAVSO	STD	1			
+2456009.9198	6.155	0.006		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.039	Z		6.186		RS PUP	AAVSO	STD	1			
+2456015.9323	7.102	0.004		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.042	Z		6.812		RS PUP	AAVSO	STD	1			
+2456015.9323	8.706	0.010		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.042	Z		8.020		RS PUP	AAVSO	STD	1			
+2456015.9323	6.295	0.003		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.042	Z		6.184		RS PUP	AAVSO	STD	1			
+2456016.9301	7.136	0.008		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.042	Z		6.807		RS PUP	AAVSO	STD	1			
+2456016.9301	8.748	0.023		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.042	Z		8.022		RS PUP	AAVSO	STD	1			
+2456016.9301	6.326	0.007		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.042	Z		6.178		RS PUP	AAVSO	STD	1			
+2456018.9196	7.194	0.001		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.040	Z		6.810		RS PUP	AAVSO	STD	1			
+2456018.9196	8.854	0.014		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.040	Z		8.020		RS PUP	AAVSO	STD	1			
+2456018.9196	6.368	0.004		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.040	Z		6.184		RS PUP	AAVSO	STD	1			
+2456019.9203	7.224	0.036		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.041	Z		6.802		RS PUP	AAVSO	STD	1			
+2456019.9203	8.903	0.085		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.041	Z		8.006		RS PUP	AAVSO	STD	1			
+2456019.9203	6.385	0.046		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.041	Z		6.172		RS PUP	AAVSO	STD	1			
+2456020.9137	7.264	0.044		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.039	Z		6.809		RS PUP	AAVSO	STD	1			
+2456020.9137	8.939	0.084		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.039	Z		8.017		RS PUP	AAVSO	STD	1			
+2456020.9137	6.417	0.039		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.039	Z		6.180		RS PUP	AAVSO	STD	1			
+2456021.9060	7.302	0.045		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.038	Z		6.807		RS PUP	AAVSO	STD	1			
+2456021.9060	8.975	0.082		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.038	Z		8.037		RS PUP	AAVSO	STD	1			
+2456021.9060	6.478	0.048		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.038	Z		6.175		RS PUP	AAVSO	STD	1			
+2456022.8957	7.345	0.046		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.037	Z		6.799		RS PUP	AAVSO	STD	1			
+2456022.8957	9.088	0.056		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.037	Z		8.044		RS PUP	AAVSO	STD	1			
+2456022.8957	6.503	0.054		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.037	Z		6.160		RS PUP	AAVSO	STD	1			
+2456023.8891	7.377	0.052		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.037	Z		6.802		RS PUP	AAVSO	STD	1			
+2456023.8891	9.104	0.103		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.037	Z		8.043		RS PUP	AAVSO	STD	1			
+2456023.8891	6.541	0.044		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.037	Z		6.170		RS PUP	AAVSO	STD	1			
+2456025.8923	7.480	0.037		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.104	Z		6.798		RS PUP	AAVSO	STD	1			
+2456025.8923	9.184	0.077		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.104	Z		8.012		RS PUP	AAVSO	STD	1			
+2456025.8923	6.595	0.050		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.104	Z		6.162		RS PUP	AAVSO	STD	1			
+2456026.9031	7.531	0.047		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.042	Z		6.806		RS PUP	AAVSO	STD	1			
+2456026.9031	9.187	0.081		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.042	Z		8.021		RS PUP	AAVSO	STD	1			
+2456026.9031	6.656	0.042		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.042	Z		6.184		RS PUP	AAVSO	STD	1			
+2456027.00903	8.2			Vis.	PAW	BZ	76	85	7071FWY				Z				RS PUP	VSS	STD				
+2456027.9000	7.567	0.046		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.102	Z		6.799		RS PUP	AAVSO	STD	1			
+2456027.9000	9.347	0.085		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.102	Z		8.006		RS PUP	AAVSO	STD	1			
+2456027.9000	6.692	0.048		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.102	Z		6.156		RS PUP	AAVSO	STD	1			
+2456029.89236	7.63			Vis.	PAW		763		7071FWY				Z				RS PUP	VSS	STD				
+2456030.96389	8.1			Vis.	PAW	Z	773	783	7071FWY				Z				RS PUP	VSS	STD				
+2456033.8981	7.602	0.058		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.054	Z		6.817		RS PUP	AAVSO	STD	1			
+2456033.8981	9.317	0.071		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.054	Z		8.029		RS PUP	AAVSO	STD	1			
+2456033.8981	6.725	0.052		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.054	Z		6.197		RS PUP	AAVSO	STD	1			
+2456035.8846	7.308	0.049		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.047	Z		6.821		RS PUP	AAVSO	STD	1			
+2456035.8846	8.780	0.108		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.047	Z		8.033		RS PUP	AAVSO	STD	1			
+2456035.8846	6.550	0.042		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.047	Z		6.193		RS PUP	AAVSO	STD	1			
+2456036.84	7.37			Vis.	ERW	K	NA		VSS	0.09			Z				RS PUP	RASNZ-VSS	STD				
+2456037.9529	6.896	0.064		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.219	Z		6.813		RS PUP	AAVSO	STD	1			
+2456037.9529	8.147	0.066		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.219	Z		8.050		RS PUP	AAVSO	STD	1			
+2456037.9529	6.216	0.049		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.219	Z		6.187		RS PUP	AAVSO	STD	1			
+2456038.8717	6.727	0.062		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.043	Z		6.817		RS PUP	AAVSO	STD	1			
+2456038.8717	7.930	0.067		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.043	Z		8.059		RS PUP	AAVSO	STD	1			
+2456038.8717	6.102	0.048		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.043	Z		6.201		RS PUP	AAVSO	STD	1			
+2456039.8696	6.619	0.068		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.044	Z		6.816		RS PUP	AAVSO	STD	1			
+2456039.8696	7.756	0.080		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.044	Z		8.021		RS PUP	AAVSO	STD	1			
+2456039.8696	6.002	0.053		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.044	Z		6.182		RS PUP	AAVSO	STD	1			
+2456040.8745	6.587	0.052		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.050	Z		6.817		RS PUP	AAVSO	STD	1			
+2456040.8745	7.690	0.085		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.050	Z		8.024		RS PUP	AAVSO	STD	1			
+2456040.8745	5.992	0.052		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.050	Z		6.209		RS PUP	AAVSO	STD	1			
+2456074.8788	7.632	0.041		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.359	Z		6.800		RS PUP	AAVSO	STD	1			
+2456074.8788	9.365	0.070		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.359	Z		7.998		RS PUP	AAVSO	STD	1			
+2456074.8788	6.802	0.046		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.359	Z		6.162		RS PUP	AAVSO	STD	1			
+2456075.8657	7.553	0.042		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.298	Z		6.822		RS PUP	AAVSO	STD	1			
+2456075.8657	9.211	0.045		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.298	Z		8.045		RS PUP	AAVSO	STD	1			
+2456075.8657	6.717	0.054		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.298	Z		6.196		RS PUP	AAVSO	STD	1			
+2456082.8698	6.568	0.069		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.450	Z		6.818		RS PUP	AAVSO	STD	1			
+2456082.8698	7.725	0.067		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.450	Z		8.091		RS PUP	AAVSO	STD	1			
+2456082.8698	5.968	0.045		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.450	Z		6.194		RS PUP	AAVSO	STD	1			
+2456083.8766	6.601	0.049		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.531	Z		6.811		RS PUP	AAVSO	STD	1			
+2456083.8766	7.754	0.098		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.531	Z		8.051		RS PUP	AAVSO	STD	1			
+2456083.8766	5.997	0.047		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.531	Z		6.159		RS PUP	AAVSO	STD	1			
+2456084.8741	6.632	0.054		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.533	Z		6.810		RS PUP	AAVSO	STD	1			
+2456084.8741	7.830	0.073		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.533	Z		7.994		RS PUP	AAVSO	STD	1			
+2456084.8741	5.982	0.045		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.533	Z		6.174		RS PUP	AAVSO	STD	1			
+2456085.8703	6.661	0.050		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.523	Z		6.800		RS PUP	AAVSO	STD	1			
+2456085.8703	7.910	0.066		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.523	Z		8.039		RS PUP	AAVSO	STD	1			
+2456085.8703	5.998	0.054		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.523	Z		6.178		RS PUP	AAVSO	STD	1			
+2456086.8669	6.700	0.043		V	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.518	Z		6.825		RS PUP	AAVSO	STD	1			
+2456086.8669	8.039	0.047		B	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.518	Z		8.051		RS PUP	AAVSO	STD	1			
+2456086.8669	6.038	0.046		R	BIW		ENSEMBLE	GSC 7133-4553		TRANSFORMED DSLR	1	1.518	Z		6.202		RS PUP	AAVSO	STD	1			
+2456274.0708	9.15	0.01		B	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2456274.0708	7.41	0.03		V	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2456274.0708	6.52	0.05		R	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2456274.0708	5.73	0.03		I	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2456296.6375	6.6			Vis.	BZX	K	5.8	6.9	guide v.7				Z				RS PUP		STD				
+2456327.9280	6.992	0.015		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.406	Z		6.934		RS PUP	AAVSO	STD	1			
+2456327.9280	8.346	0.026		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.406	Z		7.751		RS PUP	AAVSO	STD	1			
+2456327.9280	6.279	0.025		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.406	Z		6.496		RS PUP	AAVSO	STD	1			
+2456335.9252	6.657	0.012		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.289	Z		6.917		RS PUP	AAVSO	STD	2			
+2456335.9252	7.999	0.040		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.289	Z		7.749		RS PUP	AAVSO	STD	2			
+2456335.9252	5.956	0.018		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.289	Z		6.485		RS PUP	AAVSO	STD	2			
+2456338.5868	6.9			Vis.	BZX	K	6.2	7.2	guide v.7				Z				RS PUP		STD				
+2456342.9233	6.905	0.022		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.209	Z		6.924		RS PUP	AAVSO	STD	3			
+2456342.9233	8.443	0.042		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.209	Z		7.727		RS PUP	AAVSO	STD	3			
+2456342.9233	6.095	0.009		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.209	Z		6.491		RS PUP	AAVSO	STD	3			
+2456343.9349	6.935	0.013		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.157	Z		6.915		RS PUP	AAVSO	STD	4			
+2456343.9349	8.529	0.025		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.157	Z		7.701		RS PUP	AAVSO	STD	4			
+2456343.9349	6.129	0.017		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.157	Z		6.492		RS PUP	AAVSO	STD	4			
+2456361.9490	7.616	0.021		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.042	Z		6.923		RS PUP	AAVSO	STD	5			
+2456361.9490	9.487	0.033		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.042	Z		7.719		RS PUP	AAVSO	STD	5			
+2456361.9490	6.710	0.018		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.042	Z		6.499		RS PUP	AAVSO	STD	5			
+2456364.9022	7.633	0.013		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.093	Z		6.927		RS PUP	AAVSO	STD	6			
+2456364.9022	9.424	0.033		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.093	Z		7.719		RS PUP	AAVSO	STD	6			
+2456364.9022	6.749	0.017		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.093	Z		6.494		RS PUP	AAVSO	STD	6			
+2456366.8907	7.475	0.020		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.106	Z		6.912		RS PUP	AAVSO	STD	7			
+2456366.8907	9.113	0.035		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.106	Z		7.709		RS PUP	AAVSO	STD	7			
+2456366.8907	6.640	0.018		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.106	Z		6.471		RS PUP	AAVSO	STD	7			
+2456367.9125	7.295	0.020		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.062	Z		6.914		RS PUP	AAVSO	STD	8			
+2456367.9125	8.851	0.033		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.062	Z		7.736		RS PUP	AAVSO	STD	8			
+2456367.9125	6.490	0.018		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.062	Z		6.473		RS PUP	AAVSO	STD	8			
+2456374.8997	6.589	0.021		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.054	Z		6.911		RS PUP	AAVSO	STD	9			
+2456374.8997	7.841	0.020		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.054	Z		7.737		RS PUP	AAVSO	STD	9			
+2456374.8997	5.912	0.008		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.054	Z		6.469		RS PUP	AAVSO	STD	9			
+2456378.9593	6.720	0.018		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.062	Z		6.917		RS PUP	AAVSO	STD	10			
+2456378.9593	8.084	0.018		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.062	Z		7.683		RS PUP	AAVSO	STD	10			
+2456378.9593	5.979	0.014		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.062	Z		6.484		RS PUP	AAVSO	STD	10			
+2456382.5153	6.8			Vis.	BZX	K	6.9	6.0	guide v.7				Z				RS PUP		STD				
+2456386.9468	6.983	0.011		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.076	Z		6.915		RS PUP	AAVSO	STD	11			
+2456386.9468	8.583	0.022		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.076	Z		7.739		RS PUP	AAVSO	STD	11			
+2456386.9468	6.164	0.022		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.076	Z		6.460		RS PUP	AAVSO	STD	11			
+2456396.9600	7.329	0.012		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.180	Z		6.943		RS PUP	AAVSO	STD	12			
+2456396.9600	9.048	0.025		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.180	Z		7.749		RS PUP	AAVSO	STD	12			
+2456396.9600	6.452	0.019		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.180	Z		6.504		RS PUP	AAVSO	STD	12			
+2456399.902	7.47	0.02		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.06	Z		6.93		RS PUP	AAVSO	STD	1			
+2456399.902	9.20	0.02		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.06	Z		7.74		RS PUP	AAVSO	STD	1			
+2456399.902	6.57	0.02		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.06	Z		6.51		RS PUP	AAVSO	STD	1			
+2456404.886	7.634	0.013		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.059	Z		6.925		RS PUP	AAVSO	STD	1			
+2456404.886	9.444	0.028		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.059	Z		7.737		RS PUP	AAVSO	STD	1			
+2456404.886	6.753	0.015		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.059	Z		6.506		RS PUP	AAVSO	STD	1			
+2456406.5382	8.25			Vis.	BZX	K	7.6	8.6	guide v.7				Z				RS PUP		STD				
+2456406.8808	7.608	0.017		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.059	Z		6.928		RS PUP	AAVSO	STD	1			
+2456406.8808	9.333	0.035		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.059	Z		7.726		RS PUP	AAVSO	STD	1			
+2456406.8808	6.737	0.022		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.059	Z		6.502		RS PUP	AAVSO	STD	1			
+2456423.8730	6.886	0.131		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.137	Z		7.004		RS PUP	AAVSO	STD	1			
+2456423.8730	8.507	0.179		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.137	Z		7.926		RS PUP	AAVSO	STD	1			
+2456423.8730	6.088	0.022		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.137	Z		6.553		RS PUP	AAVSO	STD	1			
+2456424.8695	6.854	0.008		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.135	Z		6.923		RS PUP	AAVSO	STD	1			
+2456424.8695	8.413	0.030		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.135	Z		7.766		RS PUP	AAVSO	STD	1			
+2456424.8695	6.068	0.019		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.135	Z		6.498		RS PUP	AAVSO	STD	1			
+2456436.8738	7.248	0.016		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.279	Z		6.934		RS PUP	AAVSO	STD	1			
+2456436.8738	9.013	0.044		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.279	Z		7.749		RS PUP	AAVSO	STD	1			
+2456436.8738	6.355	0.013		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.279	Z		6.473		RS PUP	AAVSO	STD	1			
+2456455.8664	6.556	0.012		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.612	Z		6.928		RS PUP	AAVSO	STD	1			
+2456455.8664	7.727	0.016		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.612	Z		7.747		RS PUP	AAVSO	STD	1			
+2456455.8664	5.892	0.020		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	1.612	Z		6.461		RS PUP	AAVSO	STD	1			
+2456468.8603	6.941	0.011		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	2.022	Z		6.917		RS PUP	AAVSO	STD	1			
+2456468.8603	8.536	0.035		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	2.022	Z		7.763		RS PUP	AAVSO	STD	1			
+2456468.8603	6.113	0.017		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	2.022	Z		6.479		RS PUP	AAVSO	STD	1			
+2456471.858	7.05	0.02		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	2.13	Z		6.91		RS PUP	AAVSO	STD	1			
+2456471.858	8.64	0.04		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	2.13	Z		7.76		RS PUP	AAVSO	STD	1			
+2456471.858	6.25	0.02		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	2.13	Z		6.45		RS PUP	AAVSO	STD	1			
+2456474.8600	7.108	0.012		V	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	2.375	Z		6.930		RS PUP	AAVSO	STD	1			
+2456474.8600	8.870	0.027		B	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	2.375	Z		7.747		RS PUP	AAVSO	STD	1			
+2456474.8600	6.242	0.019		R	BIW		ENSEMBLE	GSC 7129-4612		TRANSFORMED DSLR	1	2.375	Z		6.525		RS PUP	AAVSO	STD	1			
+2456671.3208	7.1			Vis.	PEX	B	64	72	13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456672.3132	7.2			Vis.	PEX	B	72		13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456673.2938	7.1			Vis.	PEX	B	64	72	13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456674.3243	7.2			Vis.	PEX	B	72		13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456677.0257	7.4			Vis.	PEX	B	72	76	13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456678.2313	7.4			Vis.	PEX	B	72	76	13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456679.3021	7.3			Vis.	PEX	B	72	76	13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456684.2903	7.7			Vis.	PEX		76		13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456685.2806	7.8			Vis.	PEX		76		13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456686.0840	7.5			Vis.	PEX		72	76	13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456687.2583	7.8			Vis.	PEX		76		13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456688.3479	7.8			Vis.	PEX		76		13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456690.2576	7.8			Vis.	PEX		76		13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456692.2625	7.9			Vis.	PEX		79		13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456694.2465	7.9			Vis.	PEX		76		13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456695.3167	8.1			Vis.	PEX		79		13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456699.3319	7.9			Vis.	PEX		76		13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456701.3097	7.8			Vis.	PEX	B	76	79	13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456702.9424	6.799	0.026		V	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.190	Z		6.418		RS PUP	VSS	STD	1			
+2456702.9424	8.027	0.114		B	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.190	Z		7.509		RS PUP	VSS	STD	1			
+2456702.9424	6.136	0.043		R	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.190	Z		5.822		RS PUP	VSS	STD	1			
+2456704.3042	6.9			Vis.	PEX	B	62	71	13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456709.2889	7.3			Vis.	PEX	B	69	76	13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456710.9415	6.698	0.018		V	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.124	Z		6.408		RS PUP	VSS	STD	1			
+2456710.9415	8.024	0.081		B	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.124	Z		7.523		RS PUP	VSS	STD	1			
+2456710.9415	6.008	0.045		R	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.124	Z		5.821		RS PUP	VSS	STD	1			
+2456716.1583	7.5			Vis.	PEX		76		13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456731.9182	7.457	0.024		V	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.059	Z		6.420		RS PUP	VSS	STD	1			
+2456731.9182	9.190	0.107		B	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.059	Z		7.532		RS PUP	VSS	STD	1			
+2456731.9182	6.567	0.059		R	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.059	Z		5.846		RS PUP	VSS	STD	1			
+2456732.9219	7.493	0.011		V	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.052	Z		6.409		RS PUP	VSS	STD	1			
+2456732.9219	9.256	0.063		B	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.052	Z		7.545		RS PUP	VSS	STD	1			
+2456732.9219	6.643	0.033		R	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.052	Z		5.862		RS PUP	VSS	STD	1			
+2456733.1410	8.2			Vis.	PEX	B	76	85	13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456733.9270	7.552	0.014		V	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.045	Z		6.419		RS PUP	VSS	STD	1			
+2456733.9270	9.259	0.033		B	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.045	Z		7.492		RS PUP	VSS	STD	1			
+2456733.9270	6.693	0.013		R	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.045	Z		5.856		RS PUP	VSS	STD	1			
+2456734.9298	7.593	0.015		V	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.041	Z		6.411		RS PUP	VSS	STD	1			
+2456734.9298	9.358	0.070		B	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.041	Z		7.504		RS PUP	VSS	STD	1			
+2456734.9298	6.714	0.011		R	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.041	Z		5.866		RS PUP	VSS	STD	1			
+2456734.9528	9.35	0.01		B	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2456734.9528	7.58	0.01		V	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2456734.9528	6.65	0.01		R	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2456734.9528	5.86	0.02		I	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2456735.1514	8.0			Vis.	PEX	B	79		13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456749.9202	6.612	0.019		V	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.041	Z		6.400		RS PUP	VSS	STD	1			
+2456749.9202	7.846	0.090		B	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.041	Z		7.487		RS PUP	VSS	STD	1			
+2456749.9202	5.971	0.051		R	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.041	Z		5.833		RS PUP	VSS	STD	1			
+2456751.9185	5.993	0.055		R	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.043	Z		5.821		RS PUP	VSS	STD	1			
+2456751.92	6.67	0.02		V	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.04	Z		6.40		RS PUP	VSS	STD	1			
+2456751.92	7.97	0.08		B	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.04	Z		7.51		RS PUP	VSS	STD	1			
+2456754.9375	6.772	0.017		V	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.073	Z		6.377		RS PUP	VSS	STD	1			
+2456754.9375	8.192	0.076		B	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.073	Z		7.473		RS PUP	VSS	STD	1			
+2456754.9375	6.040	0.058		R	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.073	Z		5.839		RS PUP	VSS	STD	1			
+2456761.9075	7.022	0.021		V	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.058	Z		6.389		RS PUP	VSS	STD	1			
+2456761.9075	8.599	0.102		B	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.058	Z		7.485		RS PUP	VSS	STD	1			
+2456761.9075	6.220	0.054		R	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.058	Z		5.841		RS PUP	VSS	STD	1			
+2456764.8938	7.110	0.025		V	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.052	Z		6.393		RS PUP	VSS	STD	1			
+2456764.8938	8.771	0.088		B	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.052	Z		7.501		RS PUP	VSS	STD	1			
+2456764.8938	6.282	0.053		R	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.052	Z		5.833		RS PUP	VSS	STD	1			
+2456767.9004	7.215	0.019		V	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.071	Z		6.382		RS PUP	VSS	STD	1			
+2456767.9004	8.891	0.091		B	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.071	Z		7.502		RS PUP	VSS	STD	1			
+2456767.9004	6.379	0.053		R	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.071	Z		5.823		RS PUP	VSS	STD	1			
+2456770.1167	7.9			Vis.	PEX		76		13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456775.8966	7.583	0.017		V	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.105	Z		6.386		RS PUP	VSS	STD	1			
+2456775.8966	9.278	0.098		B	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.105	Z		7.467		RS PUP	VSS	STD	1			
+2456775.8966	6.698	0.061		R	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.105	Z		5.782		RS PUP	VSS	STD	1			
+2456781.9189	7.592	0.016		V	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.231	Z		6.379		RS PUP	VSS	STD	1			
+2456781.9189	9.248	0.088		B	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.231	Z		7.469		RS PUP	VSS	STD	1			
+2456781.9189	6.769	0.058		R	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.231	Z		5.798		RS PUP	VSS	STD	1			
+2456784.8895	7.047	0.019		V	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.152	Z		6.375		RS PUP	VSS	STD	1			
+2456784.8895	8.421	0.088		B	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.152	Z		7.492		RS PUP	VSS	STD	1			
+2456784.8895	6.340	0.052		R	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.152	Z		5.806		RS PUP	VSS	STD	1			
+2456787.9128	6.555	0.019		V	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.281	Z		6.377		RS PUP	VSS	STD	1			
+2456787.9128	7.696	0.090		B	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.281	Z		7.478		RS PUP	VSS	STD	1			
+2456787.9128	5.958	0.062		R	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.281	Z		5.812		RS PUP	VSS	STD	1			
+2456798.920	6.850	0.025		V	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.547	Z		6.384		RS PUP	VSS	STD	1			
+2456798.920	8.348	0.085		B	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.547	Z		7.505		RS PUP	VSS	STD	1			
+2456798.920	6.119	0.073		R	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.547	Z		5.827		RS PUP	VSS	STD	1			
+2456801.871	6.953	0.029		V	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.264	Z		6.388		RS PUP	VSS	STD	1			
+2456801.871	8.511	0.093		B	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.264	Z		7.529		RS PUP	VSS	STD	1			
+2456801.871	6.174	0.052		R	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.264	Z		5.824		RS PUP	VSS	STD	1			
+2456819.8598	7.633	0.037		V	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.519	Z		6.386		RS PUP	VSS	STD	1			
+2456819.8598	9.361	0.133		B	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.519	Z		7.469		RS PUP	VSS	STD	1			
+2456819.8598	6.750	0.063		R	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.519	Z		5.839		RS PUP	VSS	STD	1			
+2456820.8664	7.660	0.034		V	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.605	Z		6.381		RS PUP	VSS	STD	1			
+2456820.8664	9.388	0.132		B	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.605	Z		7.496		RS PUP	VSS	STD	1			
+2456820.8664	6.770	0.064		R	BIW		ENSEMBLE	GSC 7125-4501		TRANSFORMED DSLR	1	1.605	Z		5.810		RS PUP	VSS	STD	1			
+2456917.3132	7.1			Vis.	PEX		69	76	13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456930.3396	7.5			Vis.	PEX		69	76	13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456932.3326	7.7			Vis.	PEX		77		13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456940.3139	7.6			Vis.	PEX	B	76		13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456945.3035	7.9			Vis.	PEX		79		13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456957.2757	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456970.2396	7.5			Vis.	PEX	B	72	76	13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456976.3306	7.5			Vis.	PEX		72	76	13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456986.2760	7.9			Vis.	PEX		79		13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2456996.2521	6.6			Vis.	PEX		62	69	13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2457001.2778	6.9			Vis.	PEX	B	69		13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2457008.2889	7.0			Vis.	PEX		69	76	13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2457013.2646	6.9			Vis.	PEX		69		13158LAO				Z				RS PUP	RASNZ-VSS	STD				
+2457020.2569	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	VSS	STD				
+2457023.2799	8.1			Vis.	PEX		79		13158LAO				Z				RS PUP	VSS	STD				
+2457025.2667	8.1			Vis.	PEX	B	79		13158LAO				Z				RS PUP	VSS	STD				
+2457033.2465	7.5			Vis.	PEX	B	69	74	13158LAO				Z				RS PUP	VSS	STD				
+2457037.2285	6.8			Vis.	PEX		64	69	13158LAO				Z				RS PUP	VSS	STD				
+2457043.2556	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	VSS	STD				
+2457065.0465	7.8			Vis.	PEX		76	79	13158LAO				Z				RS PUP	VSS	STD				
+2457073.2618	7.8			Vis.	PEX		76	79	13158LAO				Z				RS PUP	VSS	STD				
+2457081.2521	6.7			Vis.	PEX		62	69	13158LAO				Z				RS PUP	VSS	STD				
+2457091.0375	7.2			Vis.	PEX		72		13158LAO				Z				RS PUP	VSS	STD				
+2457095.9079	7.053	0.009		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.085	Z		7.787		RS PUP	VSS	STD	1			
+2457095.9079	8.757	0.033		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.085	Z		9.543		RS PUP	VSS	STD	1			
+2457095.9079	6.212	0.008		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.085	Z		6.909		RS PUP	VSS	STD	1			
+2457096.9064	7.087	0.011		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.083	Z		7.797		RS PUP	VSS	STD	1			
+2457096.9064	8.787	0.046		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.083	Z		9.542		RS PUP	VSS	STD	1			
+2457096.9064	6.230	0.019		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.083	Z		6.936		RS PUP	VSS	STD	1			
+2457099.9117	7.189	0.008		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.063	Z		7.785		RS PUP	VSS	STD	1			
+2457099.9117	8.951	0.038		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.063	Z		9.560		RS PUP	VSS	STD	1			
+2457099.9117	6.331	0.024		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.063	Z		6.902		RS PUP	VSS	STD	1			
+2457106.0354	7.8			Vis.	PEX		76	79	13158LAO				Z				RS PUP	VSS	STD				
+2457107.9034	7.527	0.006		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.049	Z		7.810		RS PUP	VSS	STD	1			
+2457107.9034	9.351	0.028		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.049	Z		9.553		RS PUP	VSS	STD	1			
+2457107.9034	6.629	0.017		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.049	Z		6.906		RS PUP	VSS	STD	1			
+2457108.9093	7.563	0.006		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.044	Z		7.810		RS PUP	VSS	STD	1			
+2457108.9093	9.416	0.028		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.044	Z		9.556		RS PUP	VSS	STD	1			
+2457108.9093	6.673	0.019		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.044	Z		6.926		RS PUP	VSS	STD	1			
+2457111.9094	7.635	0.032		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.041	Z		7.807		RS PUP	VSS	STD	1			
+2457111.9094	9.454	0.073		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.041	Z		9.588		RS PUP	VSS	STD	1			
+2457111.9094	6.727	0.035		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.041	Z		6.909		RS PUP	VSS	STD	1			
+2457118.0625	6.9			Vis.	PEX	B	69		13158LAO				Z				RS PUP	VSS	STD				
+2457131.9972	7.2			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457136.8846	7.048	0.028		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.062	Z		7.793		RS PUP	VSS	STD	1			
+2457136.8846	8.731	0.036		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.062	Z		9.567		RS PUP	VSS	STD	1			
+2457136.8846	6.210	0.020		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.062	Z		6.895		RS PUP	VSS	STD	1			
+2457138.8867	7.111	0.029		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.073	Z		7.795		RS PUP	VSS	STD	1			
+2457138.8867	8.832	0.046		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.073	Z		9.542		RS PUP	VSS	STD	1			
+2457138.8867	6.273	0.024		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.073	Z		6.905		RS PUP	VSS	STD	1			
+2457139.0424	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457139.8798	7.153	0.033		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.067	Z		7.808		RS PUP	VSS	STD	1			
+2457139.8798	8.878	0.043		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.067	Z		9.560		RS PUP	VSS	STD	1			
+2457139.8798	6.299	0.018		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.067	Z		6.903		RS PUP	VSS	STD	1			
+2457141.8801	7.221	0.029		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.075	Z		7.797		RS PUP	VSS	STD	1			
+2457141.8801	8.966	0.050		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.075	Z		9.604		RS PUP	VSS	STD	1			
+2457141.8801	6.369	0.022		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.075	Z		6.890		RS PUP	VSS	STD	1			
+2457142.8984	7.258	0.032		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.118	Z		7.796		RS PUP	VSS	STD	1			
+2457142.8984	9.005	0.047		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.118	Z		9.599		RS PUP	VSS	STD	1			
+2457142.8984	6.389	0.027		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.118	Z		6.906		RS PUP	VSS	STD	1			
+2457145.8928	7.377	0.029		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.124	Z		7.774		RS PUP	VSS	STD	1			
+2457145.8928	9.196	0.048		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.124	Z		9.586		RS PUP	VSS	STD	1			
+2457145.8928	6.495	0.029		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.124	Z		6.865		RS PUP	VSS	STD	1			
+2457147.8809	7.477	0.030		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.110	Z		7.771		RS PUP	VSS	STD	1			
+2457147.8809	9.292	0.046		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.110	Z		9.521		RS PUP	VSS	STD	1			
+2457147.8809	6.586	0.023		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.110	Z		6.852		RS PUP	VSS	STD	1			
+2457148.0646	7.8			Vis.	PEX	B	76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457148.8779	7.527	0.031		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.109	Z		7.792		RS PUP	VSS	STD	1			
+2457148.8779	9.335	0.039		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.109	Z		9.524		RS PUP	VSS	STD	1			
+2457148.8779	6.619	0.021		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.109	Z		6.895		RS PUP	VSS	STD	1			
+2457150.8790	7.589	0.028		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.125	Z		7.789		RS PUP	VSS	STD	1			
+2457150.8790	9.458	0.044		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.125	Z		9.542		RS PUP	VSS	STD	1			
+2457150.8790	6.685	0.022		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.125	Z		6.859		RS PUP	VSS	STD	1			
+2457151.0257	7.8			Vis.	PEX		76	79	13158LAO				Z				RS PUP	AAVSO	STD				
+2457151.8755	7.623	0.032		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.123	Z		7.782		RS PUP	VSS	STD	1			
+2457151.8755	9.489	0.042		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.123	Z		9.593		RS PUP	VSS	STD	1			
+2457151.8755	6.729	0.025		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.123	Z		6.874		RS PUP	VSS	STD	1			
+2457153.8838	7.638	0.031		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.164	Z		7.798		RS PUP	VSS	STD	1			
+2457153.8838	9.453	0.043		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.164	Z		9.560		RS PUP	VSS	STD	1			
+2457153.8838	6.760	0.021		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.164	Z		6.898		RS PUP	VSS	STD	1			
+2457154.8876	7.596	0.029		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.186	Z		7.799		RS PUP	VSS	STD	1			
+2457154.8876	9.352	0.051		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.186	Z		9.567		RS PUP	VSS	STD	1			
+2457154.8876	6.724	0.022		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.186	Z		6.905		RS PUP	VSS	STD	1			
+2457157.0431	7.5			Vis.	PEX		71	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457161.8776	6.528	0.033		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.223	Z		7.794		RS PUP	VSS	STD	1			
+2457161.8776	7.734	0.038		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.223	Z		9.506		RS PUP	VSS	STD	1			
+2457161.8776	5.891	0.031		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.223	Z		6.870		RS PUP	VSS	STD	1			
+2457165.8708	6.619	0.030		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.240	Z		7.808		RS PUP	VSS	STD	1			
+2457165.8708	7.934	0.039		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.240	Z		9.588		RS PUP	VSS	STD	1			
+2457165.8708	5.951	0.016		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.240	Z		6.912		RS PUP	VSS	STD	1			
+2457173.9799	7.0			Vis.	PEX	B	69	72	13158LAO				Z				RS PUP	AAVSO	STD				
+2457198.0208	7.7			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457198.8614	7.236	0.033		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.984	Z		7.802		RS PUP	VSS	STD	1			
+2457198.8614	8.765	0.051		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.984	Z		9.553		RS PUP	VSS	STD	1			
+2457198.8614	6.457	0.031		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.984	Z		6.889		RS PUP	VSS	STD	1			
+2457204.8609	6.546	0.038		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	2.316	Z		7.766		RS PUP	VSS	STD	1			
+2457204.8609	7.765	0.071		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	2.316	Z		9.521		RS PUP	VSS	STD	1			
+2457204.8609	5.900	0.041		R	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	2.316	Z		6.872		RS PUP	VSS	STD	1			
+2457250.3931	7.0			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457269.3632	7.7			Vis.	PEX	B	76	79	13158LAO				Z				RS PUP	AAVSO	STD				
+2457283.3368	7.3			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457288.3535	6.6			Vis.	PEX		64	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457296.3403	6.9			Vis.	PEX	B	69		13158LAO				Z				RS PUP	AAVSO	STD				
+2457303.3375	7.4			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457307.3326	7.7			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457311.3236	7.5			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457315.3299	7.7			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457316.3208	7.7			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457322.3083	7.6			Vis.	PEX	B	76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457331.3090	6.7			Vis.	PEX		64	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457334.2965	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457338.2653	6.8			Vis.	PEX		68		13158LAO				Z				RS PUP	AAVSO	STD				
+2457341.2861	6.9			Vis.	PEX		69		13158LAO				Z				RS PUP	AAVSO	STD				
+2457346.2549	7.4			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457347.2736	7.4			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457355.2528	7.7			Vis.	PEX	B	76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457356.1104	7.6			Vis.	PEX	B	76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457357.2743	7.7			Vis.	PEX	B	76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457364.2549	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457366.2639	7.3			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457367.2472	6.7			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457370.3160	6.6			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457371.2674	6.7			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457373.2646	6.7			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457374.2681	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457377.1035	8.18	0.01		B	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2457377.1035	6.77	0.01		V	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2457377.1035	6.06	0.01		R	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2457377.1035	5.31	0.01		I	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2457378.2451	6.8			Vis.	PEX	B	68		13158LAO				Z				RS PUP	AAVSO	STD				
+2457392.9682	7.278	0.016		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.894	Z		7.780		RS PUP	VSS	STD	1			
+2457392.9682	8.971	0.037		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.894	Z		9.467		RS PUP	VSS	STD	1			
+2457393.9915	7.302	0.017		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.571	Z		7.770		RS PUP	VSS	STD	1			
+2457393.9915	9.073	0.040		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.571	Z		9.506		RS PUP	VSS	STD	1			
+2457394.9576	7.339	0.017		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.978	Z		7.763		RS PUP	VSS	STD	1			
+2457394.9576	9.173	0.041		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.978	Z		9.512		RS PUP	VSS	STD	1			
+2457397.3111	7.8			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457398.2535	7.8			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457398.9627	7.529	0.014		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.741	Z		7.787		RS PUP	VSS	STD	1			
+2457398.9627	9.313	0.046		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.741	Z		9.467		RS PUP	VSS	STD	1			
+2457399.9590	7.567	0.025		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.753	Z		7.778		RS PUP	VSS	STD	1			
+2457399.9590	9.335	0.059		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.753	Z		9.496		RS PUP	VSS	STD	1			
+2457401.1014	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457402.2453	7.628	0.012		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.354	Z		7.756		RS PUP	VSS	STD	1			
+2457402.2453	9.430	0.049		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.354	Z		9.451		RS PUP	VSS	STD	1			
+2457410.2681	6.8			Vis.	PEX	B	64	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457410.9215	6.528	0.012		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.857	Z		7.787		RS PUP	VSS	STD	1			
+2457410.9215	7.764	0.057		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.857	Z		9.632		RS PUP	VSS	STD	1			
+2457415.1014	6.6			Vis.	PEX	B	64	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457421.0965	6.9			Vis.	PEX		68		13158LAO				Z				RS PUP	AAVSO	STD				
+2457422.0618	6.9			Vis.	PEX		69		13158LAO				Z				RS PUP	AAVSO	STD				
+2457425.0826	7.0			Vis.	PEX		69		13158LAO				Z				RS PUP	AAVSO	STD				
+2457426.2778	7.2			Vis.	PEX		71		13158LAO				Z				RS PUP	AAVSO	STD				
+2457427.0604	7.2			Vis.	PEX		72		13158LAO				Z				RS PUP	AAVSO	STD				
+2457428.9451	8.77	0.04		B	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2457428.9451	7.11	0.04		V	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2457428.9451	6.26	0.04		R	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2457428.9451	5.46	0.03		I	DSI		NA				1		Z				RS PUP	AAVSO	STD				
+2457430.0854	7.5			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457431.2736	7.5			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457433.9313	7.231	0.019		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.240	Z		7.776		RS PUP	VSS	STD	1			
+2457433.9313	8.991	0.060		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.240	Z		9.532		RS PUP	VSS	STD	1			
+2457436.2931	7.8			Vis.	PEX		76	80	13158LAO				Z				RS PUP	AAVSO	STD				
+2457441.0694	7.9			Vis.	PEX	B	76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457444.0792	7.8			Vis.	PEX	B	76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457444.9741	7.597	0.012		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.055	Z		7.767		RS PUP	VSS	STD	1			
+2457444.9741	9.383	0.054		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.055	Z		9.509		RS PUP	VSS	STD	1			
+2457446.8990	7.411	0.015		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.226	Z		7.749		RS PUP	VSS	STD	1			
+2457446.8990	9.031	0.044		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.226	Z		9.497		RS PUP	VSS	STD	1			
+2457450.2722	6.7			Vis.	PEX		65	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457452.0563	6.7			Vis.	PEX		69		13158LAO				Z				RS PUP	AAVSO	STD				
+2457460.0382	6.9			Vis.	PEX		69		13158LAO				Z				RS PUP	AAVSO	STD				
+2457471.9630	7.115	0.010		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.058	Z		7.797		RS PUP	VSS	STD	1			
+2457471.9630	8.825	0.034		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.058	Z		9.496		RS PUP	VSS	STD	1			
+2457477.0424	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457477.9219	7.351	0.009		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.041	Z		7.765		RS PUP	VSS	STD	1			
+2457477.9219	9.134	0.038		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.041	Z		9.500		RS PUP	VSS	STD	1			
+2457480.015	7.8			Vis.	PEX	U	76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457481.9689	7.522	0.009		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.116	Z		7.767		RS PUP	VSS	STD	1			
+2457481.9689	9.374	0.024		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.116	Z		9.501		RS PUP	VSS	STD	1			
+2457484.0292	7.8			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457485.0479	7.9			Vis.	PEX		79		13158LAO				Z				RS PUP	AAVSO	STD				
+2457490.9058	6.920	0.009		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.053	Z		7.755		RS PUP	VSS	STD	1			
+2457490.9058	8.282	0.022		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.053	Z		9.497		RS PUP	VSS	STD	1			
+2457492.0236	7.0			Vis.	PEX		64	72	13158LAO				Z				RS PUP	AAVSO	STD				
+2457496.9034	6.582	0.004		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.069	Z		7.755		RS PUP	VSS	STD	1			
+2457496.9034	7.892	0.015		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.069	Z		9.496		RS PUP	VSS	STD	1			
+2457499.0340	6.8			Vis.	PEX	B	64	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457509.9115	7.014	0.012		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.172	Z		7.764		RS PUP	VSS	STD	1			
+2457509.9115	8.675	0.034		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.172	Z		9.515		RS PUP	VSS	STD	1			
+2457518.0035	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457520.0375	7.8			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457522.8794	7.508	0.015		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.183	Z		7.769		RS PUP	VSS	STD	1			
+2457522.8794	9.341	0.045		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.183	Z		9.482		RS PUP	VSS	STD	1			
+2457523.8833	7.557	0.008		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.208	Z		7.762		RS PUP	VSS	STD	1			
+2457523.8833	9.369	0.047		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.208	Z		9.535		RS PUP	VSS	STD	1			
+2457533.9424	6.627	0.016		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.957	Z		7.767		RS PUP	VSS	STD	1			
+2457533.9424	7.844	0.031		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.957	Z		9.404		RS PUP	VSS	STD	1			
+2457536.8819	6.532	0.009		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.388	Z		7.774		RS PUP	VSS	STD	1			
+2457536.8819	7.746	0.021		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.388	Z		9.491		RS PUP	VSS	STD	1			
+2457539.0111	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457543.8699	6.768	0.010		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.439	Z		7.765		RS PUP	VSS	STD	1			
+2457543.8699	8.214	0.016		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.439	Z		9.516		RS PUP	VSS	STD	1			
+2457544.8855	6.803	0.012		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.602	Z		7.756		RS PUP	VSS	STD	1			
+2457544.8855	8.273	0.025		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.602	Z		9.491		RS PUP	VSS	STD	1			
+2457546.8602	6.868	0.013		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.428	Z		7.781		RS PUP	VSS	STD	1			
+2457546.8602	8.411	0.032		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.428	Z		9.522		RS PUP	VSS	STD	1			
+2457547.8634	6.889	0.014		V	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.474	Z		7.769		RS PUP	VSS	STD	1			
+2457547.8634	8.480	0.020		B	BIW		ENSEMBLE	HIP 39996		TRANSFORMED DSLR	1	1.474	Z		9.487		RS PUP	VSS	STD	1			
+2457614.3819	7.5			Vis.	PEX		71	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457634.374	7.6			Vis.	PEX		72		13158LAO				Z				RS PUP	AAVSO	STD				
+2457658.3118	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457659.3361	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457660.3451	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457664.3139	6.7			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457665.3021	6.7			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457666.2938	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457673.3389	7.0			Vis.	PEX		69		13158LAO				Z				RS PUP	AAVSO	STD				
+2457674.3229	7.0			Vis.	PEX		69		13158LAO				Z				RS PUP	AAVSO	STD				
+2457682.3319	7.4			Vis.	PEX	B	69		13158LAO				Z				RS PUP	AAVSO	STD				
+2457683.3042	7.5			Vis.	PEX	B	69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457685.3257	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457687.2979	7.7			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457689.3174	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457692.3167	7.9			Vis.	PEX		79		13158LAO				Z				RS PUP	AAVSO	STD				
+2457695.3125	7.8			Vis.	PEX	U	76	79	13158LAO				Z				RS PUP	AAVSO	STD				
+2457699.3028	7.2			Vis.	PEX		72		13158LAO				Z				RS PUP	AAVSO	STD				
+2457700.3069	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457702.3146	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457713.3167	7.4			Vis.	PEX	B	72	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457714.2757	7.4			Vis.	PEX		72	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457716.2944	7.4			Vis.	PEX	W	72	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457717.2653	7.5			Vis.	PEX		72	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457719.2854	7.5			Vis.	PEX		72	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457721.3035	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457722.2778	7.4			Vis.	PEX		72	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457728.2743	7.8			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457730.3090	7.8			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457736.2806	7.9			Vis.	PEX	B	76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457737.2778	7.7			Vis.	PEX	B	76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457739.1076	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457740.2701	7.2			Vis.	PEX	B	72		13158LAO				Z				RS PUP	AAVSO	STD				
+2457741.2535	6.5			Vis.	PEX	B	65		13158LAO				Z				RS PUP	AAVSO	STD				
+2457745.2403	6.6			Vis.	PEX		58	68	13158LAO				Z				RS PUP	AAVSO	STD				
+2457746.2792	6.7			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457750.2514	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457752.2625	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457753.2903	7.0			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457755.2479	7.2			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457757.2597	7.4			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457761.2792	7.5			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457762.2715	7.5			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457763.2826	7.5			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457764.2764	7.6			Vis.	PEX	B	76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457768.1076	7.6			Vis.	PEX	B	76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457770.2569	7.8			Vis.	PEX	B	76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457773.0377	7.584	0.032		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.115	Z		7.803		RS PUP	VSS	STD	1			
+2457773.0377	9.370	0.027		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.115	Z		9.536		RS PUP	VSS	STD	1			
+2457773.2750	7.9			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457773.9414	7.603	0.028		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.664	Z		7.802		RS PUP	VSS	STD	1			
+2457773.9414	9.403	0.021		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.664	Z		9.533		RS PUP	VSS	STD	1			
+2457774.2465	8.0			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457774.9199	7.634	0.024		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.920	Z		7.779		RS PUP	VSS	STD	1			
+2457774.9199	9.441	0.030		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.920	Z		9.501		RS PUP	VSS	STD	1			
+2457775.2354	8.0			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457777.0903	8.0			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457778.2715	7.9			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457779.9276	7.280	0.023		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.634	Z		7.798		RS PUP	VSS	STD	1			
+2457779.9276	8.824	0.024		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.634	Z		9.464		RS PUP	VSS	STD	1			
+2457786.0924	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457787.2486	6.7			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457787.9804	6.596	0.029		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.162	Z		7.811		RS PUP	VSS	STD	1			
+2457787.9804	7.889	0.018		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.162	Z		9.568		RS PUP	VSS	STD	1			
+2457788.2625	6.7			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457790.2569	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457791.9262	6.734	0.027		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.368	Z		7.817		RS PUP	VSS	STD	1			
+2457791.9262	8.175	0.017		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.368	Z		9.537		RS PUP	VSS	STD	1			
+2457793.1132	6.8			Vis.	PEX	B	62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457796.9514	6.910	0.033		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.177	Z		7.820		RS PUP	VSS	STD	1			
+2457796.9514	8.490	0.022		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.177	Z		9.541		RS PUP	VSS	STD	1			
+2457799.0438	7.0			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457802.2688	7.8			Vis.	PEX	B	76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457804.0639	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457809.2688	7.8			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457811.0625	7.8			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457812.9665	7.519	0.029		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.051	Z		7.787		RS PUP	VSS	STD	1			
+2457812.9665	9.315	0.017		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.051	Z		9.514		RS PUP	VSS	STD	1			
+2457818.2681	8.0			Vis.	PEX		90		13158LAO				Z				RS PUP	AAVSO	STD				
+2457819.0431	7.9			Vis.	PEX		76	80	13158LAO				Z				RS PUP	AAVSO	STD				
+2457821.0236	7.5			Vis.	PEX	B	69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457822.9554	6.955	0.028		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.039	Z		7.788		RS PUP	VSS	STD	1			
+2457822.9554	8.334	0.019		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.039	Z		9.535		RS PUP	VSS	STD	1			
+2457824.8897	6.583	0.028		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.131	Z		7.778		RS PUP	VSS	STD	1			
+2457824.8897	7.775	0.029		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.131	Z		9.551		RS PUP	VSS	STD	1			
+2457829.0479	6.8			Vis.	PEX		69		13158LAO				Z				RS PUP	AAVSO	STD				
+2457832.0896	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457836.0639	6.9			Vis.	PEX		69		13158LAO				Z				RS PUP	AAVSO	STD				
+2457842.0514	7.3			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457844.9462	7.129	0.021		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.061	Z		7.792		RS PUP	VSS	STD	1			
+2457844.9462	8.818	0.022		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.061	Z		9.481		RS PUP	VSS	STD	1			
+2457846.35764	7.6			Vis.	RJG		75	76	13768YOT				Z				RS PUP	AAVSO	STD				
+2457846.36806	7.7			Vis.	CAI		76	81	13768YOT				Z				RS PUP	AAVSO	STD				
+2457849.8756	7.320	0.025		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.043	Z		7.776		RS PUP	VSS	STD	1			
+2457849.8756	9.077	0.024		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.043	Z		9.539		RS PUP	VSS	STD	1			
+2457853.9758	7.498	0.022		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.195	Z		7.781		RS PUP	VSS	STD	1			
+2457853.9758	9.343	0.029		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.195	Z		9.483		RS PUP	VSS	STD	1			
+2457855.9030	7.592	0.024		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.047	Z		7.780		RS PUP	VSS	STD	1			
+2457855.9030	9.383	0.021		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.047	Z		9.542		RS PUP	VSS	STD	1			
+2457858.8713	7.674	0.023		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.037	Z		7.785		RS PUP	VSS	STD	1			
+2457858.8713	9.480	0.016		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.037	Z		9.565		RS PUP	VSS	STD	1			
+2457859.9903	8.0			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457862.9005	7.303	0.023		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.066	Z		7.808		RS PUP	VSS	STD	1			
+2457862.9005	8.845	0.021		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.066	Z		9.462		RS PUP	VSS	STD	1			
+2457863.9958	7.4			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457867.2063	6.8			Vis.	PEX		58	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457867.893	6.510	0.029		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.075	Z		7.814		RS PUP	VSS	STD	1			
+2457867.893	7.701	0.019		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.075	Z		9.533		RS PUP	VSS	STD	1			
+2457868.2076	6.7			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457868.9910	6.7			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457870.9113	6.588	0.023		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.135	Z		7.788		RS PUP	VSS	STD	1			
+2457870.9113	7.863	0.014		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.135	Z		9.504		RS PUP	VSS	STD	1			
+2457872.8828	6.651	0.023		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.082	Z		7.793		RS PUP	VSS	STD	1			
+2457872.8828	8.027	0.030		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.082	Z		9.469		RS PUP	VSS	STD	1			
+2457876.878	6.802	0.025		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.094	Z		7.799		RS PUP	VSS	STD	1			
+2457876.878	8.271	0.018		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.094	Z		9.484		RS PUP	VSS	STD	1			
+2457879.8618	6.901	0.021		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.078	Z		7.796		RS PUP	VSS	STD	1			
+2457879.8618	8.481	0.024		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.078	Z		9.553		RS PUP	VSS	STD	1			
+2457884.8667	7.068	0.021		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.118	Z		7.808		RS PUP	VSS	STD	1			
+2457884.867	8.712	0.016		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.118	Z		9.508		RS PUP	VSS	STD	1			
+2457888.8644	7.206	0.023		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.141	Z		7.807		RS PUP	VSS	STD	1			
+2457888.8644	8.935	0.011		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.141	Z		9.492		RS PUP	VSS	STD	1			
+2457890.9819	7.7			Vis.	PEX	W	76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457893.8712	7.420	0.025		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.213	Z		7.814		RS PUP	VSS	STD	1			
+2457893.8712	9.185	0.019		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.213	Z		9.532		RS PUP	VSS	STD	1			
+2457901.8615	7.634	0.021		V	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.269	Z		7.781		RS PUP	VSS	STD	1			
+2457901.8615	9.382	0.021		B	BIW		ENSEMBLE	HD 39996		TRANSFORMED DSLR	1	1.269	Z		9.491		RS PUP	VSS	STD	1			
+2457902.0076	7.8			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2457912.0007	6.6			Vis.	PEX	B	62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457913.0299	6.7			Vis.	PEX	B	62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457922.9694	7.2			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2457990.3854	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2457993.3729	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2458001.3632	7.0			Vis.	PEX	B	69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458010.3667	7.4			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458014.3375	7.4			Vis.	PEX	U	69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458039.3222	7.0			Vis.	PEX	W	69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458046.3153	7.2			Vis.	PEX	W	69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458047.3111	7.1			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458051.3056	7.5			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458056.3063	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458058.2847	7.5			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458061.2813	7.7			Vis.	PEX	B	76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458068.3097	7.7			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458070.2688	7.7			Vis.	PEX		76	79	13158LAO				Z				RS PUP	AAVSO	STD				
+2458071.2875	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458079.2882	6.8			Vis.	PEX		58	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2458082.2757	6.9			Vis.	PEX		69		13158LAO				Z				RS PUP	AAVSO	STD				
+2458083.3063	6.8			Vis.	PEX		69		13158LAO				Z				RS PUP	AAVSO	STD				
+2458086.2549	7.0			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458088.2764	7.1			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458089.2903	7.4			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458094.2875	7.4			Vis.	PEX	B	69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458098.2778	7.5			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458100.2632	7.7			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458101.2611	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458102.2639	7.9			Vis.	PEX		79		13158LAO				Z				RS PUP	AAVSO	STD				
+2458107.2903	7.8			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458108.2521	7.9			Vis.	PEX		79		13158LAO				Z				RS PUP	AAVSO	STD				
+2458121.1104	6.8			Vis.	PEX	B	58	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2458122.2861	6.8			Vis.	PEX	B	62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2458123.2611	6.8			Vis.	PEX	B	62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2458124.2743	6.7			Vis.	PEX	B	62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2458125.2715	6.9			Vis.	PEX	B	69		13158LAO				Z				RS PUP	AAVSO	STD				
+2458126.1014	7.0			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458127.2493	6.9			Vis.	PEX		69		13158LAO				Z				RS PUP	AAVSO	STD				
+2458128.2451	7.0			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458130.2597	7.2			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458131.2646	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458132.2563	7.4			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458137.0951	7.4			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458138.0424	7.5			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458139.2556	8.0			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458140.2729	7.8			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458141.0965	7.7			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458143.2486	7.9			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458144.2472	7.9			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458145.3118	7.9			Vis.	PEX		79		13158LAO				Z				RS PUP	AAVSO	STD				
+2458146.293	7.9			Vis.	PEX		79		13158LAO				Z				RS PUP	AAVSO	STD				
+2458147.2667	8.0			Vis.	PEX		79		13158LAO				Z				RS PUP	AAVSO	STD				
+2458148.2819	8.0			Vis.	PEX		79		13158LAO				Z				RS PUP	AAVSO	STD				
+2458150.0708	8.0			Vis.	PEX		79		13158LAO				Z				RS PUP	AAVSO	STD				
+2458154.0861	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458155.0653	7.2			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458157.2646	6.8			Vis.	PEX	B	62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2458159.0764	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2458161.0368	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2458163.0750	6.7			Vis.	PEX		62	68	13158LAO				Z				RS PUP	AAVSO	STD				
+2458167.2771	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2458170.0708	6.9			Vis.	PEX		69		13158LAO				Z				RS PUP	AAVSO	STD				
+2458171.2715	7.4			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458177.0833	7.4			Vis.	PEX	B	69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458184.0556	7.8			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458185.0340	7.9			Vis.	PEX		79		13158LAO				Z				RS PUP	AAVSO	STD				
+2458189.0285	7.9			Vis.	PEX		78		13158LAO				Z				RS PUP	AAVSO	STD				
+2458196.0417	7.1			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458206.0458	7.0			Vis.	PEX	B	69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458213.0743	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458215.9986	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458223.0215	7.9			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458225.0063	7.9			Vis.	PEX		76	80	13158LAO				Z				RS PUP	AAVSO	STD				
+2458231.9736	8.0			Vis.	PEX	B	76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458243.9868	6.8			Vis.	PEX		69		13158LAO				Z				RS PUP	AAVSO	STD				
+2458247.84	6.65			Vis.	ERW	K	6.21	6.92	VSS	7x50 Binos.  Average of 3 estimates also using 6.38 & 6.51 comparisons.			Z				RS Pup	RASNZ-VSS	STD				
+2458250.8	6.97			Vis.	ERW	K	6.44	7.19	VSS	7x50 Binos.  Average of 3 estimates.  Std err=0.03			Z				RS PUP	RASNZ-VSS	STD				
+2458250.9819	6.7			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2458261.9840	7.4			Vis.	PEX		72	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458286.9819	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2458310.9326	7.8			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458355.3979	7.8			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458377.3347	7.0			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458381.3681	7.2			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458383.3625	7.4			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458408.3069	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2458434.2819	7.8			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458437.3021	7.9			Vis.	PEX		79		13158LAO				Z				RS PUP	AAVSO	STD				
+2458442.3208	7.9			Vis.	PEX		78		13158LAO				Z				RS PUP	AAVSO	STD				
+2458443.2681	7.7			Vis.	PEX	B	76	79	13158LAO				Z				RS PUP	AAVSO	STD				
+2458454.2854	6.7			Vis.	PEX		58	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2458455.3007	6.8			Vis.	PEX		69		13158LAO				Z				RS PUP	AAVSO	STD				
+2458461.2736	7.3			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458465.2778	7.2			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458469.3007	7.7			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458471.2882	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458473.2681	7.5			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458481.1160	7.8			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458483.2590	8.0			Vis.	PEX		79		13158LAO				Z				RS PUP	AAVSO	STD				
+2458487.2875	7.5			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458490.2646	6.6			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2458492.2813	6.7			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2458495.2597	6.7			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2458498.2745	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2458499.2685	6.8			Vis.	PEX		62	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2458501.2748	6.9			Vis.	PEX		69		13158LAO				Z				RS PUP	AAVSO	STD				
+2458502.2723	6.9			Vis.	PEX		69		13158LAO				Z				RS PUP	AAVSO	STD				
+2458509.0576	7.4			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458510.2674	7.5			Vis.	PEX	B	69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458511.2514	7.6			Vis.	PEX	B	76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458512.0979	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458513.2715	7.7			Vis.	PEX		76	79	13158LAO				Z				RS PUP	AAVSO	STD				
+2458515.2542	7.7			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458517.2674	7.9			Vis.	PEX		79		13158LAO				Z				RS PUP	AAVSO	STD				
+2458522.0986	7.9			Vis.	PEX		79		13158LAO				Z				RS PUP	AAVSO	STD				
+2458525.2736	7.9			Vis.	PEX		79		13158LAO				Z				RS PUP	AAVSO	STD				
+2458527.0729	7.6			Vis.	PEX		76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458529.0708	7.0			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458559.0632	7.8			Vis.	PEX	B	76		13158LAO				Z				RS PUP	AAVSO	STD				
+2458569.66863	7.4			Vis.	ZGEA		72	76	X24309ML				Z				RS PUP		STD				
+2458572.0201	6.8			Vis.	PEX		58	69	13158LAO				Z				RS PUP	AAVSO	STD				
+2458572.70938	6.7			Vis.	ZGEA		69	63	X24309ML				Z				RS PUP		STD				
+2458579.0194	6.8			Vis.	PEX		69		13158LAO				Z				RS PUP	AAVSO	STD				
+2458587.4951	6.9			Vis.	BZX	K	5.8	6.9	GUIDE V.7				Z				RS PUP		STD				
+2458854.2792	8.0			Vis.	PEX		79		13158LAO				Z				RS PUP	AAVSO	STD				
+2458881.2667	7.4			Vis.	PEX		72	76	13158LAO				Z				RS PUP	AAVSO	STD				
+2458882.2639	7.4			Vis.	PEX		69	76	13158LAO				Z				RS PUP	AAVSO	STD				

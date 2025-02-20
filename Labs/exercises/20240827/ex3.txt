@@ -1,0 +1,178 @@
+/etc/asl.conf
+/etc/autofs.conf
+/etc/kern_loader.conf
+/etc/man.conf
+/etc/rtadvd.conf
+##
+# configuration file for syslogd and aslmanager
+##
+
+# aslmanager logs
+> /var/log/asl/Logs/aslmanager external style=lcl-b ttl=2
+
+# authpriv messages are root/admin readable
+? [= Facility authpriv] access 0 80
+
+# remoteauth critical, alert, and emergency messages are root/admin readable
+? [= Facility remoteauth] [<= Level critical] access 0 80
+
+# broadcast emergency messages
+? [= Level emergency] broadcast
+
+# save kernel [PID 0] and launchd [PID 1] messages
+? [<= PID 1] store
+
+# ignore "internal" facility
+? [= Facility internal] ignore
+
+# save everything from emergency to notice
+? [<= Level notice] store
+
+# Rules for /var/log/system.log
+> system.log mode=0640 format=bsd rotate=seq compress file_max=5M all_max=50M
+? [= Sender kernel] file system.log
+? [<= Level notice] file system.log
+? [= Facility auth] [<= Level info] file system.log
+? [= Facility authpriv] [<= Level info] file system.log
+
+# Facility com.apple.alf.logging gets saved in appfirewall.log
+? [= Facility com.apple.alf.logging] file appfirewall.log file_max=5M all_max=50M
+#
+# This file is used to configure the automounter
+#
+
+# The number of seconds after which an automounted file system will
+# be unmounted if it hasn't been referred to within that period of
+# time.  The default is 10 minutes (600 seconds).
+# This is equivalent to the -t option in automount(8).
+AUTOMOUNT_TIMEOUT=3600
+
+# If TRUE, automount(8) will print more detailed
+# information about the actions it takes.
+# This is equivalent to the -v option to automount(8).
+#AUTOMOUNT_VERBOSE=FALSE
+
+# If TRUE, automountd(8) will log to syslogd(8) more
+# detailed information about the actions it takes.
+# This is equivalent to the -v option to automountd(8).
+#AUTOMOUNTD_VERBOSE=FALSE
+
+# If TRUE, automountd(8) will disable browsing of all maps.
+# This is equivalent to the -n option to automountd(8).
+#AUTOMOUNTD_NOBROWSE=FALSE
+
+# The trace level for logging information about requests received
+# by automountd(8) from autofs, processing done for those requests,
+# and replies sent to autofs.  The default level of 0 causes no
+# information to be logged; each higher value causes more information
+# to be logged.  This controls the same trace level that the -T option
+# to automountd(8) controls.
+#AUTOMOUNTD_TRACE=0
+
+# Mount options.
+# A string containing a comma-separated list of mount options
+# that will be applied, by default, to all mounts done by automountd(8).
+# The options for a particular mount can override these options.
+# This controls the same default mount options that the -o option to
+# automountd(8) controls.
+AUTOMOUNTD_MNTOPTS=nosuid,nodev
+
+# Force nosuid
+# If TRUE automountd will force all mounts to be "nosuid".
+# The default will be "nosuid" and any "suid" mount option
+# will be ignored.
+AUTOMOUNTD_NOSUID=TRUE
+
+# Environment variables.  The format is AUTOMOUNTD_ENV=ENV=value.
+# There should be one line per environment variable to be set and
+# there can be as many of these lines as are required.
+#AUTOMOUNTD_ENV=
+#
+# This file is read by man to configure the default manpath (also used
+# when MANPATH contains an empty substring), and to indicate support for
+# a given locale.  The following configuration variables are supported:
+#
+# MANCONFIG		config_file_glob
+# MANPATH		manpath_element
+# MANLOCALE		locale
+#
+# It is assumed that catdirs are equal to a mandir within a given manpath, i.e.,
+# share/man/man1 => share/man/cat1.
+#
+# Every automatically generated MANPATH includes these fields
+#
+MANPATH	/usr/share/man
+MANPATH	/usr/local/share/man
+MANPATH	/usr/X11/man
+MANPATH	/Library/Apple/usr/share/man
+#
+# Uncomment if you want to include one of these by default
+#
+# MANPATH	/opt/*/man
+# MANPATH	/usr/lib/*/man
+# MANPATH	/usr/share/*/man
+# MANPATH	/usr/kerberos/man
+#
+# Useful paths - note that COL should not be defined when
+# NROFF is defined as "groff -Tascii" or "groff -Tlatin1";
+# not only is it superfluous, but it actually damages the output.
+# For use with utf-8, NROFF should be "nroff -mandoc" without -T option.
+# (Maybe - but today I need -Tlatin1 to prevent double conversion to utf8.)
+#
+# If you have a new troff (version 1.18.1?) and its colored output
+# causes problems, add the -c option to TROFF, NROFF, JNROFF.
+#
+# Uncomment these if you have installed groff manually.  Note that man(1) will
+# not provide defaults for any of these tools; their paths must be specified
+# here, and we require absolute paths to make sure we use the correct tools.
+#
+# TROFF		/usr/local/bin/groff -Tps -mandoc -c
+# NROFF		/usr/local/bin/groff -Wall -mtty-char -Tascii -mandoc -c
+# EQN		/usr/local/bin/eqn -Tps
+# TBL		/usr/local/bin/tbl
+# REFER		/usr/local/bin/refer
+# PIC		/usr/local/bin/pic
+# VGRIND	
+#
+# The default MANPAGER is less(1), while the default WHATISPAGER for whatis and
+# apropos remains more(1) for historical compatibility.  This can either
+# be switched in the environment, or globally on a system by setting MANPAGER or
+# WHATISPAGER:
+#
+# MANPAGER	/usr/bin/less -s
+# WHATISPAGER	/usr/bin/more -E
+#
+# The output width can also be adjusted to either the literal value "tty" or a
+# fixed column size, like so:
+#
+# MANWIDTH	120
+#
+# MANWIDTH=tty is the default setting if run in a terminal, which will instruct
+# man(1) to detect the terminal size in columns and use that.
+#
+# Default manual sections (and order) to search if -S is not specified
+# and the MANSECT environment variable is not set.
+#
+MANSECT		1:1p:8:2:3:3p:4:5:6:7:9:0p:tcl:n:l:p:o
+#	$KAME: rtadvd.conf,v 1.13 2003/06/25 03:45:21 itojun Exp $
+#
+# Note: All of the following parameters have default values defined
+#       in specifications, and hence you usually do not have to set them
+#       by hand unless you need special non-default values.
+#
+#       You even do not need to create the configuration file.  rtadvd
+#       would usually work well without a configuration file.
+#       See also: rtadvd(8)
+
+# per-interface definitions.
+#   Mainly IPv6 prefixes are configured in this part.  However, rtadvd
+#   automatically learns appropriate prefixes from the kernel's routing
+#   table, and advertises the prefixes, so you don't have to configure
+#   this part, either.
+#   If you don't want the automatic advertisement, (uncomment and) configure
+#   this part by hand, and then invoke rtadvd with the -s option.
+ 
+#ef0:\
+#	:addr="3ffe:501:ffff:1000::":prefixlen#64:
+rmdir: exercises/20240827/blargh2: Directory not empty
+
